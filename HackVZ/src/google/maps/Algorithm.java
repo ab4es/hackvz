@@ -12,16 +12,10 @@ public class Algorithm {
 		Population newPopulation = new Population(pop.size(), false);
 
 		// Keep the best individual
+		int elitismOffset = 0;
 		if (elitism) {
 			newPopulation.saveTrip(0, pop.getFittest());
-		}
-
-		// Breeding population
-		int elitismOffset;
-		if (elitism) {
 			elitismOffset = 1;
-		} else {
-			elitismOffset = 0;
 		}
 
 		// Loop through the population and 'breed' trips

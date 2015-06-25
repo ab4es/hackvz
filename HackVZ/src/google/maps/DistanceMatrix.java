@@ -15,7 +15,7 @@ import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
 
 public class DistanceMatrix {
-	public static final String APIKey = "AIzaSyDCQZ7ucyN7vot5YmYl9_TwY0xrIXgVXUE";
+	public static final String APIKey = "AIzaSyCOUnvZXwXKQP1-b3cu-TU_RJFHjnb9vcU";
 
 	static String urlString = "";
 	static String json = "";
@@ -66,6 +66,8 @@ public class DistanceMatrix {
 		String distanceString = distance.get("text").getAsString();
 		// System.out.println(distanceString);
 		distanceString = distanceString.replaceAll(" mi", "");
+		distanceString = distanceString.replaceAll(" ft", "");
+		distanceString = distanceString.replaceAll(" in", "");
 		distanceString = distanceString.replaceAll(",", "");
 		return Double.parseDouble(distanceString);
 	}

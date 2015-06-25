@@ -5,20 +5,25 @@ import java.util.ArrayList;
 public class FitnessCalc {
 
 	// Calculate individuals fitness by comparing it to our candidate solution
-	static int getFitness(Trip trip) throws Exception {
-		int fitness = 0;
+	static double getFitness(Trip trip) throws Exception {
+		double fitness = 0;
 		double duration = 0;
 		int counter = 0;
+		double totalDistance = 0.0;
 		ArrayList<String> statesVisited = new ArrayList<String>();
 
 		while (duration < 224 && counter < trip.size() - 1) {
 			int location1Fitness = 0;
+			double travelDuration = 0;
 			Location location1 = trip.getLocation(counter);
 			Location location2 = trip.getLocation(counter + 1);
+
 			double distance = getDistance(location1, location2);
-			double travelDuration = calculateDuration(distance);
+			totalDistance += distance;
+			travelDuration = calculateDuration(distance);
 			if (duration + travelDuration > 224)
 				break;
+
 			duration += travelDuration;
 			// System.out.println("Duration: " + duration);
 
@@ -53,6 +58,11 @@ public class FitnessCalc {
 				// System.out.println(location1State + " added");
 			}
 
+			double distanceBoost = 7500 / totalDistance;
+			if (distanceBoost >= 15)
+				distanceBoost = 15;
+
+			fitness += distanceBoost;
 			fitness += location1Fitness;
 			counter++;
 		}

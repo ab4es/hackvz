@@ -12,7 +12,7 @@ public class Trip {
 	Location[] locations;
 	int endLocation;
 
-	int fitness = 0;
+	double fitness = 0.0;
 
 	public Trip() throws NumberFormatException, IOException {
 		CSV csv = new CSV();
@@ -40,7 +40,7 @@ public class Trip {
 	}
 
 	// Get the fitness of the Trip
-	public int getFitness() throws Exception {
+	public double getFitness() throws Exception {
 		if (fitness == 0) {
 			fitness = FitnessCalc.getFitness(this);
 		}
