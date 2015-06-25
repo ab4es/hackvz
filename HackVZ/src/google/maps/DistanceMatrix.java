@@ -10,7 +10,14 @@ import com.google.gson.JsonParser;
 
 public class DistanceMatrix {
 
-	private static String readUrl(String urlString) throws Exception {
+	static String urlString = "";
+	static String json = "";
+
+	public DistanceMatrix(String url) {
+		this.urlString = url;
+	}
+
+	static void readUrl() throws Exception {
 		BufferedReader reader = null;
 		try {
 			URL url = new URL(urlString);
@@ -21,11 +28,25 @@ public class DistanceMatrix {
 			while ((read = reader.read(chars)) != -1)
 				buffer.append(chars, 0, read);
 
-			return buffer.toString();
+			json = buffer.toString();
 		} finally {
 			if (reader != null)
 				reader.close();
 		}
+	}
+
+	public double getDistance() {
+		// Parse the JSON
+		JsonParser jsonParser = new JsonParser();
+		JsonObject distance = jsonParser.parse(json).getAsJsonObject()
+				.getAsJsonArray("rows").get(0).getAsJsonObject()
+				.getAsJsonArray("elements").get(0).getAsJsonObject()
+				.getAsJsonObject().getAsJsonObject("distance");
+		String distanceString = distance.get("text").getAsString();
+		// System.out.println(distanceString);
+		distanceString = distanceString.replaceAll(" mi", "");
+		distanceString = distanceString.replaceAll(",", "");
+		return Double.parseDouble(distanceString);
 	}
 
 	static class Page {
@@ -56,16 +77,6 @@ public class DistanceMatrix {
 	}
 
 	public static void main(String[] args) throws Exception {
-		DistanceMatrix distMat = new DistanceMatrix();
-		String json = distMat
-				.readUrl("https://maps.googleapis.com/maps/api/distancematrix/json?origins=Seattle&destinations=San+Francisco&language=en-EN&key=AIzaSyCaIReM8ShC5vxhKbL4ZdG8KoIoOeWDXlo");
-
-		JsonParser jsonParser = new JsonParser();
-		JsonObject distance = jsonParser.parse(json)
-				.getAsJsonObject().getAsJsonArray("rows").get(0)
-				.getAsJsonObject().getAsJsonArray("elements").get(0)
-				.getAsJsonObject().getAsJsonObject().getAsJsonObject("distance");
-		System.out.println(distance.get("text").getAsString());
-
+		
 	}
 }

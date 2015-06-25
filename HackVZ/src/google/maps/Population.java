@@ -16,7 +16,7 @@ public class Population {
 		trips = new Trip[populationSize];
 		// Initialize population
 		if (initialize) {
-			for (int i = 0; i < trips.length; i++) {
+			for (int i = 0; i < this.size(); i++) {
 				Trip temp = new Trip();
 				temp.shuffleTrip();
 				saveTrip(i, temp);
@@ -24,15 +24,14 @@ public class Population {
 		}
 	}
 	
-	public Trip getFittest() {
+	// Get the fittest trip
+	public Trip getFittest() throws Exception {
 		Trip fittest = trips[0];
-		
 		for (Trip t: trips) {
 			if (fittest.getFitness() <= t.getFitness()) {
 				fittest = t;
 			}
 		}
-		
 		return fittest;
 	}
 
@@ -46,6 +45,14 @@ public class Population {
 			System.out.println("==========================");
 			System.out.println();
 		}
+	}
+	
+	public int size() {
+		return trips.length;
+	}
+	
+	public Trip getTrip(int index) {
+		return trips[index];
 	}
 
 	public static void main(String[] args) throws NumberFormatException,

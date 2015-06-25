@@ -54,7 +54,6 @@ public class Algorithm {
 				newSol.setGene(i, indiv1.getGene(i));
 			} else {
 				newSol.setGene(i, indiv2.getGene(i));
-				;
 			}
 		}
 		return newSol;
