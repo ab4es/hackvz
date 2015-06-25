@@ -1,6 +1,8 @@
 package google.maps;
 
 import java.io.BufferedReader;
+import java.io.FileWriter;
+import java.io.IOException;
 import java.io.InputStreamReader;
 import java.net.URL;
 import java.util.List;
@@ -10,11 +12,30 @@ import com.google.gson.JsonParser;
 
 public class DistanceMatrix {
 
+	// public static final String APIKey =
+	// "AIzaSyCaIReM8ShC5vxhKbL4ZdG8KoIoOeWDXlo";
+
+	public static final String APIKey = "AIzaSyDkYvNNnW6zS3bk93XuCJHCcU9PLL_7FvA";
+
 	static String urlString = "";
 	static String json = "";
+	
+	Location location1;
+	Location location2;
 
-	public DistanceMatrix(String url) {
-		this.urlString = url;
+	public DistanceMatrix(Location loc1, Location loc2) {
+		location1 = loc1;
+		location2 = loc2;
+		this.urlString = "https://maps.googleapis.com/maps/api/distancematrix/json?origins="
+				+ location1.latitutde
+				+ ","
+				+ location1.longitude
+				+ "&destinations="
+				+ location2.latitutde
+				+ ","
+				+ location2.longitude
+				+ "&units=imperial&language=en-EN&key="
+				+ APIKey;
 	}
 
 	static void readUrl() throws Exception {
@@ -49,6 +70,21 @@ public class DistanceMatrix {
 		return Double.parseDouble(distanceString);
 	}
 
+	public boolean queryDataExists() {
+		boolean exists = false;
+		
+		return exists;
+	}
+	
+	public void saveQueryData() throws IOException {
+		FileWriter writer = new FileWriter("QueryData.txt");
+		writer.append(location1.name + ",");
+		writer.append(location2.name + ",");
+		writer.append(this.getDistance() + "\n");
+		writer.flush();
+		writer.close();
+	}
+	
 	static class Page {
 		List<String> destination_addresses;
 		List<String> origin_addresses;
@@ -77,6 +113,6 @@ public class DistanceMatrix {
 	}
 
 	public static void main(String[] args) throws Exception {
-		
+
 	}
 }

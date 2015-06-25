@@ -4,11 +4,6 @@ import java.util.ArrayList;
 
 public class FitnessCalc {
 
-	// public static final String APIKey =
-	// "AIzaSyCaIReM8ShC5vxhKbL4ZdG8KoIoOeWDXlo";
-
-	public static final String APIKey = "AIzaSyDkYvNNnW6zS3bk93XuCJHCcU9PLL_7FvA";
-
 	// Calculate individuals fitness by comparing it to our candidate solution
 	static int getFitness(Trip trip) throws Exception {
 		int fitness = 0;
@@ -84,20 +79,16 @@ public class FitnessCalc {
 			throws Exception {
 		double distance = 0;
 
-		String url = "https://maps.googleapis.com/maps/api/distancematrix/json?origins="
-				+ location1.latitutde
-				+ ","
-				+ location1.longitude
-				+ "&destinations="
-				+ location2.latitutde
-				+ ","
-				+ location2.longitude
-				+ "&units=imperial&language=en-EN&key="
-				+ APIKey;
-		DistanceMatrix matrix = new DistanceMatrix(url);
-		matrix.readUrl();
+		DistanceMatrix matrix = new DistanceMatrix(location1, location2);
+		if (!matrix.queryDataExists())
+			matrix.readUrl();
+		else {
+			matrix.saveQueryData();
+		}
+		
 		System.out.println("JSON: ");
 		System.out.println(matrix.json);
+		
 		distance = matrix.getDistance();
 
 		return distance;

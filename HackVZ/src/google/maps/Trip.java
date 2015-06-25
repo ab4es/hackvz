@@ -79,9 +79,10 @@ public class Trip {
 	}
 
 	public void toCSV() throws IOException {
-		FileWriter writer = new FileWriter("./src/Team32.csv");
+		FileWriter writer = new FileWriter("Team32.csv");
+		writer.append("Name,\n");
 		for (Location l: locations)
-			writer.append(l.name + ",");
+			writer.append(l.name + ",\n");
 		writer.flush();
 		writer.close();
 	}
