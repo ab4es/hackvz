@@ -80,16 +80,18 @@ public class FitnessCalc {
 		double distance = 0;
 
 		DistanceMatrix matrix = new DistanceMatrix(location1, location2);
-		if (!matrix.queryDataExists())
+
+		// If the query data doesn't exist, query the data and save it
+		if (!matrix.queryDataExists()) {
 			matrix.readUrl();
-		else {
 			matrix.saveQueryData();
+			distance = matrix.getDistance();
 		}
-		
-		System.out.println("JSON: ");
-		System.out.println(matrix.json);
-		
-		distance = matrix.getDistance();
+		// If the query data exists, read the query data, don't make a new query
+		else {
+			// System.out.println("pulling from data...");
+			distance = matrix.retreiveQueryData();
+		}
 
 		return distance;
 	}

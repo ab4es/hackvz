@@ -1,0 +1,2484 @@
+Gramercy Tavern,The Great Escape & Splashwater Kingdom,204.0
+The Great Escape & Splashwater Kingdom,Verizon 5165 Emerald Pkwy,623.0
+Verizon 5165 Emerald Pkwy,Holiday World & Splashin Safari,290.0
+Holiday World & Splashin Safari,Madison Square Garden,813.0
+Madison Square Garden,Verizon 1717 Arch ST,98.6
+Verizon 1717 Arch ST,Father's Office,2727.0
+Father's Office,Mountain Bike Hall of Fame,936.0
+Mountain Bike Hall of Fame,Colorado Sports Hall of Fame,220.0
+Colorado Sports Hall of Fame,Vetri,1728.0
+Vetri,Night + Market,2721.0
+Night + Market,Atlanta Braves Museum and Hall of Fame,2183.0
+Atlanta Braves Museum and Hall of Fame,National Mining Hall of Fame,1502.0
+Coi,E by Jose Andres,563.0
+E by Jose Andres,Verizon 6929 N Lakewood AVE,1231.0
+Verizon 6929 N Lakewood AVE,Verizon 3815 S Capital Of Texas Hwy,466.0
+Verizon 3815 S Capital Of Texas Hwy,Matt's Bar,1175.0
+Matt's Bar,Pok Pok,1732.0
+Pok Pok,Galatoire's,2557.0
+Galatoire's,NASA Headquarters,1086.0
+NASA Headquarters,Verizon 200 Ballardvale ST,450.0
+Verizon 200 Ballardvale ST,Bobcat Bite,2225.0
+Bobcat Bite,Sleep Train Arena,1148.0
+Sleep Train Arena,Goddard Wallops Flight Facility,2887.0
+NASA Exploration Center,Quince,38.2
+Quince,New England Patriots Hall of Fame,3098.0
+New England Patriots Hall of Fame,Michoud Assembly Facility,1509.0
+Michoud Assembly Facility,International Bluegrass Music Hall of Fame,657.0
+International Bluegrass Music Hall of Fame,Verizon 7600 Montpelier Rd,707.0
+Verizon 7600 Montpelier Rd,National Radio Hall of Fame,695.0
+National Radio Hall of Fame,Alder,793.0
+Alder,AT&T Center,1819.0
+AT&T Center,Staples Center,1359.0
+Staples Center,New York Mets Hall of Fame,2806.0
+New York Mets Hall of Fame,Girl & the Goat,803.0
+Alabama Music Hall of Fame,Husk,565.0
+Husk,International Tennis Hall of Fame,941.0
+International Tennis Hall of Fame,Verizon 7000 Central AVE SW,2183.0
+Verizon 7000 Central AVE SW,Verizon One Verizon Dr,883.0
+Verizon One Verizon Dr,Hominy Grill,820.0
+Hominy Grill,SeaWorld San Diego,2450.0
+SeaWorld San Diego,Sketch Burger,2700.0
+Sketch Burger,Verizon 180 Washington Valley Rd,65.1
+Verizon 180 Washington Valley Rd,America's Cup Hall of Fame,243.0
+America's Cup Hall of Fame,National Sprint Car Hall of Fame,1296.0
+National Sprint Car Hall of Fame,Indiana Basketball Hall of Fame,484.0
+Indiana Basketball Hall of Fame,Knoebels Amusement Resort,555.0
+Knoebels Amusement Resort,Frasca Food & Wine,1650.0
+Arkansas Sports Hall of Fame,Texas Sports Hall of Fame,413.0
+Texas Sports Hall of Fame,Off-Road Motorsports Hall of Fame,1692.0
+Off-Road Motorsports Hall of Fame,University of Miami Sports Hall of Fame,2980.0
+University of Miami Sports Hall of Fame,Michael's Genuine,11.3
+Michael's Genuine,Music City Walk of Fame,907.0
+Music City Walk of Fame,Alabama Music Hall of Fame,129.0
+Alabama Music Hall of Fame,Lucques,1946.0
+Lucques,Breitbard Hall of Fame,130.0
+Breitbard Hall of Fame,The Apollo Theatre Hall of Fame,2774.0
+The Apollo Theatre Hall of Fame,Kansas Sports Hall of Fame,1400.0
+Kansas Sports Hall of Fame,Verizon 385 Myles Standish Blvd,1631.0
+Six Flags New England,Volleyball Hall of Fame,14.6
+Volleyball Hall of Fame,Naismith Memorial Basketball Hall of Fame,8.9
+Naismith Memorial Basketball Hall of Fame,New England Patriots Hall of Fame,91.1
+New England Patriots Hall of Fame,O-Ya,26.8
+O-Ya,TD Garden,1.5
+TD Garden,Entrepreneur Walk of Fame,1.5
+Entrepreneur Walk of Fame,Mr. Bartley's Burger Cottage,3.4
+Mr. Bartley's Burger Cottage,Craigie on Main,1.3
+Craigie on Main,America's Cup Hall of Fame,66.2
+America's Cup Hall of Fame,International Tennis Hall of Fame,14.6
+International Tennis Hall of Fame,Fore Street,179.0
+Fore Street,Ted's Restaurant,218.0
+Ted's Restaurant,Louis? Lunch,22.3
+Louis? Lunch,White Manna Hamburgers,79.7
+White Manna Hamburgers,Aviation Hall of Fame and Museum of New Jersey,3.1
+Aviation Hall of Fame and Museum of New Jersey,Six Flags Great Adventure,72.4
+Six Flags Great Adventure,Madison Square Garden,70.9
+Madison Square Garden,Irish American Baseball Hall of Fame,0.8
+Irish American Baseball Hall of Fame,NoMad,0.4
+NoMad,wd~50,3.2
+wd~50,Gotham Bar & Grill,1.7
+Gotham Bar & Grill,Ippudo,0.5
+Ippudo,ABC Kitchen,0.8
+ABC Kitchen,Gramercy Tavern,0.5
+Gramercy Tavern,Alder,0.9
+Alder,Momofuku Ssam Bar,0.5
+Momofuku Ssam Bar,Momofuku Ko,0.5
+Momofuku Ko,Brindle Room,0.1
+Brindle Room,Eleven Madison Park,1.5
+Eleven Madison Park,Del Posto,1.6
+Del Posto,Blue Hill at Stone Barns,1.2
+Blue Hill at Stone Barns,Babbo Ristorante,0.6
+Babbo Ristorante,Il Buco Alimentari & Vineria,1.0
+Il Buco Alimentari & Vineria,Minetta Tavern,0.5
+Minetta Tavern,Nobu,1.6
+Nobu,Sushi Nakazawa,1.2
+Sushi Nakazawa,The Spotted Pig,0.5
+The Spotted Pig,Corner Bistro,0.3
+Corner Bistro,The Little Owl,0.2
+The Little Owl,Sushi Yasuda,2.7
+Sushi Yasuda,American Theater Hall of Fame,1.3
+American Theater Hall of Fame,Masa,0.6
+Masa,Le Bernardin,1.2
+Le Bernardin,Marea,0.7
+Marea,Betony,0.4
+Betony,Per Se,0.6
+Per Se,Jean Georges,0.2
+Jean Georges,Goddard Institute for Space Studies,3.0
+Goddard Institute for Space Studies,The Apollo Theatre Hall of Fame,1.3
+The Apollo Theatre Hall of Fame,Lexington Candy Shop,2.9
+Lexington Candy Shop,Daniel,1.4
+Daniel,Hall of Fame for Great Americans,9.4
+Hall of Fame for Great Americans,Bronx Walk of Fame,3.1
+Bronx Walk of Fame,Rye Playland,22.9
+Rye Playland,Blue Hill at Stone Barns,19.8
+Blue Hill at Stone Barns,Harness Racing Museum & Hall of Fame,44.5
+Harness Racing Museum & Hall of Fame,Chef's Table at Brooklyn Fare,70.4
+Chef's Table at Brooklyn Fare,Peter Luger,3.1
+Peter Luger,Al Di La,3.7
+Al Di La,Barclays Center,24.7
+Barclays Center,The Elm,19.6
+The Elm,New York Mets Hall of Fame,8.7
+New York Mets Hall of Fame,National Jewish Sports Hall of Fame and Museum,36.4
+National Jewish Sports Hall of Fame and Museum,Adventureland Amusement Park,11.7
+Adventureland Amusement Park,Splish Splash,42.6
+Splish Splash,The Great Escape & Splashwater Kingdom,266.0
+The Great Escape & Splashwater Kingdom,Magic Forest,3.3
+Magic Forest,National Museum of Dance and Hall of Fame,28.3
+National Museum of Dance and Hall of Fame,U.S. National Museum of Racing and Hall of Fame,1.6
+U.S. National Museum of Racing and Hall of Fame,International Boxing Hall of Fame,117.0
+International Boxing Hall of Fame,National Women's Hall of Fame,65.9
+National Women's Hall of Fame,National Baseball Hall of Fame and Museum,134.0
+National Baseball Hall of Fame and Museum,National Distance Running Hall of Fame,40.2
+National Distance Running Hall of Fame,National Soccer Hall of Fame,57.3
+National Soccer Hall of Fame,National Toy Hall of Fame,171.0
+National Toy Hall of Fame,Seabreeze Amusement Park,10.8
+Seabreeze Amusement Park,Kennywood,305.0
+Kennywood,Robot Hall of Fame,11.7
+Robot Hall of Fame,Vocal Group Hall of Fame,71.2
+Vocal Group Hall of Fame,City Grocery,790.0
+City Grocery,Dutch Wonderland,985.0
+Dutch Wonderland,Knoebels Amusement Resort,97.5
+Knoebels Amusement Resort,Dorney Park and Wildwater Kingdom,74.3
+Dorney Park and Wildwater Kingdom,Sesame Place,68.1
+Sesame Place,Zahav,26.5
+Zahav,Vetri,1.1
+Vetri,Sketch Burger,4.4
+Sketch Burger,Wisconsin Hockey Hall of Fame,1117.0
+Wisconsin Hockey Hall of Fame,Philadelphia Baseball Wall of Fame,1130.0
+Philadelphia Baseball Wall of Fame,U.S. National Ski Hall of Fame and Museum,1039.0
+U.S. National Ski Hall of Fame and Museum,USA Field Hockey Hall of Fame,1023.0
+Verizon 180 Washington Valley Rd,United Center,767.0
+United Center,National Sprint Car Hall of Fame,323.0
+Hall of Fame for Great Americans,Mississippi Sports Hall of Fame,1211.0
+Mississippi Sports Hall of Fame,Rye Playland,1231.0
+Louis? Lunch,Georgia Sports Hall of Fame,974.0
+Georgia Sports Hall of Fame,Aviation Hall of Fame and Museum of New Jersey,899.0
+National Distance Running Hall of Fame,The Vortex,977.0
+The Vortex,National Toy Hall of Fame,960.0
+Marea,St. Louis Cardinals Hall of Fame Museum,953.0
+St. Louis Cardinals Hall of Fame Museum,Per Se,955.0
+Vocal Group Hall of Fame,Hersheypark,264.0
+Hersheypark,Dutch Wonderland,32.4
+Dorney Park and Wildwater Kingdom,Verizon 3700 Arco Corporate Dr,562.0
+Verizon 3700 Arco Corporate Dr,Zahav,552.0
+Sketch Burger,Wells Fargo Center,7.9
+Wells Fargo Center,Philadelphia Baseball Wall of Fame,1.0
+Philadelphia Baseball Wall of Fame,Hardcore Hall of Fame,2.1
+Hardcore Hall of Fame,USA Field Hockey Hall of Fame,36.3
+USA Field Hockey Hall of Fame,Delaware Sports Museum and Hall of Fame,48.9
+Delaware Sports Museum and Hall of Fame,Zaytinya,107.0
+Zaytinya,Verizon Center,0.3
+Verizon Center,Minibar by Jose Andres,0.2
+Minibar by Jose Andres,Rasika,0.2
+Rasika,CityZen,1.2
+CityZen,Komi,2.4
+Komi,NASA Headquarters,3.1
+NASA Headquarters,Six Flags America,20.5
+Six Flags America,Goddard Space Flight Center,10.3
+Goddard Space Flight Center,Lacrosse Museum and National Hall of Fame,29.9
+Lacrosse Museum and National Hall of Fame,Ray?s to the Third,47.2
+Ray?s to the Third,Inn at Little Washington,66.0
+Inn at Little Washington,Kings Dominion,86.9
+Kings Dominion,Joe's Stone Crab,971.0
+Joe's Stone Crab,Water Country USA,989.0
+Sesame Place,Holeman & Finch Public House,805.0
+Holeman & Finch Public House,Vetri,778.0
+Water Country USA,Goddard Wallops Flight Facility,135.0
+Goddard Wallops Flight Facility,Langely Research Center,117.0
+Langely Research Center,Virginia Air & Space Center,9.6
+Virginia Air & Space Center,Virginia Sports Hall of Fame and Museum,18.3
+ABC Kitchen,The Varsity,872.0
+The Varsity,Alder,867.0
+Splish Splash,World Golf Hall of Fame,1047.0
+World Golf Hall of Fame,Magic Forest,1164.0
+National Baseball Hall of Fame and Museum,American Airlines Center,1599.0
+American Airlines Center,National Soccer Hall of Fame,1593.0
+Ted's Restaurant,Lotus of Siam,2613.0
+Lotus of Siam,White Manna Hamburgers,2523.0
+ABC Kitchen,Kansas Sports Hall of Fame,1390.0
+Kansas Sports Hall of Fame,Alder,1387.0
+Harness Racing Museum & Hall of Fame,Pro Football Hall of Fame,433.0
+Jean Georges,Verizon 4600 Innovation DR,1305.0
+Verizon 4600 Innovation DR,The Apollo Theatre Hall of Fame,1300.0
+New England Patriots Hall of Fame,University of Miami Sports Hall of Fame,1493.0
+University of Miami Sports Hall of Fame,TD Garden,1501.0
+The Elm,Kings Island Theme Park,639.0
+Kings Island Theme Park,National Jewish Sports Hall of Fame and Museum,665.0
+National Baseball Hall of Fame and Museum,Philips Arena,966.0
+Philips Arena,National Soccer Hall of Fame,940.0
+Le Bernardin,Verizon 6955 W Morelos PL,2412.0
+Verizon 6955 W Morelos PL,Betony,2414.0
+New England Patriots Hall of Fame,Vetri,301.0
+Vetri,TD Garden,310.0
+Del Posto,Kings Dominion,320.0
+Kings Dominion,Babbo Ristorante,316.0
+Il Buco Alimentari & Vineria,Husk,763.0
+Husk,Nobu,761.0
+Jean Georges,Verizon 111 Main St,25.4
+Verizon 111 Main St,The Apollo Theatre Hall of Fame,23.9
+Zahav,O-Ya,308.0
+O-Ya,Sketch Burger,306.0
+Inn at Little Washington,Blue Hill at Stone Barns,295.0
+Blue Hill at Stone Barns,Busch Gardens Williamsburg,388.0
+Busch Gardens Williamsburg,Water Country USA,3.4
+Entrepreneur Walk of Fame,Six Flags Over Georgia,1096.0
+Six Flags Over Georgia,Craigie on Main,1088.0
+Momofuku Ko,Ray?s to the Third,238.0
+Ray?s to the Third,Eleven Madison Park,233.0
+Lexington Candy Shop,Dick?s Drive-In,2864.0
+Dick?s Drive-In,Hall of Fame for Great Americans,2867.0
+New England Patriots Hall of Fame,International Tennis Hall of Fame,59.1
+International Tennis Hall of Fame,TD Garden,72.8
+America's Cup Hall of Fame,Vetri,293.0
+Vetri,Fore Street,408.0
+Sushi Yasuda,Knoebels Amusement Resort,161.0
+Knoebels Amusement Resort,Masa,161.0
+Dutch Wonderland,Mountain Bike Hall of Fame,1835.0
+Mountain Bike Hall of Fame,Dorney Park and Wildwater Kingdom,1872.0
+Babbo Ristorante,Verizon 1 Towne Sq,623.0
+Verizon 1 Towne Sq,Husk,847.0
+Daniel,Camp Wilderness Resort,646.0
+Camp Wilderness Resort,Bronx Walk of Fame,652.0
+Sketch Burger,Verizon 5000 Britton RD,485.0
+Verizon 5000 Britton RD,Philadelphia Baseball Wall of Fame,486.0
+Marea,Verizon 6415-6455 Business Center Dr,1802.0
+Verizon 6415-6455 Business Center Dr,Per Se,1800.0
+Splish Splash,Ohio State Varsity O Hall of Fame,632.0
+Ohio State Varsity O Hall of Fame,Magic Forest,628.0
+National Museum of Dance and Hall of Fame,Vocal Group Hall of Fame,455.0
+Vocal Group Hall of Fame,International Boxing Hall of Fame,341.0
+Louisiana Sports Hall of Fame,Verizon 385 Myles Standish Blvd,1622.0
+Verizon 385 Myles Standish Blvd,Six Flags America,425.0
+Six Flags America,Six Flags Over Texas,1368.0
+Six Flags Over Texas,NCAA Hall of Champions,916.0
+NCAA Hall of Champions,Naismith Memorial Basketball Hall of Fame,869.0
+Naismith Memorial Basketball Hall of Fame,Verizon 180 Washington Valley Rd,185.0
+Verizon 180 Washington Valley Rd,Verizon 2870 Zanker RD,2908.0
+Verizon 2870 Zanker RD,Verizon 15 Chestnut St,3088.0
+Verizon 15 Chestnut St,Zuni Cafe,3063.0
+Bar Tartine,TD Garden,3101.0
+TD Garden,Chef's Table at Brooklyn Fare,216.0
+Chef's Table at Brooklyn Fare,Verizon 700 Hidden Ridge,1569.0
+Verizon 700 Hidden Ridge,United Center,929.0
+United Center,Minnesota Walk of Fame,412.0
+Minnesota Walk of Fame,Six Flags Fiesta Texas,1252.0
+Six Flags Fiesta Texas,Winstead?s,812.0
+Winstead?s,Gramercy Tavern,1194.0
+Gramercy Tavern,New Orleans Saints Hall of Fame,1306.0
+New Orleans Saints Hall of Fame,Bay Area Sports Hall of Fame,2270.0
+Bay Area Sports Hall of Fame,Texas Aviation Hall of Fame,1977.0
+Colorado Sports Hall of Fame,Kings Dominion,1679.0
+Kings Dominion,International Bowling Hall of Fame,1303.0
+International Bowling Hall of Fame,Verizon One Verizon Dr,335.0
+Verizon One Verizon Dr,Naval Aviation Hall of Honor,506.0
+Naval Aviation Hall of Honor,Au Cheval,917.0
+Au Cheval,O-Ya,982.0
+O-Ya,Aviation Hall of Fame and Museum of New Jersey,213.0
+Aviation Hall of Fame and Museum of New Jersey,Verizon 385 Myles Standish Blvd,207.0
+Verizon 385 Myles Standish Blvd,The Elm,207.0
+The Elm,Gramercy Tavern,4.8
+Gramercy Tavern,Delaware Sports Museum and Hall of Fame,128.0
+Delaware Sports Museum and Hall of Fame,Verizon 60 Public SQ,131.0
+Verizon 60 Public SQ,National Museum of Dance and Hall of Fame,229.0
+National Museum of Dance and Hall of Fame,Sushi Yasuda,185.0
+Sushi Yasuda,Frasca Food & Wine,1797.0
+Frasca Food & Wine,Gotham Bar & Grill,1793.0
+Gotham Bar & Grill,Chez Panisse,2898.0
+National Collegiate Basketball Hall of Fame,Verizon 5444 Westheimer,748.0
+Verizon 5444 Westheimer,Verizon 600 Coolidge DR,1943.0
+Verizon 600 Coolidge DR,Osteria Mozza,398.0
+Osteria Mozza,Stennis Space Center,1924.0
+Stennis Space Center,Winstead?s,814.0
+Winstead?s,Chez Panisse,1802.0
+Chez Panisse,Joel Robuchon,557.0
+Joel Robuchon,Michael's Genuine,2524.0
+Michael's Genuine,Verizon 239 W Rte 59,1301.0
+Verizon 239 W Rte 59,Automotive Hall of Fame,618.0
+Automotive Hall of Fame,FedExForum,740.0
+FedExForum,Herbsaint,395.0
+Herbsaint,Verizon 500 Summit Lake Dr,1341.0
+Bern's Steak House,Perini Ranch Steakhouse,1301.0
+Perini Ranch Steakhouse,Canlis,1926.0
+Canlis,Sushi Yasuda,2864.0
+Sushi Yasuda,Six Flags Over Texas,1568.0
+Six Flags Over Texas,Michael Mina,1719.0
+Michael Mina,Six Flags America,2826.0
+Six Flags America,National Sprint Car Hall of Fame,1022.0
+National Sprint Car Hall of Fame,Disney California Adventure Park,1719.0
+Philadelphia Baseball Wall of Fame,Texas Sports Hall of Fame,1555.0
+Texas Sports Hall of Fame,National Softball Hall of Fame,290.0
+National Softball Hall of Fame,Zaytinya,1343.0
+Zaytinya,Verizon 600 Coolidge DR,2720.0
+Verizon 600 Coolidge DR,SeaWorld Orlando,2916.0
+SeaWorld Orlando,Arizona Aviation Hall of Fame,2019.0
+Arizona Aviation Hall of Fame,The Elm,2399.0
+The Elm,Mission Chinese Food,2913.0
+International Gymnastics Hall of Fame,Verizon 7400 World Communications Dr,456.0
+Verizon 7400 World Communications Dr,Cincinnati Reds Hall of Fame and Museum,724.0
+Cincinnati Reds Hall of Fame and Museum,North Carolina Sports Hall of Fame,516.0
+North Carolina Sports Hall of Fame,Frasca Food & Wine,1691.0
+Frasca Food & Wine,Ohio State Varsity O Hall of Fame,1280.0
+Ohio State Varsity O Hall of Fame,U.S. Astronaut Hall of Fame,955.0
+U.S. Astronaut Hall of Fame,Verizon 7701 E Telecom PKWY,117.0
+Verizon 7701 E Telecom PKWY,The Palace of Auburn Hills,1202.0
+The Palace of Auburn Hills,Missouri Sports Hall of Fame,791.0
+Missouri Sports Hall of Fame,Chez Panisse,1911.0
+Chez Panisse,Fearing's,1726.0
+Fearing's,Spiaggia,927.0
+Spiaggia,Minnesota Walk of Fame,409.0
+Minnesota Walk of Fame,Walt Disney World's Magic Kingdom,1574.0
+National Museum of Dance and Hall of Fame,The Little Owl,180.0
+The Little Owl,Frasca Food & Wine,1797.0
+Frasca Food & Wine,Amway Center,1858.0
+Amway Center,Chez Panisse,2882.0
+O-Ya,U.S. Hockey Hall of Fame,1506.0
+U.S. Hockey Hall of Fame,O-Ya,1513.0
+Chez Panisse,National Women's Hall of Fame,2750.0
+Mr. Bartley's Burger Cottage,Verizon 385 Myles Standish Blvd,41.9
+National Women's Hall of Fame,Motorcycle Hall of Fame,447.0
+Motorcycle Hall of Fame,Verizon 200 Ballardvale ST,756.0
+Verizon 200 Ballardvale ST,Verizon 100 Southgate Pkwy,258.0
+Verizon 100 Southgate Pkwy,Komi,227.0
+Komi,Blackbird,699.0
+Blackbird,The Barn at Blackberry Farm,572.0
+Osteria Mozza,Philips Arena,2180.0
+Philips Arena,Winstead?s,801.0
+Winstead?s,Underbelly,741.0
+Underbelly,Joel Robuchon,1470.0
+Momofuku Ssam Bar,Canlis,2856.0
+Canlis,Brindle Room,2862.0
+American Theater Hall of Fame,Verizon 15 Chestnut St,174.0
+Verizon 15 Chestnut St,Le Bernardin,175.0
+Sushi Nakazawa,The Publican,790.0
+The Publican,Corner Bistro,790.0
+National Baseball Hall of Fame and Museum,Rock and Roll Hall of Fame,420.0
+Rock and Roll Hall of Fame,National Soccer Hall of Fame,415.0
+Kings Dominion,Busch Gardens Williamsburg,72.8
+Virginia Sports Hall of Fame and Museum,Goddard IV and V Facility,417.0
+Goddard IV and V Facility,North Carolina Sports Hall of Fame,410.0
+North Carolina Sports Hall of Fame,NASCAR Hall of Fame,169.0
+Amway Center,Lacrosse Museum and National Hall of Fame,894.0
+Lacrosse Museum and National Hall of Fame,National Women's Hall of Fame,298.0
+Entrepreneur Walk of Fame,Nasa Dryden Flight Research Center,2929.0
+Nasa Dryden Flight Research Center,Craigie on Main,2923.0
+Rye Playland,Polka Hall of Fame,497.0
+Polka Hall of Fame,Harness Racing Museum & Hall of Fame,457.0
+Barclays Center,City Grocery,1100.0
+City Grocery,Utah Aviation Hall of Fame,1597.0
+Frasca Food & Wine,Six Flags Great Adventure,1804.0
+American Theater Hall of Fame,Guy Savoy,2530.0
+Guy Savoy,Le Bernardin,2528.0
+Irish American Baseball Hall of Fame,Girl & the Goat,792.0
+Girl & the Goat,Cochon,927.0
+Cochon,Gotham Bar & Grill,1307.0
+Il Buco Alimentari & Vineria,Camp Wilderness Resort,643.0
+Camp Wilderness Resort,Nobu,640.0
+Nobu,Topolobampo,791.0
+Topolobampo,The Spotted Pig,791.0
+Goddard Wallops Flight Facility,Texas Cowboy Hall of Fame,1485.0
+Blue Hill at Stone Barns,Topolobampo,791.0
+Topolobampo,Il Buco Alimentari & Vineria,791.0
+Knoebels Amusement Resort,Verizon 3700 Arco Corporate Dr,557.0
+Verizon 3700 Arco Corporate Dr,Sesame Place,578.0
+Philadelphia Baseball Wall of Fame,Verizon 201 Centennial AVE,73.9
+Verizon 201 Centennial AVE,USA Field Hockey Hall of Fame,91.3
+Entrepreneur Walk of Fame,U.S. Bicycling Hall of Fame,3030.0
+U.S. Bicycling Hall of Fame,Craigie on Main,3024.0
+International Tennis Hall of Fame,Oregon Sports Hall of Fame,3077.0
+Oregon Sports Hall of Fame,Ted's Restaurant,2987.0
+Green Bay Packers Hall of Fame,Volleyball Hall of Fame,1106.0
+Vocal Group Hall of Fame,Sketch Burger,372.0
+Sketch Burger,Dutch Wonderland,67.8
+Vetri,Hersheypark,95.4
+Hersheypark,Wells Fargo Center,99.2
+Corner Bistro,Dorney Park and Wildwater Kingdom,95.9
+Dorney Park and Wildwater Kingdom,Sushi Yasuda,96.4
+National Women's Hall of Fame,University of Miami Sports Hall of Fame,1397.0
+University of Miami Sports Hall of Fame,National Distance Running Hall of Fame,1444.0
+Knoebels Amusement Resort,The Little Owl,161.0
+The Little Owl,Sesame Place,75.4
+Virginia Sports Hall of Fame and Museum,Quince,2967.0
+Louis? Lunch,Verizon 50-60 Sylvan Rd,132.0
+Verizon 50-60 Sylvan Rd,Aviation Hall of Fame and Museum of New Jersey,206.0
+White Manna Hamburgers,Sushi Nakazawa,16.0
+Sushi Nakazawa,Six Flags Great Adventure,69.0
+NoMad,Verizon 3700 Arco Corporate Dr,646.0
+Verizon 3700 Arco Corporate Dr,Gotham Bar & Grill,641.0
+Nobu,Aviation Hall of Fame and Museum of New Jersey,15.1
+Aviation Hall of Fame and Museum of New Jersey,The Spotted Pig,13.5
+Knoebels Amusement Resort,wd~50,159.0
+wd~50,Sesame Place,78.4
+Ippudo,Verizon 3601 Converse DR,598.0
+Verizon 3601 Converse DR,Gramercy Tavern,599.0
+Gramercy Tavern,Florida Sports Hall of Fame,1126.0
+Florida Sports Hall of Fame,Momofuku Ssam Bar,1125.0
+Rye Playland,University of Miami Sports Hall of Fame,1319.0
+University of Miami Sports Hall of Fame,Harness Racing Museum & Hall of Fame,1342.0
+Dutch Wonderland,Verizon 300 Allegheny DR,259.0
+Verizon 300 Allegheny DR,Thurman Cafe,199.0
+Louis? Lunch,Missouri Sports Hall of Fame,1256.0
+Missouri Sports Hall of Fame,Aviation Hall of Fame and Museum of New Jersey,1175.0
+Vetri,World Figure Skating Hall of Fame,1715.0
+World Figure Skating Hall of Fame,Oregon Sports Hall of Fame,1317.0
+Oregon Sports Hall of Fame,Philadelphia Baseball Wall of Fame,2872.0
+International Tennis Hall of Fame,Yank Sing (Rincon Center),3083.0
+Yank Sing (Rincon Center),Ted's Restaurant,2992.0
+Le Bernardin,Time Warner Cable Arena,634.0
+Time Warner Cable Arena,Betony,632.0
+The Great Escape & Splashwater Kingdom,Topolobampo,836.0
+Topolobampo,National Museum of Dance and Hall of Fame,812.0
+Daniel,Verizon 2000 Corporate Dr,25.6
+Verizon 2000 Corporate Dr,Bronx Walk of Fame,21.4
+Delaware Sports Museum and Hall of Fame,Verizon 50-60 Sylvan Rd,332.0
+Verizon 50-60 Sylvan Rd,Verizon Center,430.0
+Rasika,Kansas Sports Hall of Fame,1257.0
+Kansas Sports Hall of Fame,Komi,1252.0
+Six Flags America,Sleep Train Arena,2741.0
+Le Bernardin,Verizon 100 Southgate Pkwy,38.5
+Verizon 100 Southgate Pkwy,Betony,36.8
+National Jewish Sports Hall of Fame and Museum,Fearing's,1597.0
+Fearing's,Splish Splash,1630.0
+Magic Forest,College Baseball Hall Of Fame,1889.0
+College Baseball Hall Of Fame,U.S. National Museum of Racing and Hall of Fame,1866.0
+Naismith Memorial Basketball Hall of Fame,Verizon 6955 W Morelos PL,2568.0
+Verizon 6955 W Morelos PL,O-Ya,2650.0
+Splish Splash,Verizon 500 2nd Ave SE,1097.0
+Verizon 500 2nd Ave SE,Magic Forest,1070.0
+Verizon Center,Texas Sports Hall of Fame,1423.0
+Texas Sports Hall of Fame,Rasika,1422.0
+Volleyball Hall of Fame,Missouri Sports Hall of Fame,1324.0
+Missouri Sports Hall of Fame,New England Patriots Hall of Fame,1408.0
+Madison Square Garden,Verizon 13100 Columbia Pike,217.0
+Verizon 13100 Columbia Pike,NoMad,217.0
+Sushi Yasuda,American Airlines Center,1553.0
+American Airlines Center,Verizon 50-60 Sylvan Rd,1763.0
+Verizon 50-60 Sylvan Rd,Le Bernardin,205.0
+Verizon 500 Clinton Center Dr,Verizon 15 Chestnut St,1389.0
+Verizon 15 Chestnut St,Quince,3061.0
+Quince,Verizon 5444 Westheimer,1922.0
+Verizon 5444 Westheimer,Disney California Adventure Park,1530.0
+Disney California Adventure Park,Osteria Mozza,33.4
+Osteria Mozza,Verizon 13100 Columbia Pike,2642.0
+Verizon 13100 Columbia Pike,August,1096.0
+August,Green Bay Packers Hall of Fame,1132.0
+Green Bay Packers Hall of Fame,U.S. National Ski Hall of Fame and Museum,168.0
+U.S. National Ski Hall of Fame and Museum,wd~50,1068.0
+Uchi,Bouchon Bistro,1785.0
+Bouchon Bistro,Verizon 22001 Loudoun County PKWY,2785.0
+Verizon 22001 Loudoun County PKWY,Adventure Island Water Park,914.0
+Adventure Island Water Park,National Museum of Dance and Hall of Fame,1300.0
+National Museum of Dance and Hall of Fame,Zahav,266.0
+Zahav,Topolobampo,763.0
+Topolobampo,Verizon 6929 N Lakewood AVE,687.0
+Verizon 6929 N Lakewood AVE,Verizon 777 Big Timber Rd,703.0
+Verizon 777 Big Timber Rd,Wells Fargo Center,807.0
+Wells Fargo Center,USA Field Hockey Hall of Fame,35.9
+USA Field Hockey Hall of Fame,Corner Bistro,109.0
+Corner Bistro,Verizon 600 Hidden Ridge,1564.0
+Verizon 600 Hidden Ridge,Colorado Aviation Hall of Fame,776.0
+Colorado Aviation Hall of Fame,Walt Disney World's Magic Kingdom,1843.0
+Kuma's Corner,Six Flags Magic Mountain,2024.0
+Six Flags Magic Mountain,The Cozy Inn,1453.0
+The Cozy Inn,Christian's Tailgate Bar & Grill,691.0
+Christian's Tailgate Bar & Grill,American Police Hall of Fame & Museum,1009.0
+American Police Hall of Fame & Museum,Nasa Ames Research Center,2900.0
+Nasa Ames Research Center,Verizon 10100 Sardis Crossing DR,2696.0
+Verizon 10100 Sardis Crossing DR,Verizon 199 Fulton Ave,664.0
+Verizon 199 Fulton Ave,American Airlines Arena,1305.0
+American Airlines Arena,Bacchanalia,666.0
+Bacchanalia,Verizon 7400 World Communications Dr,990.0
+Six Flags New England,New York Mets Hall of Fame,128.0
+New York Mets Hall of Fame,Knoebels Amusement Resort,172.0
+Knoebels Amusement Resort,Il Buco Alimentari & Vineria,158.0
+Il Buco Alimentari & Vineria,University of Iowa Athletics Hall of Fame,1001.0
+University of Iowa Athletics Hall of Fame,American TV Game Show Hall of Fame,1529.0
+American TV Game Show Hall of Fame,Matt's Bar,1658.0
+Matt's Bar,Per Se,1205.0
+Per Se,Kermit Blosser Ohio Athletics Hall of Fame,528.0
+Kermit Blosser Ohio Athletics Hall of Fame,Becks Prime,1198.0
+Becks Prime,International Swimming Hall of Fame,1170.0
+International Swimming Hall of Fame,Verizon 700 Hidden Ridge,1307.0
+Verizon 700 Hidden Ridge,Marea,1564.0
+Marea,EnergySolutions Arena,2177.0
+Babbo Ristorante,Herbsaint,1306.0
+Herbsaint,Hominy Grill,770.0
+Hominy Grill,Verizon 221 E 37Th St,763.0
+Verizon 221 E 37Th St,Verizon 2770 Shadelands DR,2894.0
+Verizon 2770 Shadelands DR,Universal Studios Hollywood,360.0
+Universal Studios Hollywood,Verizon 2000 Corporate Dr,2809.0
+Verizon 2000 Corporate Dr,Entrepreneur Walk of Fame,212.0
+Entrepreneur Walk of Fame,Verizon 2870 Zanker RD,3128.0
+Verizon 2870 Zanker RD,Verizon 2 S Biscayne Blvd #2800,3077.0
+Six Flags Fiesta Texas,Babbo Ristorante,1838.0
+Babbo Ristorante,Verizon 140 West St,1.8
+Verizon 140 West St,U.S. National Museum of Racing and Hall of Fame,185.0
+U.S. National Museum of Racing and Hall of Fame,ABC Kitchen,181.0
+ABC Kitchen,Verizon 500 Technology Dr,977.0
+Verizon 500 Technology Dr,Off-Road Motorsports Hall of Fame,1808.0
+Off-Road Motorsports Hall of Fame,Madison Square Garden,2691.0
+Madison Square Garden,Universal Studios Hollywood,2797.0
+Universal Studios Hollywood,Mississippi Sports Hall of Fame,1856.0
+Mississippi Sports Hall of Fame,Country Music Hall of Fame,411.0
+Country Music Hall of Fame,Chez Panisse,2298.0
+The Palace of Auburn Hills,Galatoire's,1096.0
+Galatoire's,Lotus of Siam,1723.0
+Lotus of Siam,Oracle Arena,550.0
+Oracle Arena,Kings Dominion,2883.0
+Kings Dominion,The Varsity,554.0
+The Varsity,Verizon 400 International Pkwy,786.0
+Verizon 400 International Pkwy,Billiard Congress of America Hall of Fame,810.0
+Billiard Congress of America Hall of Fame,Winstead?s,613.0
+Winstead?s,Verizon 500 2nd Ave SE,326.0
+Verizon 500 2nd Ave SE,U.S. National Museum of Racing and Hall of Fame,1046.0
+U.S. National Museum of Racing and Hall of Fame,Amway Center,1249.0
+Amway Center,World Chess Hall of Fame,998.0
+World Chess Hall of Fame,New England Patriots Hall of Fame,1196.0
+FIG,Bar Tartine,2780.0
+Bar Tartine,Catbird Seat,2304.0
+Catbird Seat,SeaWorld San Diego,2025.0
+SeaWorld San Diego,Florida Sports Hall of Fame,2443.0
+Florida Sports Hall of Fame,The Vortex,451.0
+The Vortex,Jim-Denny's,2471.0
+Jim-Denny's,Baco Mercat,386.0
+Baco Mercat,Verizon 2424 Garden Of The Gods RD,1080.0
+Verizon 2424 Garden Of The Gods RD,Virginia Air & Space Center,1731.0
+US Space Walk of Fame Museum,Goddard Wallops Flight Facility,848.0
+Goddard Wallops Flight Facility,NASA Headquarters,168.0
+NASA Headquarters,Pok Pok,2806.0
+Pok Pok,NASA Exploration Center,667.0
+NASA Exploration Center,Verizon 5055 N Point PKWY,2464.0
+Verizon 5055 N Point PKWY,U.S. Hockey Hall of Fame,1254.0
+U.S. Hockey Hall of Fame,National Toy Hall of Fame,1134.0
+National Toy Hall of Fame,Automotive Hall of Fame,339.0
+Automotive Hall of Fame,Burger & Beer Joint,1380.0
+Burger & Beer Joint,Verizon 3305 160th Ave SE,3288.0
+Minibar by Jose Andres,City Grocery,891.0
+City Grocery,NASCAR Hall of Fame,577.0
+NASCAR Hall of Fame,Verizon One Verizon Dr,759.0
+Verizon One Verizon Dr,Vetri,1148.0
+Vetri,Betony,99.7
+Betony,Verizon Center,228.0
+Verizon Center,National Inventors Hall of Fame,351.0
+National Inventors Hall of Fame,American Classical Music Hall of Fame and Museum,233.0
+American Classical Music Hall of Fame and Museum,Canlis,2330.0
+Canlis,Michael's Genuine,3297.0
+Michael's Genuine,Kansas Sports Hall of Fame,1617.0
+Kansas Sports Hall of Fame,SeaWorld San Diego,1365.0
+SeaWorld San Diego,Verizon 3305 160th Ave SE,1254.0
+Mr. Bartley's Burger Cottage,American Airlines Arena,1491.0
+American Airlines Arena,America's Cup Hall of Fame,1476.0
+Blue Hill at Stone Barns,Inn at Little Washington,325.0
+Inn at Little Washington,Chef's Table at Brooklyn Fare,296.0
+Al Di La,Hominy Grill,762.0
+Hominy Grill,The Elm,766.0
+National Museum of Dance and Hall of Fame,Gary Danko,2927.0
+Gary Danko,International Boxing Hall of Fame,2813.0
+Verizon 2400 N Glenville,Volleyball Hall of Fame,1705.0
+Blue Hill at Stone Barns,Night + Market,2801.0
+Night + Market,Il Buco Alimentari & Vineria,2800.0
+Daniel,Verizon 6955 W Morelos PL,2414.0
+Verizon 6955 W Morelos PL,Bronx Walk of Fame,2422.0
+Hersheypark,Verizon 22001 Loudoun County PKWY,122.0
+Verizon 22001 Loudoun County PKWY,Knoebels Amusement Resort,184.0
+NASA Headquarters,Discovery Cove,860.0
+Discovery Cove,Goddard Space Flight Center,879.0
+NASCAR Hall of Fame,Camp Wilderness Resort,12.8
+Camp Wilderness Resort,Time Warner Cable Arena,14.4
+Time Warner Cable Arena,Husk,209.0
+Aviation Hall of Fame and Museum of New Jersey,NoMad,12.8
+NoMad,Madison Square Garden,0.8
+Irish American Baseball Hall of Fame,Six Flags Great Adventure,71.1
+Six Flags Great Adventure,wd~50,70.4
+Betony,National Collegiate Basketball Hall of Fame,1194.0
+National Collegiate Basketball Hall of Fame,Jean Georges,1195.0
+Chef's Table at Brooklyn Fare,Bobcat Bite,1994.0
+Bobcat Bite,Al Di La,1994.0
+International Boxing Hall of Fame,Verizon 15 Chestnut St,250.0
+Verizon 15 Chestnut St,National Baseball Hall of Fame and Museum,201.0
+Mr. Bartley's Burger Cottage,Verizon 2424 Garden Of The Gods RD,2037.0
+Verizon 2424 Garden Of The Gods RD,America's Cup Hall of Fame,1982.0
+Madison Square Garden,National Soccer Hall of Fame,169.0
+National Soccer Hall of Fame,NoMad,169.0
+Corner Bistro,Philips Arena,872.0
+Philips Arena,Sushi Yasuda,870.0
+New York Mets Hall of Fame,Verizon 2770 Shadelands DR,2905.0
+Verizon 2770 Shadelands DR,Adventureland Amusement Park,2928.0
+Per Se,NASA Glenn Research Center,468.0
+NASA Glenn Research Center,Goddard Institute for Space Studies,470.0
+National Museum of Dance and Hall of Fame,Barclays Center,179.0
+Barclays Center,International Boxing Hall of Fame,264.0
+Dutch Wonderland,Fearing's,1423.0
+Fearing's,Dorney Park and Wildwater Kingdom,1457.0
+Minibar by Jose Andres,Verizon 2424 Garden Of The Gods RD,1646.0
+Six Flags New England,Verizon 8350 E Crescent PKWY,1905.0
+Verizon 8350 E Crescent PKWY,Naismith Memorial Basketball Hall of Fame,1899.0
+Eleven Madison Park,Verizon 133 Calkins Rd,334.0
+Verizon 133 Calkins Rd,Blue Hill at Stone Barns,332.0
+Babbo Ristorante,Bronx Walk of Fame,9.5
+Bronx Walk of Fame,Minetta Tavern,10.6
+Hall of Fame for Great Americans,Il Buco Alimentari & Vineria,13.6
+Il Buco Alimentari & Vineria,Rye Playland,29.0
+Dutch Wonderland,North Carolina Sports Hall of Fame,403.0
+North Carolina Sports Hall of Fame,Dorney Park and Wildwater Kingdom,469.0
+Kings Dominion,Verizon 5165 Emerald Pkwy,493.0
+Verizon 5165 Emerald Pkwy,Water Country USA,543.0
+Goddard IV and V Facility,Knoebels Amusement Resort,289.0
+Knoebels Amusement Resort,NASCAR Hall of Fame,550.0
+Betony,Herbsaint,1309.0
+Herbsaint,Jean Georges,1308.0
+Knoebels Amusement Resort,Six Flags Magic Mountain,2653.0
+Six Flags Magic Mountain,Sesame Place,2731.0
+International Boxing Hall of Fame,Bacchanalia,984.0
+Bacchanalia,National Baseball Hall of Fame and Museum,965.0
+Husk,FIG,0.7
+Harness Racing Museum & Hall of Fame,Virginia Air & Space Center,464.0
+Virginia Air & Space Center,Peter Luger,412.0
+National Museum of Dance and Hall of Fame,Motorcycle Hall of Fame,613.0
+Motorcycle Hall of Fame,International Boxing Hall of Fame,498.0
+Dutch Wonderland,Bobcat Bite,1846.0
+TD Garden,Kings Dominion,529.0
+Kings Dominion,Mr. Bartley's Burger Cottage,525.0
+Brindle Room,Knoebels Amusement Resort,159.0
+Knoebels Amusement Resort,Del Posto,160.0
+Blue Hill at Stone Barns,Verizon 30 Independence Blvd,35.8
+Verizon 30 Independence Blvd,Il Buco Alimentari & Vineria,36.8
+Dutch Wonderland,Eleven Madison Park,153.0
+Eleven Madison Park,Dorney Park and Wildwater Kingdom,95.8
+Inn at Little Washington,Entrepreneur Walk of Fame,510.0
+Entrepreneur Walk of Fame,Busch Gardens Williamsburg,602.0
+Animal,Volleyball Hall of Fame,2906.0
+Momofuku Ko,Oracle Arena,2920.0
+Oracle Arena,Eleven Madison Park,2909.0
+Del Posto,Sushi Yasuda,2.9
+Sushi Yasuda,Babbo Ristorante,2.3
+The Little Owl,Blue Hill at Stone Barns,0.5
+Blue Hill at Stone Barns,American Theater Hall of Fame,2.8
+Six Flags New England,Alabama Music Hall of Fame,1127.0
+Alabama Music Hall of Fame,Naismith Memorial Basketball Hall of Fame,1131.0
+Betony,Soak City Waterpark,1216.0
+Soak City Waterpark,Jean Georges,1221.0
+Fore Street,Verizon 900 Chelmsford St,100.0
+Verizon 900 Chelmsford St,Becks Prime,1851.0
+Becks Prime,White Manna Hamburgers,1638.0
+Masa,World Chess Hall of Fame,959.0
+World Chess Hall of Fame,Marea,960.0
+Goddard Wallops Flight Facility,United Center,859.0
+United Center,Virginia Air & Space Center,872.0
+The Little Owl,Verizon 6 Bowdoin Sq,217.0
+Verizon 6 Bowdoin Sq,American Theater Hall of Fame,216.0
+National Jewish Sports Hall of Fame and Museum,Cincinnati Reds Hall of Fame and Museum,688.0
+Cincinnati Reds Hall of Fame and Museum,Splish Splash,720.0
+Naismith Memorial Basketball Hall of Fame,Kings Dominion,456.0
+Kings Dominion,O-Ya,527.0
+Corner Bistro,Verizon 2424 Garden Of The Gods RD,1780.0
+Verizon 2424 Garden Of The Gods RD,Sushi Yasuda,1781.0
+Sushi Nakazawa,Matt's Bar,1197.0
+Matt's Bar,Corner Bistro,1203.0
+Dorney Park and Wildwater Kingdom,Soak City Waterpark,1151.0
+Soak City Waterpark,Zahav,1190.0
+Volleyball Hall of Fame,Hardcore Hall of Fame,245.0
+Hardcore Hall of Fame,New England Patriots Hall of Fame,302.0
+Madison Square Garden,Verizon 300 River Rock Blvd,889.0
+Verizon 300 River Rock Blvd,NoMad,889.0
+Hersheypark,U.S. National Ski Hall of Fame and Museum,945.0
+U.S. National Ski Hall of Fame and Museum,Knoebels Amusement Resort,924.0
+Philadelphia Baseball Wall of Fame,Naismith Memorial Basketball Hall of Fame,236.0
+Naismith Memorial Basketball Hall of Fame,USA Field Hockey Hall of Fame,255.0
+Zaytinya,The Barn at Blackberry Farm,502.0
+The Barn at Blackberry Farm,Minibar by Jose Andres,502.0
+Blue Hill at Stone Barns,The French Laundry,2889.0
+The French Laundry,Bronx Walk of Fame,2893.0
+Sushi Yasuda,Providence,2799.0
+Providence,Masa,2798.0
+Fore Street,Guy Savoy,2820.0
+Guy Savoy,Louis? Lunch,2604.0
+Nobu,The Spotted Pig,1.2
+The Spotted Pig,Sushi Nakazawa,0.5
+Sushi Nakazawa,Corner Bistro,0.6
+FIG,McCrady's,0.6
+McCrady's,Hominy Grill,2.0
+Hominy Grill,Six Flags Over Georgia,318.0
+Six Flags Over Georgia,Philips Arena,11.4
+Philips Arena,The Varsity,1.5
+The Varsity,Spiaggia,717.0
+Spiaggia,The Vortex,718.0
+Naismith Memorial Basketball Hall of Fame,Blue Hill at Stone Barns,116.0
+Blue Hill at Stone Barns,O-Ya,191.0
+America's Cup Hall of Fame,Holeman & Finch Public House,1063.0
+Holeman & Finch Public House,Fore Street,1177.0
+Gotham Bar & Grill,Pro Football Hall of Fame,444.0
+Pro Football Hall of Fame,ABC Kitchen,446.0
+Rye Playland,New England Patriots Hall of Fame,178.0
+New England Patriots Hall of Fame,Harness Racing Museum & Hall of Fame,216.0
+White Manna Hamburgers,Masa,15.2
+Masa,Six Flags Great Adventure,71.3
+Irish American Baseball Hall of Fame,Bronx Walk of Fame,8.2
+Bronx Walk of Fame,wd~50,10.7
+American Theater Hall of Fame,Aviation Hall of Fame and Museum of New Jersey,16.0
+Aviation Hall of Fame and Museum of New Jersey,Le Bernardin,12.9
+Hall of Fame for Great Americans,NoMad,12.4
+NoMad,Rye Playland,28.6
+National Baseball Hall of Fame and Museum,Target Center,1172.0
+Target Center,National Soccer Hall of Fame,1173.0
+The Apollo Theatre Hall of Fame,Fearing's,1560.0
+Fearing's,Daniel,1553.0
+Knoebels Amusement Resort,NASA Johnson Space Center,1528.0
+NASA Johnson Space Center,Sesame Place,1577.0
+Mr. Bartley's Burger Cottage,NoMad,210.0
+NoMad,America's Cup Hall of Fame,194.0
+Ippudo,Spiaggia,793.0
+Spiaggia,Gramercy Tavern,795.0
+Brindle Room,Verizon 700 Hidden Ridge,1563.0
+Verizon 700 Hidden Ridge,Del Posto,1562.0
+Hall of Fame for Great Americans,Craigie on Main,200.0
+Craigie on Main,Rye Playland,184.0
+Knoebels Amusement Resort,FIG,718.0
+FIG,Sesame Place,698.0
+National Museum of Dance and Hall of Fame,Volleyball Hall of Fame,117.0
+Madison Square Garden,Six Flags Magic Mountain,2798.0
+Six Flags Magic Mountain,NoMad,2798.0
+The Spotted Pig,North Carolina Sports Hall of Fame,510.0
+North Carolina Sports Hall of Fame,The Little Owl,508.0
+Daniel,Six Flags Discovery Kingdom,2885.0
+Six Flags Discovery Kingdom,Bronx Walk of Fame,2881.0
+Aviation Hall of Fame and Museum of New Jersey,Corner Bistro,13.2
+Corner Bistro,Madison Square Garden,1.0
+Irish American Baseball Hall of Fame,NASA Johnson Space Center,1627.0
+NASA Johnson Space Center,wd~50,1627.0
+Ippudo,Verizon 300 John Q Hammons Pkwy,1166.0
+Verizon 300 John Q Hammons Pkwy,Gramercy Tavern,1167.0
+The Spotted Pig,Six Flags Great Adventure,71.9
+Six Flags Great Adventure,The Little Owl,69.7
+Bronx Walk of Fame,International Gymnastics Hall of Fame,1453.0
+International Gymnastics Hall of Fame,Blue Hill at Stone Barns,1475.0
+National Jewish Sports Hall of Fame and Museum,USA Field Hockey Hall of Fame,164.0
+USA Field Hockey Hall of Fame,Splish Splash,190.0
+Hardcore Hall of Fame,Adventureland Amusement Park,135.0
+Adventureland Amusement Park,Delaware Sports Museum and Hall of Fame,162.0
+Water Country USA,Six Flags Fiesta Texas,1578.0
+Six Flags Fiesta Texas,Langely Research Center,1607.0
+Zaytinya,Verizon 13100 Columbia Pike,27.2
+Verizon 13100 Columbia Pike,Minibar by Jose Andres,26.5
+Virginia Sports Hall of Fame and Museum,Verizon 5055 N Point PKWY,549.0
+Verizon 5055 N Point PKWY,North Carolina Sports Hall of Fame,390.0
+The Varsity,Holeman & Finch Public House,3.8
+Holeman & Finch Public House,The Vortex,2.8
+The Vortex,College Football Hall of Fame,1.8
+College Football Hall of Fame,Atlanta Braves Museum and Hall of Fame,4.1
+Atlanta Braves Museum and Hall of Fame,Bacchanalia,6.0
+Bacchanalia,Georgia Sports Hall of Fame,88.7
+Georgia Sports Hall of Fame,Wild Adventures Theme Park,156.0
+Wild Adventures Theme Park,World Golf Hall of Fame,145.0
+Masa,Goddard Space Flight Center,218.0
+Goddard Space Flight Center,Marea,215.0
+Kennywood,U.S. National Ski Hall of Fame and Museum,747.0
+U.S. National Ski Hall of Fame and Museum,Vocal Group Hall of Fame,689.0
+Six Flags America,Le Bernardin,221.0
+Le Bernardin,Lacrosse Museum and National Hall of Fame,191.0
+Fore Street,Fearing's,1867.0
+Fearing's,Louis? Lunch,1636.0
+Sushi Nakazawa,Komi,226.0
+Komi,Corner Bistro,226.0
+National Distance Running Hall of Fame,Verizon 99 Shawan Rd,333.0
+Verizon 99 Shawan Rd,National Toy Hall of Fame,324.0
+CityZen,The Spotted Pig,227.0
+The Spotted Pig,NASA Headquarters,230.0
+Irish American Baseball Hall of Fame,Spago,2806.0
+Spago,wd~50,2803.0
+Blue Hill at Stone Barns,Verizon 6360 Thompson Rd,252.0
+Verizon 6360 Thompson Rd,Il Buco Alimentari & Vineria,252.0
+Masa,The Cozy Inn,1367.0
+The Cozy Inn,Marea,1368.0
+Sketch Burger,American Police Hall of Fame & Museum,993.0
+American Police Hall of Fame & Museum,Philadelphia Baseball Wall of Fame,986.0
+Louis? Lunch,World Figure Skating Hall of Fame,1868.0
+World Figure Skating Hall of Fame,Six Flags Over Texas,714.0
+Six Flags Over Texas,Six Flags Great Adventure,1528.0
+Lexington Candy Shop,Aquatica SeaWorld's Waterpark,1096.0
+Aquatica SeaWorld's Waterpark,Hall of Fame for Great Americans,1100.0
+The Elm,Wisconsin Golf Hall of Fame,890.0
+Wisconsin Golf Hall of Fame,National Jewish Sports Hall of Fame and Museum,927.0
+Babbo Ristorante,U.S. Bicycling Hall of Fame,2835.0
+U.S. Bicycling Hall of Fame,Minetta Tavern,2834.0
+Daniel,Frasca Food & Wine,1803.0
+Frasca Food & Wine,Bronx Walk of Fame,1798.0
+New England Patriots Hall of Fame,Kermit Blosser Ohio Athletics Hall of Fame,737.0
+Kermit Blosser Ohio Athletics Hall of Fame,TD Garden,747.0
+Minetta Tavern,Lexington Candy Shop,4.6
+Lexington Candy Shop,Sushi Nakazawa,5.9
+The Apollo Theatre Hall of Fame,Nobu,8.6
+Nobu,Daniel,5.3
+Goddard Wallops Flight Facility,Verizon 500 Summit Lake Dr,302.0
+Verizon 500 Summit Lake Dr,Virginia Air & Space Center,442.0
+Virginia Air & Space Center,Girl & the Goat,870.0
+Girl & the Goat,Goddard IV and V Facility,548.0
+Craigie on Main,BMO Harris Bradley Center,1071.0
+BMO Harris Bradley Center,International Tennis Hall of Fame,1059.0
+Louis? Lunch,Aquatica SeaWorld's Waterpark,1170.0
+Aquatica SeaWorld's Waterpark,Aviation Hall of Fame and Museum of New Jersey,1094.0
+Minetta Tavern,Verizon 199 Fulton Ave,27.9
+Verizon 199 Fulton Ave,Sushi Nakazawa,27.8
+U.S. National Museum of Racing and Hall of Fame,Perini Ranch Steakhouse,1822.0
+Perini Ranch Steakhouse,National Women's Hall of Fame,1656.0
+National Baseball Hall of Fame and Museum,National Polish-American Sports Hall of Fame,491.0
+National Polish-American Sports Hall of Fame,National Soccer Hall of Fame,488.0
+Georgia Sports Hall of Fame,Volleyball Hall of Fame,1042.0
+Volleyball Hall of Fame,Verizon 2200 W Airfield Dr Dock E,1723.0
+Verizon 2200 W Airfield Dr Dock E,New England Patriots Hall of Fame,1781.0
+Brindle Room,American Quarter Horse Hall of Fame,1705.0
+American Quarter Horse Hall of Fame,Del Posto,1708.0
+The Publican,Circus Hall of Fame,148.0
+Circus Hall of Fame,Verizon 500 Clinton Center Dr,759.0
+Verizon 500 Clinton Center Dr,International Space Hall of Fame,973.0
+International Space Hall of Fame,Joel Robuchon,710.0
+Joel Robuchon,Disney California Adventure Park,263.0
+Disney California Adventure Park,Florida Sports Hall of Fame,2507.0
+The Vortex,Minnesota Walk of Fame,1128.0
+Minnesota Walk of Fame,Bouchon Bistro,1968.0
+Bouchon Bistro,Frasca Food & Wine,1242.0
+Frasca Food & Wine,Green Bay Packers Hall of Fame,1124.0
+Green Bay Packers Hall of Fame,FedExForum,740.0
+FedExForum,Kermit Blosser Ohio Athletics Hall of Fame,632.0
+Kermit Blosser Ohio Athletics Hall of Fame,Six Flags Magic Mountain,2324.0
+U.S. Business Hall of Fame,Il Buco Alimentari & Vineria,782.0
+Il Buco Alimentari & Vineria,The Cozy Inn,1365.0
+The Cozy Inn,Goddard Space Flight Center,1232.0
+Goddard Space Flight Center,Verizon 5165 Emerald Pkwy,419.0
+Verizon 5165 Emerald Pkwy,Quicken Loans Arena,143.0
+Quicken Loans Arena,Hall of Fame for Great Americans,468.0
+Hall of Fame for Great Americans,Kansas Sports Hall of Fame,1400.0
+Kansas Sports Hall of Fame,Minetta Tavern,1386.0
+Minetta Tavern,Bronx Walk of Fame,9.7
+Bronx Walk of Fame,Animal,2804.0
+Animal,National Women's Hall of Fame,2651.0
+National Women's Hall of Fame,Six Flags Great America,688.0
+Six Flags Great America,Palm Springs Walk of Stars,2050.0
+NASA Exploration Center,Ippudo,2939.0
+Ippudo,College Baseball Hall Of Fame,1795.0
+College Baseball Hall Of Fame,Alabama Jazz Hall of Fame,982.0
+Alabama Jazz Hall of Fame,Verizon 201 Spear St,2325.0
+Verizon 201 Spear St,Chesapeake Energy Arena,1625.0
+Chesapeake Energy Arena,Hugo's Regional Mexican Cuisine,448.0
+Hugo's Regional Mexican Cuisine,U.S. Hockey Hall of Fame,1370.0
+U.S. Hockey Hall of Fame,Verizon 6360 Thompson Rd,1210.0
+Verizon 6360 Thompson Rd,Gotham Bar & Grill,252.0
+Gotham Bar & Grill,Utah Aviation Hall of Fame,2165.0
+American Airlines Center,Dutch Wonderland,1424.0
+Dutch Wonderland,Verizon 3815 S Capital Of Texas Hwy,1621.0
+Verizon 3815 S Capital Of Texas Hwy,Knott's Berry Farm,1362.0
+Knott's Berry Farm,Verizon 6415-6455 Business Center Dr,1027.0
+Verizon 6415-6455 Business Center Dr,Ohio State Varsity O Hall of Fame,1265.0
+Ohio State Varsity O Hall of Fame,Verizon 700 Hidden Ridge,1057.0
+Verizon 700 Hidden Ridge,Verizon 20 Alexander DR,1662.0
+Verizon 20 Alexander DR,Louis? Lunch,18.9
+Louis? Lunch,Adventureland Amusement Park,93.7
+Adventureland Amusement Park,Verizon 2535 W Hillcrest Dr,2867.0
+Verizon 2535 W Hillcrest Dr,Target Center,1965.0
+St. Louis Wrestling Hall of Fame,Michael Mina,2054.0
+Michael Mina,Palm Springs Walk of Stars,486.0
+Palm Springs Walk of Stars,National Mining Hall of Fame,910.0
+National Mining Hall of Fame,Verizon 700 Hidden Ridge,787.0
+Verizon 700 Hidden Ridge,Animal,1444.0
+Animal,Automotive Hall of Fame,2282.0
+Automotive Hall of Fame,SeaWorld San Diego,2336.0
+SeaWorld San Diego,Matt's Bar,1986.0
+Matt's Bar,Verizon 3815 S Capital Of Texas Hwy,1174.0
+Verizon 3815 S Capital Of Texas Hwy,Hominy Grill,1256.0
+Missouri Sports Hall of Fame,Per Se,1172.0
+Per Se,Herbsaint,1308.0
+Herbsaint,Water Country USA,1047.0
+Water Country USA,Rockabilly Hall of Fame,794.0
+Rockabilly Hall of Fame,Verizon 505 Highway 169 N,820.0
+Verizon 505 Highway 169 N,National Toy Hall of Fame,1024.0
+National Toy Hall of Fame,Goddard White Sands Test Facility,1969.0
+Goddard White Sands Test Facility,U.S. Business Hall of Fame,1459.0
+U.S. Business Hall of Fame,Verizon 3700 Arco Corporate Dr,758.0
+Verizon 3700 Arco Corporate Dr,New Orleans Saints Hall of Fame,712.0
+New Orleans Saints Hall of Fame,CityZen,1086.0
+CityZen,Minibar by Jose Andres,1.2
+Minibar by Jose Andres,Discovery Cove,860.0
+Discovery Cove,Sketch Burger,1005.0
+Au Cheval,Verizon 8 Neshaminy Interplex,767.0
+Verizon 8 Neshaminy Interplex,Rock and Roll Hall of Fame,442.0
+Rock and Roll Hall of Fame,Verizon 701 Brookfield PKWY,607.0
+Verizon 701 Brookfield PKWY,U.S. Astronaut Hall of Fame,522.0
+U.S. Astronaut Hall of Fame,Verizon 5055 N Point PKWY,507.0
+Verizon 5055 N Point PKWY,Verizon 2400 N Glenville,810.0
+Verizon 2400 N Glenville,U.S. Business Hall of Fame,913.0
+U.S. Business Hall of Fame,International Bluegrass Music Hall of Fame,317.0
+International Bluegrass Music Hall of Fame,Lacrosse Museum and National Hall of Fame,720.0
+Lacrosse Museum and National Hall of Fame,The Apollo Theatre Hall of Fame,201.0
+The Apollo Theatre Hall of Fame,Verizon 10100 Sardis Crossing DR,654.0
+Verizon 10100 Sardis Crossing DR,The Little Owl,641.0
+The Little Owl,Georgia Sports Hall of Fame,898.0
+Georgia Sports Hall of Fame,Jean Georges,897.0
+Jean Georges,Peter Luger,7.5
+Peter Luger,Verizon 600 Hidden Ridge,1571.0
+Verizon 600 Hidden Ridge,Delaware Sports Museum and Hall of Fame,1449.0
+Delaware Sports Museum and Hall of Fame,Verizon 600 Coolidge DR,2772.0
+McCrady's,Peter Luger,764.0
+Peter Luger,Philadelphia Baseball Wall of Fame,102.0
+Philadelphia Baseball Wall of Fame,Mr. Bartley's Burger Cottage,306.0
+Mr. Bartley's Burger Cottage,Indianapolis Motor Speedway Hall of Fame Museum,950.0
+Indianapolis Motor Speedway Hall of Fame Museum,Verizon 777 Big Timber Rd,221.0
+Verizon 777 Big Timber Rd,American TV Game Show Hall of Fame,1721.0
+American TV Game Show Hall of Fame,Breitbard Hall of Fame,330.0
+Breitbard Hall of Fame,Verizon 180 Washington Valley Rd,2726.0
+Verizon 180 Washington Valley Rd,Verizon 5055 N Point PKWY,830.0
+Verizon 5055 N Point PKWY,Le Bernardin,855.0
+Le Bernardin,Providence,2799.0
+Providence,Verizon 15 Chestnut St,2951.0
+Spago,Verizon 2400 N Glenville,1461.0
+Verizon 2400 N Glenville,Cincinnati Reds Hall of Fame and Museum,935.0
+Cincinnati Reds Hall of Fame and Museum,Hollywood Walk of Fame,2194.0
+Hollywood Walk of Fame,Six Flags Great America,2048.0
+Six Flags Great America,USA Field Hockey Hall of Fame,791.0
+USA Field Hockey Hall of Fame,National Mining Hall of Fame,1804.0
+National Mining Hall of Fame,U.S. National Museum of Racing and Hall of Fame,1899.0
+U.S. National Museum of Racing and Hall of Fame,Verizon 60 Public SQ,230.0
+Verizon 60 Public SQ,Verizon Center,223.0
+Verizon Center,Verizon 385 Myles Standish Blvd,434.0
+Verizon 385 Myles Standish Blvd,Naismith Memorial Basketball Hall of Fame,97.2
+Naismith Memorial Basketball Hall of Fame,Verizon 2535 W Hillcrest Dr,2941.0
+Amway Center,Lotus of Siam,2301.0
+Lotus of Siam,Hall of Flame,302.0
+Hall of Flame,Legoland California,384.0
+Legoland California,Indianapolis Motor Speedway Hall of Fame Museum,2077.0
+Indianapolis Motor Speedway Hall of Fame Museum,Verizon 30 Independence Blvd,679.0
+Verizon 30 Independence Blvd,U.S. Astronaut Hall of Fame,1070.0
+U.S. Astronaut Hall of Fame,Ray?s to the Third,847.0
+Ray?s to the Third,Gotham Bar & Grill,231.0
+Pro Football Hall of Fame,Michael Mina,2501.0
+Michael Mina,FedExForum,2091.0
+FedExForum,Joe's Stone Crab,1046.0
+National Museum of Dance and Hall of Fame,The Cozy Inn,1432.0
+The Cozy Inn,International Boxing Hall of Fame,1318.0
+Robot Hall of Fame,SeaWorld San Diego,2415.0
+SeaWorld San Diego,Hersheypark,2608.0
+Per Se,Bacchanalia,871.0
+Bacchanalia,Goddard Institute for Space Studies,872.0
+Peter Luger,City Grocery,1121.0
+City Grocery,Barclays Center,1101.0
+Nobu,St. Louis Cardinals Hall of Fame Museum,950.0
+St. Louis Cardinals Hall of Fame Museum,The Spotted Pig,952.0
+Hardcore Hall of Fame,U.S. Hockey Hall of Fame,1288.0
+U.S. Hockey Hall of Fame,Delaware Sports Museum and Hall of Fame,1283.0
+Delaware Sports Museum and Hall of Fame,Girl & the Goat,753.0
+Girl & the Goat,Verizon Center,704.0
+Louis? Lunch,The Spotted Pig,81.0
+The Spotted Pig,Aviation Hall of Fame and Museum of New Jersey,14.0
+Sushi Nakazawa,White Manna Hamburgers,16.4
+White Manna Hamburgers,Corner Bistro,15.5
+Rye Playland,Six Flags Fiesta Texas,1864.0
+Six Flags Fiesta Texas,Harness Racing Museum & Hall of Fame,1867.0
+International Boxing Hall of Fame,Edzo?s Burger Shop,709.0
+Edzo?s Burger Shop,National Baseball Hall of Fame and Museum,778.0
+Disney California Adventure Park,Bouchon Bistro,437.0
+Bouchon Bistro,The Vortex,2504.0
+Betony,Verizon 500 Clinton Center Dr,1210.0
+Verizon 500 Clinton Center Dr,Jean Georges,1210.0
+Harness Racing Museum & Hall of Fame,Verizon 2424 Garden Of The Gods RD,1791.0
+Verizon 2424 Garden Of The Gods RD,Peter Luger,1781.0
+Seabreeze Amusement Park,Green Bay Packers Hall of Fame,819.0
+Green Bay Packers Hall of Fame,Robot Hall of Fame,669.0
+wd~50,Sushi Nakazawa,2.0
+Sushi Nakazawa,Ippudo,1.2
+Nobu,Gotham Bar & Grill,1.7
+Gotham Bar & Grill,Green Bay Packers Hall of Fame,997.0
+Green Bay Packers Hall of Fame,Corner Bistro,997.0
+American Theater Hall of Fame,Verizon 3601 Converse DR,599.0
+Verizon 3601 Converse DR,Le Bernardin,598.0
+National Soccer Hall of Fame,August,1366.0
+August,Seabreeze Amusement Park,1315.0
+Verizon 5165 Emerald Pkwy,Ray?s to the Third,416.0
+Atlanta Braves Museum and Hall of Fame,Jean Georges,872.0
+Lucques,Volleyball Hall of Fame,2907.0
+Brindle Room,Matt's Bar,1198.0
+Matt's Bar,Del Posto,1205.0
+Seabreeze Amusement Park,Commander's Palace,1317.0
+Commander's Palace,Robot Hall of Fame,1093.0
+Mr. Bartley's Burger Cottage,Marshall Space Flight Center,1137.0
+Marshall Space Flight Center,America's Cup Hall of Fame,1124.0
+Irish American Baseball Hall of Fame,Thurman Cafe,539.0
+Thurman Cafe,wd~50,539.0
+The Spotted Pig,Blue Hill at Stone Barns,0.7
+Blue Hill at Stone Barns,The Little Owl,0.7
+The Little Owl,Burger & Beer Joint,1286.0
+Burger & Beer Joint,American Theater Hall of Fame,1284.0
+American Theater Hall of Fame,Smoothie King Center,1307.0
+Smoothie King Center,Le Bernardin,1309.0
+Jean Georges,Hall of Fame for Great Americans,9.3
+Hall of Fame for Great Americans,The Apollo Theatre Hall of Fame,5.3
+Daniel,Goddard Institute for Space Studies,3.6
+Goddard Institute for Space Studies,Bronx Walk of Fame,3.7
+Bronx Walk of Fame,Verizon 5444 Westheimer,1646.0
+Verizon 5444 Westheimer,Blue Hill at Stone Barns,1669.0
+National Museum of Dance and Hall of Fame,Busch Gardens Tampa,1299.0
+Busch Gardens Tampa,International Boxing Hall of Fame,1286.0
+National Baseball Hall of Fame and Museum,Missouri Sports Hall of Fame,1191.0
+Gotham Bar & Grill,Alabama Jazz Hall of Fame,964.0
+Alabama Jazz Hall of Fame,ABC Kitchen,964.0
+Peter Luger,Vetri,101.0
+Vetri,Barclays Center,88.2
+Seabreeze Amusement Park,Verizon 201 Spear St,2727.0
+Verizon 201 Spear St,Robot Hall of Fame,2576.0
+International Boxing Hall of Fame,NCAA Hall of Champions,663.0
+NCAA Hall of Champions,National Baseball Hall of Fame and Museum,732.0
+Seabreeze Amusement Park,Verizon 7600 Montpelier Rd,360.0
+Verizon 7600 Montpelier Rd,Robot Hall of Fame,241.0
+Time Warner Cable Arena,Verizon 300 Allegheny DR,460.0
+Verizon 300 Allegheny DR,FIG,666.0
+Madison Square Garden,Motorcycle Hall of Fame,525.0
+Motorcycle Hall of Fame,NoMad,527.0
+The Spotted Pig,Michael's Genuine,1283.0
+Michael's Genuine,The Little Owl,1279.0
+Al Di La,Holiday World & Splashin Safari,828.0
+Holiday World & Splashin Safari,The Elm,816.0
+National Baseball Hall of Fame and Museum,Verizon 6400 Weston Pkwy,642.0
+Verizon 6400 Weston Pkwy,National Soccer Hall of Fame,616.0
+Madison Square Garden,Zuni Cafe,2909.0
+Zuni Cafe,NoMad,2909.0
+Jean Georges,Verizon 3011 Hungary Spring Rd,338.0
+Verizon 3011 Hungary Spring Rd,The Apollo Theatre Hall of Fame,346.0
+Mr. Bartley's Burger Cottage,Oracle Arena,3097.0
+Oracle Arena,America's Cup Hall of Fame,3101.0
+Louis? Lunch,Target Center,1275.0
+Target Center,Aviation Hall of Fame and Museum of New Jersey,1199.0
+Aviation Hall of Fame and Museum of New Jersey,Utah Aviation Hall of Fame,2160.0
+Utah Aviation Hall of Fame,Madison Square Garden,2165.0
+Splish Splash,Verizon 100 Ne Loop 410,1906.0
+Verizon 100 Ne Loop 410,Magic Forest,1937.0
+Goddard Institute for Space Studies,U.S. Hockey Hall of Fame,1320.0
+U.S. Hockey Hall of Fame,Lexington Candy Shop,1329.0
+Kuma's Corner,Volleyball Hall of Fame,903.0
+National Soccer Hall of Fame,Kansas Sports Hall of Fame,1406.0
+Kansas Sports Hall of Fame,Seabreeze Amusement Park,1255.0
+Gotham Bar & Grill,National Italian American Sports Hall of Fame,790.0
+National Italian American Sports Hall of Fame,ABC Kitchen,792.0
+Sushi Yasuda,Palm Springs Walk of Stars,2701.0
+Palm Springs Walk of Stars,Masa,2702.0
+White Manna Hamburgers,Verizon 500 Clinton Center Dr,1214.0
+Verizon 500 Clinton Center Dr,Six Flags Great Adventure,1171.0
+Gotham Bar & Grill,Next,791.0
+Next,ABC Kitchen,793.0
+Chef's Table at Brooklyn Fare,Verizon 12802 Tampa Oaks BLVD,1126.0
+Verizon 12802 Tampa Oaks BLVD,Al Di La,1124.0
+Madison Square Garden,International Motorsports Hall of Fame,943.0
+International Motorsports Hall of Fame,American Police Hall of Fame & Museum,581.0
+American Police Hall of Fame & Museum,wd~50,1079.0
+Gramercy Tavern,Verizon 300 River Rock Blvd,888.0
+Verizon 300 River Rock Blvd,Momofuku Ssam Bar,889.0
+Momofuku Ko,Marea,3.7
+Marea,Eleven Madison Park,2.4
+Sushi Nakazawa,Six Flags Discovery Kingdom,2875.0
+Six Flags Discovery Kingdom,Corner Bistro,2876.0
+Harness Racing Museum & Hall of Fame,The Walrus and the Carpenter,2847.0
+The Walrus and the Carpenter,Peter Luger,2865.0
+Colorado Aviation Hall of Fame,Volleyball Hall of Fame,1891.0
+Hersheypark,Minnesota Walk of Fame,1077.0
+Minnesota Walk of Fame,Knoebels Amusement Resort,1059.0
+Momofuku Ssam Bar,USA Field Hockey Hall of Fame,117.0
+USA Field Hockey Hall of Fame,Brindle Room,110.0
+Hardcore Hall of Fame,Momofuku Ko,98.9
+Momofuku Ko,Delaware Sports Museum and Hall of Fame,131.0
+Georgia Sports Hall of Fame,Verizon 7000 Central AVE SW,1478.0
+ABC Kitchen,Bankers Life Fieldhouse,710.0
+Bankers Life Fieldhouse,Alder,712.0
+National Museum of Dance and Hall of Fame,Joel Robuchon,2549.0
+Joel Robuchon,International Boxing Hall of Fame,2433.0
+Alder,Verizon 8350 E Crescent PKWY,1789.0
+Verizon 8350 E Crescent PKWY,Momofuku Ko,1788.0
+Del Posto,Verizon 5444 Westheimer,1639.0
+Verizon 5444 Westheimer,Babbo Ristorante,1637.0
+Babbo Ristorante,Oregon Sports Hall of Fame,2900.0
+Oregon Sports Hall of Fame,Minetta Tavern,2899.0
+NoMad,Chesapeake Energy Arena,1452.0
+Chesapeake Energy Arena,Gotham Bar & Grill,1451.0
+Blue Hill at Stone Barns,Toyota Center,1659.0
+Toyota Center,Chef's Table at Brooklyn Fare,1631.0
+Sushi Yasuda,National Collegiate Basketball Hall of Fame,1194.0
+National Collegiate Basketball Hall of Fame,Masa,1195.0
+Bronx Walk of Fame,Country Music Hall of Fame,894.0
+Country Music Hall of Fame,Blue Hill at Stone Barns,916.0
+White Manna Hamburgers,National Museum of Dance and Hall of Fame,167.0
+National Museum of Dance and Hall of Fame,Polka Hall of Fame,455.0
+Polka Hall of Fame,Madison Square Garden,467.0
+The Spotted Pig,Blackbird,793.0
+Blackbird,The Little Owl,793.0
+National Jewish Sports Hall of Fame and Museum,Dick?s Drive-In,2899.0
+Dick?s Drive-In,Splish Splash,2937.0
+Magic Forest,Aviation Hall of Fame and Museum of New Jersey,193.0
+Aviation Hall of Fame and Museum of New Jersey,U.S. National Museum of Racing and Hall of Fame,170.0
+Alder,National Museum of Dance and Hall of Fame,182.0
+National Museum of Dance and Hall of Fame,Momofuku Ko,186.0
+Magic Forest,Momofuku Ssam Bar,213.0
+Momofuku Ssam Bar,U.S. National Museum of Racing and Hall of Fame,184.0
+Robot Hall of Fame,National Agricultural Center and Hall of Fame,860.0
+National Agricultural Center and Hall of Fame,Hersheypark,1053.0
+The Apollo Theatre Hall of Fame,Six Flags New England,132.0
+Six Flags New England,Daniel,133.0
+National Soccer Hall of Fame,Verizon 100 Ne Loop 410,1861.0
+Verizon 100 Ne Loop 410,Seabreeze Amusement Park,1712.0
+O-Ya,Perini Ranch Steakhouse,1962.0
+Perini Ranch Steakhouse,Entrepreneur Walk of Fame,1966.0
+America's Cup Hall of Fame,Verizon 3305 160th Ave SE,3036.0
+Verizon 3305 160th Ave SE,Fore Street,3141.0
+Six Flags Great Adventure,Verizon 7000 Central AVE SW,1972.0
+Verizon 7000 Central AVE SW,Irish American Baseball Hall of Fame,2001.0
+Sushi Nakazawa,Michigan Sports Hall of Fame,615.0
+Michigan Sports Hall of Fame,Corner Bistro,614.0
+U.S. National Museum of Racing and Hall of Fame,Camp Wilderness Resort,811.0
+Camp Wilderness Resort,National Women's Hall of Fame,708.0
+Seabreeze Amusement Park,Verizon 100 Ne Loop 410,1713.0
+Verizon 100 Ne Loop 410,Robot Hall of Fame,1489.0
+Blue Hill at Stone Barns,Next,790.0
+Next,Il Buco Alimentari & Vineria,791.0
+Minetta Tavern,The Apollo Theatre Hall of Fame,8.2
+The Apollo Theatre Hall of Fame,Sushi Nakazawa,7.9
+Goddard Institute for Space Studies,Nobu,7.7
+Nobu,Lexington Candy Shop,9.1
+U.S. National Museum of Racing and Hall of Fame,University of Iowa Athletics Hall of Fame,1023.0
+University of Iowa Athletics Hall of Fame,National Women's Hall of Fame,852.0
+Seabreeze Amusement Park,Utah Aviation Hall of Fame,1986.0
+Utah Aviation Hall of Fame,Robot Hall of Fame,1835.0
+Six Flags Great Adventure,Ray?s to the Third,190.0
+Ray?s to the Third,Irish American Baseball Hall of Fame,233.0
+Al Di La,Verizon 5000 Britton RD,565.0
+Verizon 5000 Britton RD,The Elm,553.0
+NoMad,Verizon 300 John Q Hammons Pkwy,1168.0
+Verizon 300 John Q Hammons Pkwy,Gotham Bar & Grill,1167.0
+Minetta Tavern,Michael's Genuine,1280.0
+Michael's Genuine,Sushi Nakazawa,1279.0
+Per Se,Wisconsin Golf Hall of Fame,886.0
+Wisconsin Golf Hall of Fame,Goddard Institute for Space Studies,890.0
+Topolobampo,Chef's Table at Brooklyn Fare,793.0
+Babbo Ristorante,Disney California Adventure Park,2790.0
+Disney California Adventure Park,Minetta Tavern,2787.0
+O-Ya,Florida Sports Hall of Fame,1335.0
+Florida Sports Hall of Fame,Entrepreneur Walk of Fame,1339.0
+Irish American Baseball Hall of Fame,Hall of Flame,2402.0
+Hall of Flame,wd~50,2402.0
+The Apollo Theatre Hall of Fame,The Publican,795.0
+The Publican,Daniel,794.0
+Babbo Ristorante,National Softball Hall of Fame,1442.0
+National Softball Hall of Fame,Minetta Tavern,1443.0
+Masa,Vocal Group Hall of Fame,386.0
+Vocal Group Hall of Fame,Marea,386.0
+Jean Georges,Next,799.0
+Next,Universal Studios Orlando,1157.0
+Universal Studios Orlando,Lexington Candy Shop,1091.0
+Robot Hall of Fame,Le Bernardin,375.0
+Babbo Ristorante,The Little Owl,0.4
+The Little Owl,Minetta Tavern,0.6
+Corner Bistro,Il Buco Alimentari & Vineria,1.6
+Il Buco Alimentari & Vineria,Sushi Yasuda,2.5
+Peter Luger,Bobcat Bite,1997.0
+Bobcat Bite,Barclays Center,1966.0
+Lacrosse Museum and National Hall of Fame,Verizon One Verizon WAY,186.0
+Verizon One Verizon WAY,Inn at Little Washington,296.0
+North Carolina Sports Hall of Fame,International Bluegrass Music Hall of Fame,632.0
+International Bluegrass Music Hall of Fame,Camp Wilderness Resort,507.0
+Ippudo,Ray?s to the Third,233.0
+Ray?s to the Third,Gramercy Tavern,233.0
+The Apollo Theatre Hall of Fame,National Collegiate Basketball Hall of Fame,1202.0
+National Collegiate Basketball Hall of Fame,Daniel,1196.0
+Hersheypark,ProRodeo Hall of Fame,1619.0
+ProRodeo Hall of Fame,Knoebels Amusement Resort,1657.0
+Mr. Bartley's Burger Cottage,The Publican,980.0
+The Publican,America's Cup Hall of Fame,984.0
+Brindle Room,Soak City Waterpark,1214.0
+Soak City Waterpark,Del Posto,1221.0
+Chef's Table at Brooklyn Fare,Verizon 900 Chelmsford St,217.0
+Verizon 900 Chelmsford St,Al Di La,218.0
+National Distance Running Hall of Fame,Verizon Center,388.0
+Verizon Center,National Toy Hall of Fame,383.0
+Naismith Memorial Basketball Hall of Fame,Alder,138.0
+Alder,O-Ya,211.0
+Louis? Lunch,National Wrestling Hall of Fame,1500.0
+National Wrestling Hall of Fame,Aviation Hall of Fame and Museum of New Jersey,1423.0
+Gramercy Tavern,New England Patriots Hall of Fame,203.0
+New England Patriots Hall of Fame,Momofuku Ssam Bar,203.0
+The Spotted Pig,Magic Forest,207.0
+Magic Forest,The Little Owl,207.0
+Peter Luger,Verizon 5444 Westheimer,1646.0
+Verizon 5444 Westheimer,Barclays Center,1626.0
+The Elm,Verizon 700 Hidden Ridge,1573.0
+Verizon 700 Hidden Ridge,National Jewish Sports Hall of Fame and Museum,1611.0
+New England Patriots Hall of Fame,Verizon 6415-6455 Business Center Dr,1991.0
+Verizon 6415-6455 Business Center Dr,TD Garden,1991.0
+Kansas Sports Hall of Fame,Daniel,1389.0
+Sushi Yasuda,Nobu,6.9
+Minetta Tavern,American Theater Hall of Fame,2.7
+Sesame Place,Polka Hall of Fame,448.0
+Polka Hall of Fame,Vetri,435.0
+Hardcore Hall of Fame,Naval Aviation Hall of Honor,1108.0
+Naval Aviation Hall of Honor,Delaware Sports Museum and Hall of Fame,1079.0
+Rasika,National Aviation Hall of Fame,471.0
+National Aviation Hall of Fame,Komi,469.0
+Blue Hill at Stone Barns,Verizon 3700 Arco Corporate Dr,674.0
+Verizon 3700 Arco Corporate Dr,Chef's Table at Brooklyn Fare,642.0
+Hominy Grill,Six Flags St. Louis,889.0
+Six Flags St. Louis,Philips Arena,583.0
+Momofuku Ssam Bar,Next,791.0
+Next,Brindle Room,791.0
+Louis? Lunch,Guy Savoy,2605.0
+Guy Savoy,Aviation Hall of Fame and Museum of New Jersey,2522.0
+ABC Kitchen,National Collegiate Basketball Hall of Fame,1192.0
+National Collegiate Basketball Hall of Fame,Alder,1193.0
+Minetta Tavern,Bay Area Sports Hall of Fame,2906.0
+Bay Area Sports Hall of Fame,Sushi Nakazawa,2905.0
+ABC Kitchen,Pok Pok,2898.0
+Pok Pok,Alder,2896.0
+Magic Forest,The Palace of Auburn Hills,571.0
+The Palace of Auburn Hills,U.S. National Museum of Racing and Hall of Fame,549.0
+Six Flags Great Adventure,American Quarter Horse Hall of Fame,1680.0
+American Quarter Horse Hall of Fame,Irish American Baseball Hall of Fame,1709.0
+Chef's Table at Brooklyn Fare,Verizon 200 Ballardvale ST,227.0
+Verizon 200 Ballardvale ST,Al Di La,228.0
+The Elm,Verizon 7701 E Telecom PKWY,1131.0
+Verizon 7701 E Telecom PKWY,National Jewish Sports Hall of Fame and Museum,1173.0
+National Jewish Sports Hall of Fame and Museum,Kansas City Royals Hall of Fame,1233.0
+Kansas City Royals Hall of Fame,Splish Splash,1266.0
+Zahav,Verizon 22001 Loudoun County PKWY,163.0
+Verizon 22001 Loudoun County PKWY,Sketch Burger,167.0
+Bronx Walk of Fame,Verizon 5055 N Point PKWY,865.0
+Verizon 5055 N Point PKWY,Blue Hill at Stone Barns,883.0
+The Great Escape & Splashwater Kingdom,McCrady's,956.0
+McCrady's,National Museum of Dance and Hall of Fame,933.0
+Herbsaint,Volleyball Hall of Fame,1460.0
+America's Cup Hall of Fame,New Orleans Saints Hall of Fame,1508.0
+New Orleans Saints Hall of Fame,Fore Street,1623.0
+Betony,Verizon 239 W Rte 59,31.0
+Verizon 239 W Rte 59,Jean Georges,30.7
+Brindle Room,Jim-Denny's,2821.0
+Jim-Denny's,Del Posto,2822.0
+Le Bernardin,Hardcore Hall of Fame,100.0
+Hardcore Hall of Fame,Betony,101.0
+Dutch Wonderland,Verizon 701 Brookfield PKWY,610.0
+TD Garden,Verizon 5444 Westheimer,1855.0
+Verizon 5444 Westheimer,Nashville Songwriters Foundation,788.0
+Nashville Songwriters Foundation,Craigie on Main,1101.0
+New England Patriots Hall of Fame,Spiaggia,984.0
+Spiaggia,TD Garden,986.0
+TD Garden,Spago,2997.0
+Spago,Mr. Bartley's Burger Cottage,2992.0
+White Manna Hamburgers,Mississippi Sports Hall of Fame,1207.0
+Mississippi Sports Hall of Fame,Six Flags Great Adventure,1165.0
+Six Flags Great Adventure,U.S. National Museum of Racing and Hall of Fame,243.0
+U.S. National Museum of Racing and Hall of Fame,Pro Football Hall of Fame,510.0
+Pro Football Hall of Fame,NoMad,445.0
+Minetta Tavern,Solly's Grille,885.0
+National Museum of Dance and Hall of Fame,Pepsi Center,1799.0
+Pepsi Center,International Boxing Hall of Fame,1683.0
+Momofuku Ssam Bar,Christian's Tailgate Bar & Grill,1630.0
+Christian's Tailgate Bar & Grill,Brindle Room,1633.0
+Rye Playland,USA Field Hockey Hall of Fame,145.0
+USA Field Hockey Hall of Fame,Harness Racing Museum & Hall of Fame,153.0
+Six Flags Great Adventure,The Vortex,826.0
+The Vortex,Irish American Baseball Hall of Fame,868.0
+Irish American Baseball Hall of Fame,Herbsaint,1308.0
+Herbsaint,wd~50,1307.0
+Splish Splash,Time Warner Cable Arena,711.0
+Time Warner Cable Arena,Magic Forest,825.0
+Entrepreneur Walk of Fame,Verizon 700 Hidden Ridge,1783.0
+Verizon 700 Hidden Ridge,Craigie on Main,1778.0
+Alder,Bacchanalia,870.0
+Bacchanalia,Momofuku Ko,868.0
+Sushi Nakazawa,Verizon 50-60 Sylvan Rd,208.0
+Verizon 50-60 Sylvan Rd,Corner Bistro,206.0
+World Golf Hall of Fame,American Police Hall of Fame & Museum,115.0
+Il Buco Alimentari & Vineria,National Cowboy Hall of Fame,1442.0
+National Cowboy Hall of Fame,Nobu,1442.0
+The Apollo Theatre Hall of Fame,The Vortex,879.0
+The Vortex,Daniel,869.0
+Barclays Center,Universal Studios Hollywood,2786.0
+Universal Studios Hollywood,New York Mets Hall of Fame,2808.0
+Ted's Restaurant,Perini Ranch Steakhouse,1847.0
+Perini Ranch Steakhouse,White Manna Hamburgers,1750.0
+Nobu,New Orleans Saints Hall of Fame,1304.0
+New Orleans Saints Hall of Fame,The Spotted Pig,1305.0
+Le Bernardin,Manresa,2948.0
+Manresa,Betony,2948.0
+White Manna Hamburgers,Verizon 111 Main St,33.5
+Verizon 111 Main St,Six Flags Great Adventure,98.3
+Momofuku Ko,Verizon 600 Hidden Ridge,1562.0
+Verizon 600 Hidden Ridge,Becks Prime,250.0
+Becks Prime,Del Posto,1633.0
+American Theater Hall of Fame,International Gymnastics Hall of Fame,1445.0
+International Gymnastics Hall of Fame,Le Bernardin,1446.0
+Seabreeze Amusement Park,Texas Sports Hall of Fame,1539.0
+Fearing's,Volleyball Hall of Fame,1704.0
+Marea,Galatoire's,1307.0
+Galatoire's,Per Se,1307.0
+Peter Luger,Six Flags Over Texas,1575.0
+Six Flags Over Texas,Barclays Center,1554.0
+The Spotted Pig,Chesapeake Energy Arena,1450.0
+Chesapeake Energy Arena,The Little Owl,1451.0
+Craigie on Main,Gott's Roadside,3096.0
+Gott's Roadside,International Tennis Hall of Fame,3083.0
+wd~50,NASA Exploration Center,2951.0
+Mr. Bartley's Burger Cottage,Verizon 111 Main St,186.0
+Verizon 111 Main St,America's Cup Hall of Fame,172.0
+Il Buco Alimentari & Vineria,Guy Savoy,2528.0
+Guy Savoy,Osteria Mozza,271.0
+Osteria Mozza,Sushi Nakazawa,2796.0
+Verizon 900 Chelmsford St,Louis? Lunch,139.0
+The Apollo Theatre Hall of Fame,National Radio Hall of Fame,796.0
+National Radio Hall of Fame,Daniel,795.0
+Chef's Table at Brooklyn Fare,Barclays Center,13.1
+Barclays Center,Al Di La,19.3
+Al Di La,Peter Luger,3.9
+Peter Luger,The Elm,1.1
+International Boxing Hall of Fame,International Motorsports Hall of Fame,1046.0
+International Motorsports Hall of Fame,National Baseball Hall of Fame and Museum,1026.0
+National Baseball Hall of Fame and Museum,Atlanta Braves Museum and Hall of Fame,968.0
+Del Posto,Bronx Walk of Fame,9.3
+Bronx Walk of Fame,Babbo Ristorante,10.5
+Per Se,Solly's Grille,887.0
+Solly's Grille,Goddard Institute for Space Studies,890.0
+Hall of Fame for Great Americans,Blue Hill at Stone Barns,13.1
+Blue Hill at Stone Barns,Rye Playland,29.4
+Hersheypark,Verizon 15 Chestnut St,345.0
+Verizon 15 Chestnut St,Knoebels Amusement Resort,322.0
+Volleyball Hall of Fame,Verizon Center,373.0
+Verizon Center,New England Patriots Hall of Fame,431.0
+Sushi Yasuda,Momofuku Ko,2.0
+Momofuku Ko,Masa,3.8
+Hardcore Hall of Fame,American Theater Hall of Fame,100.0
+American Theater Hall of Fame,Delaware Sports Museum and Hall of Fame,127.0
+Zaytinya,Naismith Memorial Basketball Hall of Fame,366.0
+Naismith Memorial Basketball Hall of Fame,Minibar by Jose Andres,367.0
+Water Country USA,Mississippi Musicians Hall of Fame,954.0
+Mississippi Musicians Hall of Fame,Langely Research Center,972.0
+Ted's Restaurant,Verizon 7400 World Communications Dr,1333.0
+Verizon 7400 World Communications Dr,White Manna Hamburgers,1243.0
+Rasika,Komi,1.9
+Komi,CityZen,2.4
+CityZen,NASA Headquarters,0.9
+Madison Square Garden,Verizon 5444 Westheimer,1638.0
+Verizon 5444 Westheimer,NoMad,1639.0
+Splish Splash,Hominy Grill,842.0
+Hominy Grill,Magic Forest,958.0
+Goddard Wallops Flight Facility,University of Miami Sports Hall of Fame,1065.0
+University of Miami Sports Hall of Fame,Virginia Air & Space Center,978.0
+Six Flags Great Adventure,Verizon 239 W Rte 59,91.8
+Verizon 239 W Rte 59,Irish American Baseball Hall of Fame,32.9
+Irish American Baseball Hall of Fame,Green Bay Packers Hall of Fame,999.0
+Green Bay Packers Hall of Fame,wd~50,998.0
+Gramercy Tavern,Rock and Roll Hall of Fame,468.0
+Rock and Roll Hall of Fame,Momofuku Ssam Bar,469.0
+Eleven Madison Park,Solly's Grille,887.0
+Solly's Grille,Blue Hill at Stone Barns,884.0
+Babbo Ristorante,Verizon 6929 N Lakewood AVE,1341.0
+Verizon 6929 N Lakewood AVE,Minetta Tavern,1343.0
+Verizon 10100 Sardis Crossing DR,Zaytinya,411.0
+Zaytinya,Breitbard Hall of Fame,2688.0
+Breitbard Hall of Fame,National Baseball Hall of Fame and Museum,2826.0
+National Baseball Hall of Fame and Museum,Verizon 2401 Mall DR,893.0
+Verizon 2401 Mall DR,Verizon 5165 Emerald Pkwy,644.0
+Verizon 5165 Emerald Pkwy,Betony,566.0
+Betony,Verizon 180 Washington Valley Rd,43.4
+Verizon 180 Washington Valley Rd,Langely Research Center,396.0
+Langely Research Center,National Radio Hall of Fame,865.0
+National Radio Hall of Fame,Rasika,706.0
+Rasika,Verizon 1515 E Woodfield Rd,733.0
+Verizon 1515 E Woodfield Rd,Komi,731.0
+Komi,Verizon 500 Clinton Center Dr,988.0
+Verizon 500 Clinton Center Dr,Inn at Little Washington,911.0
+Inn at Little Washington,The Elm,300.0
+NASA Jet Propulsion Laboratory,BMO Harris Bradley Center,2054.0
+BMO Harris Bradley Center,Verizon 201 Spear St,2170.0
+Robot Hall of Fame,National Aviation Hall of Fame,253.0
+National Aviation Hall of Fame,Verizon 133 Calkins Rd,457.0
+Verizon 133 Calkins Rd,Ohio State Varsity O Hall of Fame,387.0
+Ohio State Varsity O Hall of Fame,National Jewish Sports Hall of Fame and Museum,603.0
+National Jewish Sports Hall of Fame and Museum,Automotive Hall of Fame,654.0
+Automotive Hall of Fame,Verizon 10740 Nall Ave,772.0
+Verizon 10740 Nall Ave,Arkansas Sports Hall of Fame,414.0
+Arkansas Sports Hall of Fame,Husk,821.0
+Husk,The Cozy Inn,1276.0
+The Cozy Inn,The Walrus and the Carpenter,1743.0
+Michigan Sports Hall of Fame,Guy Savoy,2017.0
+Guy Savoy,Kansas Sports Hall of Fame,1164.0
+Kansas Sports Hall of Fame,Lexington Candy Shop,1391.0
+Lexington Candy Shop,Frasca Food & Wine,1803.0
+Frasca Food & Wine,Herbsaint,1329.0
+Herbsaint,Verizon 2 S Biscayne Blvd #2800,864.0
+Verizon 2 S Biscayne Blvd #2800,Verizon 2535 W Hillcrest Dr,2777.0
+Verizon 2535 W Hillcrest Dr,US Space Walk of Fame Museum,2597.0
+US Space Walk of Fame Museum,National Collegiate Basketball Hall of Fame,1278.0
+National Agricultural Center and Hall of Fame,TD Garden,1449.0
+TD Garden,Verizon 300 John Q Hammons Pkwy,1405.0
+Verizon 300 John Q Hammons Pkwy,Minetta Tavern,1166.0
+Minetta Tavern,National Mining Hall of Fame,1876.0
+National Mining Hall of Fame,Verizon 500 Summit Lake Dr,1901.0
+Verizon 500 Summit Lake Dr,Verizon 30 Independence Blvd,72.0
+Verizon 30 Independence Blvd,Langely Research Center,397.0
+Langely Research Center,Mountain Bike Hall of Fame,1912.0
+Mountain Bike Hall of Fame,Philips Arena,1570.0
+Philips Arena,Atlanta Braves Museum and Hall of Fame,2.5
+Atlanta Braves Museum and Hall of Fame,Kermit Blosser Ohio Athletics Hall of Fame,567.0
+Kermit Blosser Ohio Athletics Hall of Fame,Volleyball Hall of Fame,681.0
+Volleyball Hall of Fame,Verizon 2770 Shadelands DR,2999.0
+Verizon 2000 Corporate Dr,Verizon 5165 Emerald Pkwy,566.0
+Verizon 5165 Emerald Pkwy,Amway Center,960.0
+Amway Center,Michoud Assembly Facility,632.0
+Michoud Assembly Facility,Verizon 140 West St,1296.0
+Verizon 140 West St,Verizon 777 Big Timber Rd,829.0
+American TV Game Show Hall of Fame,Mississippi Musicians Hall of Fame,1629.0
+Mississippi Musicians Hall of Fame,US Space Walk of Fame Museum,727.0
+US Space Walk of Fame Museum,Babbo Ristorante,1071.0
+Babbo Ristorante,World Chess Hall of Fame,957.0
+World Chess Hall of Fame,Verizon 600 Coolidge DR,1952.0
+Verizon 600 Coolidge DR,Alabama Jazz Hall of Fame,2337.0
+Camp Wilderness Resort,BMO Harris Bradley Center,868.0
+BMO Harris Bradley Center,Galatoire's,1016.0
+Galatoire's,USA Field Hockey Hall of Fame,1227.0
+USA Field Hockey Hall of Fame,St. Louis Walk of Fame,872.0
+St. Louis Walk of Fame,Verizon 4600 Innovation DR,442.0
+Verizon 4600 Innovation DR,Joe's Stone Crab,1662.0
+Joe's Stone Crab,wd~50,1285.0
+wd~50,Verizon 99 Shawan Rd,201.0
+Verizon 99 Shawan Rd,The Palace of Auburn Hills,566.0
+The Palace of Auburn Hills,Verizon 133 Calkins Rd,332.0
+Verizon 133 Calkins Rd,Verizon Center,370.0
+Verizon Center,Bankers Life Fieldhouse,579.0
+Bankers Life Fieldhouse,Michigan Sports Hall of Fame,288.0
+Michigan Sports Hall of Fame,Herbsaint,1066.0
+Herbsaint,Del Posto,1307.0
+Del Posto,National Women's Hall of Fame,270.0
+National Women's Hall of Fame,Aviation Hall of Fame and Museum of New Jersey,264.0
+Aviation Hall of Fame and Museum of New Jersey,International Boxing Hall of Fame,252.0
+International Boxing Hall of Fame,Verizon 140 West St,267.0
+Verizon 140 West St,Verizon 13100 Columbia Pike,218.0
+Cincinnati Reds Hall of Fame and Museum,U.S. Astronaut Hall of Fame,942.0
+U.S. Astronaut Hall of Fame,National Aviation Hall of Fame,1002.0
+National Aviation Hall of Fame,SeaWorld San Antonio,1278.0
+SeaWorld San Antonio,National Collegiate Basketball Hall of Fame,826.0
+National Collegiate Basketball Hall of Fame,Chesapeake Energy Arena,349.0
+Chesapeake Energy Arena,University of North Dakota Letterwinners Hall of Fame,952.0
+University of North Dakota Letterwinners Hall of Fame,The Varsity,1438.0
+The Varsity,The Walrus and the Carpenter,2640.0
+The Walrus and the Carpenter,Ted's Restaurant,2951.0
+Ted's Restaurant,NASA Headquarters,324.0
+NASA Headquarters,Gramercy Tavern,229.0
+Gramercy Tavern,Kings Island Theme Park,616.0
+Kings Island Theme Park,Six Flags Discovery Kingdom,2366.0
+Georgia Sports Hall of Fame,Dutch Wonderland,793.0
+Dutch Wonderland,Chesapeake Energy Arena,1321.0
+Chesapeake Energy Arena,Alinea,797.0
+Alinea,Nasa Ames Research Center,2163.0
+Nasa Ames Research Center,Craigie on Main,3128.0
+Craigie on Main,Wisconsin Hockey Hall of Fame,1210.0
+Wisconsin Hockey Hall of Fame,Kuma's Corner,351.0
+Kuma's Corner,Verizon 22001 Loudoun County PKWY,693.0
+Verizon 22001 Loudoun County PKWY,National Softball Hall of Fame,1332.0
+National Softball Hall of Fame,Jim-Denny's,1627.0
+EnergySolutions Arena,Verizon 3011 Hungary Spring Rd,2132.0
+Verizon 3011 Hungary Spring Rd,Verizon 600 Hidden Ridge,1282.0
+Verizon 600 Hidden Ridge,Rock and Roll Hall of Fame,1197.0
+Rock and Roll Hall of Fame,Universal Studios Hollywood,2353.0
+Universal Studios Hollywood,Quicken Loans Arena,2349.0
+Quicken Loans Arena,New York Mets Hall of Fame,477.0
+New York Mets Hall of Fame,Naval Aviation Hall of Honor,1218.0
+Naval Aviation Hall of Honor,Cochon,209.0
+Cochon,International Swimming Hall of Fame,845.0
+International Swimming Hall of Fame,The Little Owl,1267.0
+The Little Owl,Science Fiction Museum and Hall of Fame,2857.0
+Indianapolis Motor Speedway Hall of Fame Museum,America's Cup Hall of Fame,917.0
+America's Cup Hall of Fame,Fearing's,1752.0
+Fearing's,Coi,1729.0
+Coi,Hominy Grill,2777.0
+Hominy Grill,Missouri Sports Hall of Fame,971.0
+Missouri Sports Hall of Fame,Spiaggia,516.0
+Spiaggia,Verizon 2401 Mall DR,907.0
+Verizon 2401 Mall DR,EnergySolutions Arena,2166.0
+EnergySolutions Arena,The Great Escape & Splashwater Kingdom,2219.0
+The Great Escape & Splashwater Kingdom,Verizon 10740 Nall Ave,1291.0
+American Classical Music Hall of Fame and Museum,Georgia Sports Hall of Fame,545.0
+Georgia Sports Hall of Fame,Hall of Flame,1926.0
+Hall of Flame,Delaware Sports Museum and Hall of Fame,2328.0
+Delaware Sports Museum and Hall of Fame,Verizon 201 Spear St,2868.0
+Verizon 201 Spear St,Adventureland,1808.0
+Adventureland,Universal Studios Orlando,1337.0
+Universal Studios Orlando,Verizon 199 Fulton Ave,1110.0
+Verizon 199 Fulton Ave,National Cowboy Hall of Fame,1482.0
+National Cowboy Hall of Fame,White Manna Hamburgers,1450.0
+Circus Hall of Fame,Verizon 700 Hidden Ridge,991.0
+Verizon 700 Hidden Ridge,McCrady's,1101.0
+McCrady's,My Brother's Bar,1703.0
+My Brother's Bar,Goddard Institute for Space Studies,1782.0
+Goddard Institute for Space Studies,College Baseball Hall Of Fame,1806.0
+College Baseball Hall Of Fame,Yank Sing (Rincon Center),1403.0
+Yank Sing (Rincon Center),Philadelphia Baseball Wall of Fame,2878.0
+Philadelphia Baseball Wall of Fame,Goddard White Sands Test Facility,2048.0
+Goddard White Sands Test Facility,White Manna Hamburgers,2119.0
+Verizon 2870 Zanker RD,Legoland California,434.0
+Legoland California,Next,2061.0
+Next,U.S. Bicycling Hall of Fame,2058.0
+U.S. Bicycling Hall of Fame,Six Flags Over Georgia,2478.0
+Six Flags Over Georgia,Catbird Seat,251.0
+Catbird Seat,The Little Owl,886.0
+The Little Owl,NASA Johnson Space Center,1625.0
+NASA Johnson Space Center,Winstead?s,767.0
+Winstead?s,Bar Tartine,1812.0
+Bar Tartine,The Walrus and the Carpenter,814.0
+The Walrus and the Carpenter,Verizon 2 S Biscayne Blvd #2800,3302.0
+Cut,Camp Wilderness Resort,2434.0
+Camp Wilderness Resort,Verizon 12802 Tampa Oaks BLVD,561.0
+Verizon 12802 Tampa Oaks BLVD,Robot Hall of Fame,1017.0
+Robot Hall of Fame,Verizon 999 W Main St,354.0
+Verizon 999 W Main St,Delaware Sports Museum and Hall of Fame,89.0
+Delaware Sports Museum and Hall of Fame,Verizon 3815 S Capital Of Texas Hwy,1635.0
+Verizon 3815 S Capital Of Texas Hwy,University of Miami Sports Hall of Fame,1357.0
+University of Miami Sports Hall of Fame,Night + Market,2749.0
+Night + Market,E by Jose Andres,275.0
+E by Jose Andres,Naismith Memorial Basketball Hall of Fame,2639.0
+Naismith Memorial Basketball Hall of Fame,International Tennis Hall of Fame,119.0
+International Tennis Hall of Fame,Six Flags St. Louis,1167.0
+Verizon 7901 Freeport Blvd,Verizon 505 Highway 169 N,1908.0
+Verizon 505 Highway 169 N,Verizon 51 S Bedford St,1406.0
+Verizon 51 S Bedford St,USA Field Hockey Hall of Fame,329.0
+USA Field Hockey Hall of Fame,Quince,2854.0
+Quince,Six Flags St. Louis,2044.0
+Six Flags St. Louis,United Center,325.0
+United Center,Verizon 2 S Biscayne Blvd #2800,1381.0
+Verizon 2 S Biscayne Blvd #2800,Eleven Madison Park,1284.0
+Eleven Madison Park,Wisconsin Hockey Hall of Fame,1147.0
+Wisconsin Hockey Hall of Fame,National Mining Hall of Fame,1265.0
+Solly's Grille,Verizon 600 Coolidge DR,2077.0
+Verizon 600 Coolidge DR,Cochon,2297.0
+Cochon,Verizon 5055 N Point PKWY,496.0
+Blue Hill at Stone Barns,Hall of Fame for Great Americans,12.5
+Hall of Fame for Great Americans,Michigan Sports Hall of Fame,621.0
+Michigan Sports Hall of Fame,Gott's Roadside,2395.0
+Gott's Roadside,America's Cup Hall of Fame,3099.0
+America's Cup Hall of Fame,U.S. Business Hall of Fame,976.0
+U.S. Business Hall of Fame,The Apollo Theatre Hall of Fame,787.0
+The Apollo Theatre Hall of Fame,Bacchanalia,879.0
+Gott's Roadside,Florida Sports Hall of Fame,2898.0
+Florida Sports Hall of Fame,Minibar by Jose Andres,893.0
+Minibar by Jose Andres,Goddard White Sands Test Facility,2020.0
+Goddard White Sands Test Facility,American Theater Hall of Fame,2114.0
+American Theater Hall of Fame,Verizon 700 Hidden Ridge,1564.0
+Verizon 700 Hidden Ridge,Colorado Sports Hall of Fame,780.0
+Colorado Sports Hall of Fame,Science Fiction Museum and Hall of Fame,1317.0
+Science Fiction Museum and Hall of Fame,Langely Research Center,2935.0
+Rye Playland,Wild Adventures Theme Park,1022.0
+Wild Adventures Theme Park,Entrepreneur Walk of Fame,1206.0
+Entrepreneur Walk of Fame,Verizon 6415-6455 Business Center Dr,1994.0
+Verizon 6415-6455 Business Center Dr,Topolobampo,1024.0
+Topolobampo,Catbird Seat,475.0
+Catbird Seat,Daniel,889.0
+Daniel,America's Cup Hall of Fame,192.0
+America's Cup Hall of Fame,International Boxing Hall of Fame,301.0
+International Boxing Hall of Fame,Craigie on Main,284.0
+Craigie on Main,Palm Springs Walk of Stars,2935.0
+Palm Springs Walk of Stars,Music City Walk of Fame,1926.0
+Music City Walk of Fame,Le Bernardin,887.0
+Le Bernardin,Aquatica SeaWorld's Waterpark,1093.0
+Edzo?s Burger Shop,Verizon 199 Fulton Ave,832.0
+Verizon 199 Fulton Ave,Verizon 6360 Thompson Rd,279.0
+Verizon 6360 Thompson Rd,My Brother's Bar,1668.0
+My Brother's Bar,Manresa,1279.0
+Manresa,State Bird Provisions,53.8
+State Bird Provisions,National Cowboy Hall of Fame,1633.0
+National Cowboy Hall of Fame,Oracle Arena,1615.0
+Oracle Arena,McCrady's,2763.0
+McCrady's,Pepsi Center,1704.0
+Pepsi Center,Discovery Cove,1843.0
+Discovery Cove,E by Jose Andres,2308.0
+Rasika,Goddard Institute for Space Studies,233.0
+Goddard Institute for Space Studies,Chesapeake Energy Arena,1460.0
+Chesapeake Energy Arena,Lexington Candy Shop,1455.0
+Lexington Candy Shop,Momofuku Ssam Bar,4.5
+Momofuku Ssam Bar,World Chess Hall of Fame,958.0
+World Chess Hall of Fame,Legoland California,1831.0
+Legoland California,National Wrestling Hall of Fame,1402.0
+National Wrestling Hall of Fame,The Palace of Auburn Hills,1025.0
+The Palace of Auburn Hills,Beast,2405.0
+Beast,Goddard Wallops Flight Facility,2960.0
+Goddard Wallops Flight Facility,Colorado Sports Hall of Fame,1818.0
+Verizon 6400 Weston Pkwy,Del Posto,503.0
+Del Posto,Colorado Aviation Hall of Fame,1786.0
+Colorado Aviation Hall of Fame,National Midget Auto Racing Hall of Fame,985.0
+National Midget Auto Racing Hall of Fame,Dick?s Drive-In,1925.0
+Dick?s Drive-In,Indiana Basketball Hall of Fame,2295.0
+Indiana Basketball Hall of Fame,College Football Hall of Fame,559.0
+College Football Hall of Fame,World Figure Skating Hall of Fame,1389.0
+World Figure Skating Hall of Fame,Verizon 201 Spear St,1323.0
+Verizon 201 Spear St,Verizon 111 Main St,2927.0
+Verizon 111 Main St,Lucques,2821.0
+Marea,Verizon 125 High St - High Tower,211.0
+Verizon 125 High St - High Tower,Delaware Sports Museum and Hall of Fame,337.0
+Delaware Sports Museum and Hall of Fame,The Vortex,750.0
+The Vortex,Stennis Space Center,435.0
+Stennis Space Center,Barclays Center,1256.0
+Barclays Center,Blackbird,780.0
+Blackbird,Verizon 15505 Sand Canyon Ave,2014.0
+Verizon 15505 Sand Canyon Ave,Spiaggia,2018.0
+Spiaggia,Inn at Little Washington,688.0
+Inn at Little Washington,Mountain Bike Hall of Fame,1816.0
+Mountain Bike Hall of Fame,Beast,1188.0
+Beast,Masa,2895.0
+Six Flags Over Georgia,American Classical Music Hall of Fame and Museum,463.0
+American Classical Music Hall of Fame and Museum,Gary Danko,2383.0
+Gary Danko,Target Center,1987.0
+Target Center,Komi,1114.0
+Komi,Texas Cowboy Hall of Fame,1363.0
+Texas Cowboy Hall of Fame,International Tennis Hall of Fame,1770.0
+International Tennis Hall of Fame,Verizon 1 Towne Sq,749.0
+Verizon 1 Towne Sq,Sleep Train Arena,2304.0
+Sleep Train Arena,Verizon 1717 Arch ST,2790.0
+American Airlines Arena,Verizon 3601 Converse DR,781.0
+Verizon 3601 Converse DR,National Soccer Hall of Fame,709.0
+National Soccer Hall of Fame,Momofuku Ko,173.0
+Momofuku Ko,Zahav,102.0
+Zahav,Verizon 2401 Mall DR,667.0
+Verizon 2401 Mall DR,Kings Island Theme Park,636.0
+Kings Island Theme Park,Country Music Hall of Fame,297.0
+Country Music Hall of Fame,Virginia Sports Hall of Fame and Museum,709.0
+Virginia Sports Hall of Fame and Museum,Nobu,364.0
+Nobu,Bronx Walk of Fame,13.0
+Bronx Walk of Fame,Nashville Songwriters Foundation,894.0
+Nashville Songwriters Foundation,Verizon 7000 Central AVE SW,1225.0
+Verizon 7000 Central AVE SW,Kermit Blosser Ohio Athletics Hall of Fame,1539.0
+Kermit Blosser Ohio Athletics Hall of Fame,Manresa,2564.0
+Manresa,National Mining Hall of Fame,1207.0
+National Mining Hall of Fame,Magic Forest,1922.0
+Verizon One Verizon WAY,Universal Studios Hollywood,2782.0
+Universal Studios Hollywood,International Swimming Hall of Fame,2725.0
+International Swimming Hall of Fame,International Gymnastics Hall of Fame,1496.0
+International Gymnastics Hall of Fame,Christian's Tailgate Bar & Grill,450.0
+Christian's Tailgate Bar & Grill,Volleyball Hall of Fame,1786.0
+Volleyball Hall of Fame,Six Flags Magic Mountain,2905.0
+Six Flags Magic Mountain,Verizon 600 Coolidge DR,370.0
+Verizon 600 Coolidge DR,Verizon 5444 Westheimer,1946.0
+Gramercy Tavern,Walt Disney World's Magic Kingdom,1102.0
+Walt Disney World's Magic Kingdom,Kennywood,985.0
+Kennywood,National Radio Hall of Fame,473.0
+National Radio Hall of Fame,Verizon 385 Myles Standish Blvd,991.0
+Verizon 385 Myles Standish Blvd,Guy Savoy,2727.0
+Guy Savoy,Chez Panisse,557.0
+Chez Panisse,Verizon 15505 Sand Canyon Ave,416.0
+Verizon 15505 Sand Canyon Ave,Louisiana Sports Hall of Fame,1686.0
+Louisiana Sports Hall of Fame,Kansas Sports Hall of Fame,579.0
+Kansas Sports Hall of Fame,Verizon 50-60 Sylvan Rd,1619.0
+Verizon 50-60 Sylvan Rd,International Bluegrass Music Hall of Fame,1081.0
+Eleven Madison Park,The Great Escape & Splashwater Kingdom,204.0
+The Great Escape & Splashwater Kingdom,Blue Hill at Stone Barns,203.0
+Bronx Walk of Fame,Kansas Sports Hall of Fame,1399.0
+Kansas Sports Hall of Fame,Blue Hill at Stone Barns,1418.0
+Philadelphia Baseball Wall of Fame,National Cowboy Hall of Fame,1380.0
+National Cowboy Hall of Fame,USA Field Hockey Hall of Fame,1362.0
+Craigie on Main,White Manna Hamburgers,210.0
+White Manna Hamburgers,International Tennis Hall of Fame,180.0
+Louis? Lunch,America's Cup Hall of Fame,119.0
+America's Cup Hall of Fame,Aviation Hall of Fame and Museum of New Jersey,197.0
+Barclays Center,United Center,781.0
+United Center,New York Mets Hall of Fame,805.0
+Fore Street,Gramercy Tavern,311.0
+Gramercy Tavern,Louis? Lunch,77.9
+ABC Kitchen,Ted's Restaurant,96.4
+Ted's Restaurant,Alder,96.0
+Del Posto,America's Cup Hall of Fame,196.0
+America's Cup Hall of Fame,Babbo Ristorante,196.0
+Hersheypark,Edzo?s Burger Shop,683.0
+Edzo?s Burger Shop,Knoebels Amusement Resort,659.0
+New England Patriots Hall of Fame,Verizon 3601 Converse DR,801.0
+Verizon 3601 Converse DR,TD Garden,809.0
+Momofuku Ko,Verizon 5444 Westheimer,1637.0
+Verizon 5444 Westheimer,Eleven Madison Park,1639.0
+Nobu,Langely Research Center,406.0
+Langely Research Center,The Spotted Pig,404.0
+The Spotted Pig,Bouchon Bistro,2891.0
+Bouchon Bistro,The Little Owl,2890.0
+The Palace of Auburn Hills,Utah Aviation Hall of Fame,1676.0
+Utah Aviation Hall of Fame,Verizon Center,2077.0
+Irish American Baseball Hall of Fame,Zuni Cafe,2910.0
+Zuni Cafe,wd~50,2908.0
+Betony,Michael's Genuine,1283.0
+Michael's Genuine,The Great Escape & Splashwater Kingdom,1473.0
+The Great Escape & Splashwater Kingdom,Goddard Institute for Space Studies,203.0
+Goddard Institute for Space Studies,Robot Hall of Fame,384.0
+Robot Hall of Fame,Lexington Candy Shop,378.0
+Rye Playland,Entrepreneur Walk of Fame,189.0
+Entrepreneur Walk of Fame,Harness Racing Museum & Hall of Fame,218.0
+New England Patriots Hall of Fame,Cochon,1518.0
+Cochon,TD Garden,1527.0
+Daniel,Verizon 6929 N Lakewood AVE,1345.0
+Verizon 6929 N Lakewood AVE,Seabreeze Amusement Park,1211.0
+Seabreeze Amusement Park,Verizon 400 International Pkwy,1445.0
+Verizon 400 International Pkwy,Cedar Point Amusement,1178.0
+Cedar Point Amusement,Six Flags New England,627.0
+Six Flags New England,International Swimming Hall of Fame,1402.0
+TD Garden,The French Laundry,3081.0
+The French Laundry,Mr. Bartley's Burger Cottage,3078.0
+NoMad,Edzo?s Burger Shop,805.0
+Edzo?s Burger Shop,Gotham Bar & Grill,804.0
+Sushi Yasuda,New England Patriots Hall of Fame,201.0
+New England Patriots Hall of Fame,Masa,206.0
+National Baseball Hall of Fame and Museum,Jim-Denny's,2795.0
+Jim-Denny's,National Soccer Hall of Fame,2790.0
+Hersheypark,Verizon 8 Neshaminy Interplex,102.0
+Verizon 8 Neshaminy Interplex,Knoebels Amusement Resort,147.0
+St. Louis Walk of Fame,Toyota Center,781.0
+Toyota Center,Joe's Stone Crab,1190.0
+Verizon 13100 Columbia Pike,National Mining Hall of Fame,1751.0
+International Tennis Hall of Fame,Verizon 2000 Highland RD,615.0
+Verizon 2000 Highland RD,Ted's Restaurant,526.0
+Minetta Tavern,Colorado Aviation Hall of Fame,1784.0
+Colorado Aviation Hall of Fame,Sushi Nakazawa,1783.0
+Jean Georges,Walt Disney World's Magic Kingdom,1101.0
+Walt Disney World's Magic Kingdom,The Apollo Theatre Hall of Fame,1110.0
+Per Se,Animal,2801.0
+Animal,Goddard Institute for Space Studies,2803.0
+Brindle Room,Verizon 6400 Weston Pkwy,510.0
+Al Di La,Universal Studios Hollywood,2815.0
+Universal Studios Hollywood,The Elm,2799.0
+Splish Splash,Manresa,3020.0
+Momofuku Ko,Staples Center,2807.0
+Staples Center,Eleven Madison Park,2795.0
+Eleven Madison Park,Bouchon Bistro,2891.0
+Bouchon Bistro,Zuni Cafe,57.1
+Zuni Cafe,Bankers Life Fieldhouse,2276.0
+Bankers Life Fieldhouse,Verizon 199 Fulton Ave,752.0
+The Elm,Minibar by Jose Andres,235.0
+Minibar by Jose Andres,National Jewish Sports Hall of Fame and Museum,277.0
+National Museum of Dance and Hall of Fame,Verizon 3305 160th Ave SE,2862.0
+Verizon 3305 160th Ave SE,International Boxing Hall of Fame,2754.0
+Ippudo,Providence,2798.0
+Providence,Gramercy Tavern,2798.0
+Eleven Madison Park,Verizon 3011 Hungary Spring Rd,338.0
+Verizon 3011 Hungary Spring Rd,Blue Hill at Stone Barns,335.0
+Momofuku Ko,Kings Dominion,323.0
+Kings Dominion,Eleven Madison Park,318.0
+Inn at Little Washington,Brindle Room,296.0
+Brindle Room,Busch Gardens Williamsburg,394.0
+Mr. Bartley's Burger Cottage,NASA Glenn Research Center,648.0
+NASA Glenn Research Center,America's Cup Hall of Fame,663.0
+Betony,International Boxing Hall of Fame,263.0
+International Boxing Hall of Fame,Jean Georges,268.0
+U.S. National Museum of Racing and Hall of Fame,Per Se,185.0
+Per Se,Hall of Flame,2402.0
+America's Cup Hall of Fame,The Restaurant at Meadowood,3094.0
+The Restaurant at Meadowood,Fore Street,3191.0
+wd~50,International Gymnastics Hall of Fame,1444.0
+International Gymnastics Hall of Fame,Ippudo,1444.0
+Sushi Nakazawa,Mississippi Sports Hall of Fame,1201.0
+Mississippi Sports Hall of Fame,Naismith Memorial Basketball Hall of Fame,1347.0
+Robot Hall of Fame,Dorney Park and Wildwater Kingdom,281.0
+Dorney Park and Wildwater Kingdom,Hersheypark,70.8
+Knoebels Amusement Resort,Vocal Group Hall of Fame,240.0
+Vocal Group Hall of Fame,Sesame Place,380.0
+Barclays Center,Oregon Sports Hall of Fame,2890.0
+Oregon Sports Hall of Fame,New York Mets Hall of Fame,2913.0
+Momofuku Ssam Bar,Verizon 2000 Highland RD,439.0
+Verizon 2000 Highland RD,Brindle Room,439.0
+Bronx Walk of Fame,Verizon 500 Summit Lake Dr,23.9
+Verizon 500 Summit Lake Dr,Blue Hill at Stone Barns,5.3
+National Toy Hall of Fame,Verizon 8 Neshaminy Interplex,341.0
+Verizon 8 Neshaminy Interplex,Kennywood,301.0
+Corner Bistro,SeaWorld Orlando,1094.0
+SeaWorld Orlando,Sushi Yasuda,1092.0
+Volleyball Hall of Fame,NASA Jet Propulsion Laboratory,2895.0
+NASA Jet Propulsion Laboratory,New England Patriots Hall of Fame,2978.0
+New England Patriots Hall of Fame,SeaWorld San Antonio,2049.0
+SeaWorld San Antonio,TD Garden,2058.0
+Il Buco Alimentari & Vineria,Bronx Walk of Fame,9.2
+Bronx Walk of Fame,Nobu,14.1
+Hall of Fame for Great Americans,Minetta Tavern,14.1
+Minetta Tavern,Rye Playland,29.5
+Chef's Table at Brooklyn Fare,Verizon 201 Centennial AVE,39.2
+Verizon 201 Centennial AVE,Al Di La,38.8
+Zahav,Verizon 60 Public SQ,115.0
+Verizon 60 Public SQ,Sketch Burger,116.0
+Bacchanalia,Verizon 2200 W Airfield Dr Dock E,803.0
+Brindle Room,SeaWorld San Antonio,1838.0
+SeaWorld San Antonio,Del Posto,1838.0
+Chef's Table at Brooklyn Fare,Coi,2908.0
+Coi,Al Di La,2909.0
+Zahav,Iowa Aviation Hall of Fame,1138.0
+Le Bernardin,Verizon 500 Technology Dr,979.0
+Verizon 500 Technology Dr,Betony,983.0
+Barclays Center,Zahav,86.7
+Zahav,New York Mets Hall of Fame,116.0
+Wells Fargo Center,Bern's Steak House,1043.0
+Bern's Steak House,Hardcore Hall of Fame,1046.0
+The Elm,Inn at Little Washington,301.0
+Inn at Little Washington,National Jewish Sports Hall of Fame and Museum,344.0
+Rye Playland,Philips Arena,899.0
+Philips Arena,Harness Racing Museum & Hall of Fame,910.0
+National Women's Hall of Fame,Six Flags Over Georgia,943.0
+Six Flags Over Georgia,SeaWorld San Diego,2134.0
+SeaWorld San Diego,National Midget Auto Racing Hall of Fame,2055.0
+National Midget Auto Racing Hall of Fame,Blue Hill at Stone Barns,941.0
+Busch Gardens Williamsburg,Hugo's Regional Mexican Cuisine,1376.0
+Hugo's Regional Mexican Cuisine,Momofuku Ssam Bar,1633.0
+Gotham Bar & Grill,Texas Aviation Hall of Fame,1663.0
+Texas Aviation Hall of Fame,ABC Kitchen,1649.0
+Marea,National Distance Running Hall of Fame,236.0
+National Distance Running Hall of Fame,Per Se,241.0
+NoMad,Legoland California,2841.0
+Legoland California,Gotham Bar & Grill,2837.0
+The Apollo Theatre Hall of Fame,Bouchon Bistro,2533.0
+Bouchon Bistro,Daniel,2530.0
+Wells Fargo Center,Al Di La,98.6
+Al Di La,Hardcore Hall of Fame,98.0
+USA Field Hockey Hall of Fame,Six Flags New England,245.0
+Alder,Dick?s Drive-In,2856.0
+Dick?s Drive-In,Momofuku Ko,2863.0
+Il Buco Alimentari & Vineria,Verizon 22001 Loudoun County PKWY,252.0
+Verizon 22001 Loudoun County PKWY,Nobu,251.0
+Blue Hill at Stone Barns,National Baseball Hall of Fame and Museum,171.0
+National Baseball Hall of Fame and Museum,Chef's Table at Brooklyn Fare,205.0
+Chef's Table at Brooklyn Fare,Bern's Steak House,1138.0
+Bern's Steak House,Al Di La,1134.0
+Barclays Center,The Publican,780.0
+The Publican,New York Mets Hall of Fame,804.0
+National Women's Hall of Fame,Harness Racing Museum & Hall of Fame,215.0
+Harness Racing Museum & Hall of Fame,National Distance Running Hall of Fame,193.0
+National Soccer Hall of Fame,Animal,2769.0
+Craigie on Main,Verizon 501 Spears Creek Church RD,904.0
+Verizon 501 Spears Creek Church RD,International Tennis Hall of Fame,873.0
+NoMad,Palm Springs Walk of Stars,2701.0
+Palm Springs Walk of Stars,Gotham Bar & Grill,2700.0
+Il Buco Alimentari & Vineria,Mountain Bike Hall of Fame,1997.0
+Mountain Bike Hall of Fame,Nobu,1995.0
+Six Flags New England,Kings Island Theme Park,767.0
+Kings Island Theme Park,Naismith Memorial Basketball Hall of Fame,776.0
+White Manna Hamburgers,Zuni Cafe,2905.0
+Zuni Cafe,Six Flags Great Adventure,2918.0
+Ted's Restaurant,State Bird Provisions,2995.0
+State Bird Provisions,Momofuku Ssam Bar,2911.0
+wd~50,Del Posto,2.8
+Del Posto,Ippudo,1.7
+Alder,Soak City Waterpark,1214.0
+Soak City Waterpark,Momofuku Ko,1220.0
+Eleven Madison Park,Gotham Bar & Grill,0.9
+Gotham Bar & Grill,Blue Hill at Stone Barns,1.0
+National Distance Running Hall of Fame,Girl & the Goat,726.0
+Girl & the Goat,National Toy Hall of Fame,603.0
+Irish American Baseball Hall of Fame,Verizon 3700 Arco Corporate Dr,646.0
+Verizon 3700 Arco Corporate Dr,wd~50,642.0
+National Jewish Sports Hall of Fame and Museum,University of Iowa Athletics Hall of Fame,1044.0
+University of Iowa Athletics Hall of Fame,Splish Splash,1074.0
+TD Garden,The Varsity,1081.0
+The Varsity,Mr. Bartley's Burger Cottage,1075.0
+NoMad,The Great Escape & Splashwater Kingdom,204.0
+The Great Escape & Splashwater Kingdom,Gotham Bar & Grill,203.0
+Minetta Tavern,National Midget Auto Racing Hall of Fame,936.0
+National Midget Auto Racing Hall of Fame,National Inventors Hall of Fame,518.0
+National Inventors Hall of Fame,The Spotted Pig,438.0
+Splish Splash,wd~50,72.8
+wd~50,Magic Forest,208.0
+Fore Street,Cochon,1625.0
+Cochon,Louis? Lunch,1393.0
+wd~50,College Baseball Hall Of Fame,1795.0
+College Baseball Hall Of Fame,Ippudo,1796.0
+The Elm,Amway Center,1084.0
+Amway Center,National Jewish Sports Hall of Fame and Museum,1127.0
+O-Ya,Kings Dominion,529.0
+Kings Dominion,Entrepreneur Walk of Fame,531.0
+Fore Street,Verizon 50-60 Sylvan Rd,114.0
+Verizon 50-60 Sylvan Rd,Louis? Lunch,131.0
+Del Posto,Verizon 5165 Emerald Pkwy,559.0
+Verizon 5165 Emerald Pkwy,Babbo Ristorante,552.0
+Il Buco Alimentari & Vineria,Winstead?s,1192.0
+Winstead?s,Nobu,1192.0
+Volleyball Hall of Fame,Robot Hall of Fame,506.0
+Robot Hall of Fame,New England Patriots Hall of Fame,573.0
+NoMad,Verizon 500 2nd Ave SE,1025.0
+Verizon 500 2nd Ave SE,Gotham Bar & Grill,1022.0
+Alder,Billiard Congress of America Hall of Fame,1784.0
+Billiard Congress of America Hall of Fame,Momofuku Ko,1783.0
+Le Bernardin,Goddard IV and V Facility,400.0
+Goddard IV and V Facility,Betony,401.0
+Del Posto,Vetri,99.5
+Vetri,Babbo Ristorante,97.3
+Zahav,America's Cup Hall of Fame,292.0
+America's Cup Hall of Fame,Sketch Burger,290.0
+Blue Hill at Stone Barns,Verizon 6415-6455 Business Center Dr,1799.0
+Verizon 6415-6455 Business Center Dr,Il Buco Alimentari & Vineria,1798.0
+Le Bernardin,Chez Panisse,2899.0
+Chez Panisse,Betony,2899.0
+NoMad,Michigan Sports Hall of Fame,618.0
+Michigan Sports Hall of Fame,Gotham Bar & Grill,614.0
+Del Posto,Betony,2.7
+Betony,Babbo Ristorante,2.8
+The Little Owl,Target Center,1200.0
+Target Center,American Theater Hall of Fame,1205.0
+Marea,Blue Hill at Stone Barns,2.9
+Blue Hill at Stone Barns,Per Se,3.4
+The Great Escape & Splashwater Kingdom,Verizon 2000 Corporate Dr,185.0
+Verizon 2000 Corporate Dr,National Museum of Dance and Hall of Fame,164.0
+National Baseball Hall of Fame and Museum,Verizon 500 Summit Lake Dr,172.0
+Verizon 500 Summit Lake Dr,National Soccer Hall of Fame,153.0
+Naismith Memorial Basketball Hall of Fame,Knoebels Amusement Resort,284.0
+Knoebels Amusement Resort,O-Ya,360.0
+Craigie on Main,Verizon 200 Ballardvale ST,19.2
+Verizon 200 Ballardvale ST,International Tennis Hall of Fame,90.4
+International Tennis Hall of Fame,Catbird Seat,1071.0
+Catbird Seat,Ted's Restaurant,989.0
+Ted's Restaurant,Spiaggia,878.0
+Spiaggia,White Manna Hamburgers,790.0
+Six Flags Great Adventure,Cochon,1270.0
+Cochon,Irish American Baseball Hall of Fame,1308.0
+Vocal Group Hall of Fame,Christian's Tailgate Bar & Grill,1338.0
+Christian's Tailgate Bar & Grill,Dutch Wonderland,1505.0
+Volleyball Hall of Fame,Verizon 239 W Rte 59,140.0
+Verizon 239 W Rte 59,New England Patriots Hall of Fame,198.0
+Mr. Bartley's Burger Cottage,Verizon 50-60 Sylvan Rd,12.5
+Verizon 50-60 Sylvan Rd,America's Cup Hall of Fame,69.8
+Sushi Yasuda,Rockabilly Hall of Fame,1017.0
+Rockabilly Hall of Fame,Masa,1017.0
+Virginia Air & Space Center,Aquatica SeaWorld's Waterpark,779.0
+Hersheypark,Verizon 2200 W Airfield Dr Dock E,1414.0
+Verizon 2200 W Airfield Dr Dock E,Knoebels Amusement Resort,1472.0
+Rasika,Joe's Stone Crab,1054.0
+Babbo Ristorante,Minibar by Jose Andres,229.0
+Minibar by Jose Andres,Minetta Tavern,227.0
+Bronx Walk of Fame,USA Field Hockey Hall of Fame,126.0
+USA Field Hockey Hall of Fame,Blue Hill at Stone Barns,139.0
+The Great Escape & Splashwater Kingdom,Verizon 12802 Tampa Oaks BLVD,1318.0
+Verizon 12802 Tampa Oaks BLVD,National Museum of Dance and Hall of Fame,1295.0
+Hardcore Hall of Fame,Rye Playland,128.0
+Rye Playland,Delaware Sports Museum and Hall of Fame,155.0
+Verizon Center,Il Buco Alimentari & Vineria,227.0
+Il Buco Alimentari & Vineria,Rasika,228.0
+The Little Owl,Music City Walk of Fame,884.0
+Music City Walk of Fame,American Theater Hall of Fame,887.0
+Adventureland Amusement Park,Corner Bistro,36.7
+Corner Bistro,The Great Escape & Splashwater Kingdom,204.0
+Vocal Group Hall of Fame,Mountain Bike Hall of Fame,1618.0
+Mountain Bike Hall of Fame,Dutch Wonderland,1835.0
+Virginia Air & Space Center,Verizon 10100 Sardis Crossing DR,352.0
+Blue Hill at Stone Barns,Verizon 60 Public SQ,143.0
+Verizon 60 Public SQ,Chef's Table at Brooklyn Fare,124.0
+Adventureland Amusement Park,Verizon One Verizon Dr,1272.0
+Verizon One Verizon Dr,The Great Escape & Splashwater Kingdom,1348.0
+Zaytinya,Hominy Grill,530.0
+Hominy Grill,Minibar by Jose Andres,530.0
+International Tennis Hall of Fame,Chesapeake Energy Arena,1635.0
+Chesapeake Energy Arena,National Italian American Sports Hall of Fame,793.0
+National Italian American Sports Hall of Fame,Louis? Lunch,868.0
+Daniel,National Sprint Car Hall of Fame,1111.0
+National Sprint Car Hall of Fame,National Soccer Hall of Fame,1071.0
+National Soccer Hall of Fame,Rye Playland,169.0
+National Distance Running Hall of Fame,Bronx Walk of Fame,237.0
+Bronx Walk of Fame,National Toy Hall of Fame,337.0
+Seabreeze Amusement Park,College Baseball Hall Of Fame,1663.0
+College Baseball Hall Of Fame,Robot Hall of Fame,1445.0
+Lacrosse Museum and National Hall of Fame,Staples Center,2647.0
+Staples Center,Inn at Little Washington,2594.0
+International Tennis Hall of Fame,Busch Gardens Tampa,1307.0
+Busch Gardens Tampa,Ted's Restaurant,1225.0
+Gramercy Tavern,New York Mets Hall of Fame,10.3
+New York Mets Hall of Fame,Momofuku Ssam Bar,11.0
+Bronx Walk of Fame,The French Laundry,2893.0
+The French Laundry,Blue Hill at Stone Barns,2911.0
+The Elm,Alder,4.9
+Alder,National Jewish Sports Hall of Fame and Museum,42.2
+New England Patriots Hall of Fame,Verizon 300 Allegheny DR,605.0
+Verizon 300 Allegheny DR,August,1105.0
+August,Entrepreneur Walk of Fame,1527.0
+NoMad,National Soccer Hall of Fame,170.0
+National Soccer Hall of Fame,Gotham Bar & Grill,170.0
+Gotham Bar & Grill,Verizon 6400 Weston Pkwy,504.0
+Verizon 6400 Weston Pkwy,ABC Kitchen,503.0
+ABC Kitchen,Six Flags Discovery Kingdom,2879.0
+Six Flags Discovery Kingdom,Alder,2876.0
+Lexington Candy Shop,National Baseball Hall of Fame and Museum,195.0
+Momofuku Ko,Universal Studios Hollywood,2808.0
+Universal Studios Hollywood,Eleven Madison Park,2797.0
+National Women's Hall of Fame,Perini Ranch Steakhouse,1653.0
+Perini Ranch Steakhouse,National Distance Running Hall of Fame,1738.0
+Louis? Lunch,City Grocery,1198.0
+City Grocery,Aviation Hall of Fame and Museum of New Jersey,1116.0
+Chef's Table at Brooklyn Fare,Yank Sing (Rincon Center),2908.0
+Entrepreneur Walk of Fame,Zuni Cafe,3103.0
+Zuni Cafe,Craigie on Main,3097.0
+National Distance Running Hall of Fame,Verizon 2 S Biscayne Blvd #2800,1433.0
+Verizon 2 S Biscayne Blvd #2800,National Toy Hall of Fame,1425.0
+New England Patriots Hall of Fame,International Motorsports Hall of Fame,1153.0
+International Motorsports Hall of Fame,TD Garden,1161.0
+Alder,American Theater Hall of Fame,3.2
+American Theater Hall of Fame,Momofuku Ko,3.4
+Sushi Yasuda,Momofuku Ssam Bar,1.8
+Momofuku Ssam Bar,Masa,3.5
+Al Di La,Verizon 2000 Highland RD,457.0
+Verizon 2000 Highland RD,The Elm,442.0
+Irish American Baseball Hall of Fame,World Chess Hall of Fame,959.0
+World Chess Hall of Fame,wd~50,958.0
+Babbo Ristorante,Alabama Jazz Hall of Fame,963.0
+Alabama Jazz Hall of Fame,Minetta Tavern,963.0
+New England Patriots Hall of Fame,Nasa Dryden Flight Research Center,2927.0
+Nasa Dryden Flight Research Center,TD Garden,2927.0
+Gotham Bar & Grill,Camp Wilderness Resort,643.0
+Camp Wilderness Resort,ABC Kitchen,642.0
+Ted's Restaurant,St. Louis Walk of Fame,1071.0
+St. Louis Walk of Fame,White Manna Hamburgers,966.0
+White Manna Hamburgers,New York Mets Hall of Fame,19.5
+New York Mets Hall of Fame,Six Flags Great Adventure,87.8
+The Elm,Aviation Hall of Fame and Museum of New Jersey,22.7
+Aviation Hall of Fame and Museum of New Jersey,National Jewish Sports Hall of Fame and Museum,50.2
+Adventureland Amusement Park,Wells Fargo Center,136.0
+Wells Fargo Center,The Great Escape & Splashwater Kingdom,293.0
+National Baseball Hall of Fame and Museum,International Gymnastics Hall of Fame,1464.0
+International Gymnastics Hall of Fame,National Soccer Hall of Fame,1460.0
+Hersheypark,Michoud Assembly Facility,1143.0
+Michoud Assembly Facility,Knoebels Amusement Resort,1199.0
+Hall of Fame for Great Americans,Verizon 2000 Corporate Dr,21.7
+Verizon 2000 Corporate Dr,Rye Playland,30.2
+Delaware Sports Museum and Hall of Fame,Verizon 5000 Britton RD,475.0
+Verizon 5000 Britton RD,Verizon Center,418.0
+Virginia Sports Hall of Fame and Museum,Marea,367.0
+Marea,North Carolina Sports Hall of Fame,510.0
+Momofuku Ko,International Bowling Hall of Fame,1566.0
+International Bowling Hall of Fame,Eleven Madison Park,1567.0
+The Apollo Theatre Hall of Fame,Six Flags Fiesta Texas,1846.0
+Six Flags Fiesta Texas,Daniel,1842.0
+Mr. Bartley's Burger Cottage,Pro Football Hall of Fame,642.0
+Pro Football Hall of Fame,America's Cup Hall of Fame,638.0
+NoMad,American Airlines Arena,1285.0
+American Airlines Arena,Gotham Bar & Grill,1281.0
+Del Posto,Gott's Roadside,2908.0
+Gott's Roadside,Babbo Ristorante,2905.0
+Corner Bistro,NASA Glenn Research Center,469.0
+NASA Glenn Research Center,Target Center,741.0
+International Boxing Hall of Fame,New York Mets Hall of Fame,273.0
+U.S. National Museum of Racing and Hall of Fame,The Elm,191.0
+The Elm,National Women's Hall of Fame,274.0
+Gramercy Tavern,Dollywood,705.0
+Dollywood,Momofuku Ssam Bar,705.0
+The Little Owl,Women's Basketball Hall of Fame,708.0
+Women's Basketball Hall of Fame,American Theater Hall of Fame,709.0
+The Elm,American Quarter Horse Hall of Fame,1728.0
+American Quarter Horse Hall of Fame,National Jewish Sports Hall of Fame and Museum,1757.0
+Rye Playland,Volleyball Hall of Fame,121.0
+Momofuku Ssam Bar,Verizon 201 Spear St,2906.0
+Verizon 201 Spear St,Kansas Sports Hall of Fame,1675.0
+Kansas Sports Hall of Fame,Eleven Madison Park,1389.0
+Bronx Walk of Fame,Six Flags New England,129.0
+Six Flags New England,Blue Hill at Stone Barns,113.0
+Seabreeze Amusement Park,Rasika,387.0
+Rasika,Robot Hall of Fame,248.0
+Robot Hall of Fame,Verizon 7600 Montpelier Rd,242.0
+Verizon 7600 Montpelier Rd,Hersheypark,106.0
+Minibar by Jose Andres,Kennywood,236.0
+White Manna Hamburgers,Verizon 5000 Britton RD,558.0
+Verizon 5000 Britton RD,Six Flags Great Adventure,524.0
+Momofuku Ssam Bar,U.S. Bicycling Hall of Fame,2836.0
+U.S. Bicycling Hall of Fame,Brindle Room,2835.0
+Naismith Memorial Basketball Hall of Fame,Rasika,367.0
+Rasika,O-Ya,439.0
+Aviation Hall of Fame and Museum of New Jersey,Hall of Fame for Great Americans,11.4
+Hall of Fame for Great Americans,Madison Square Garden,11.9
+Daniel,Six Flags Great Adventure,72.5
+Six Flags Great Adventure,Bronx Walk of Fame,80.3
+Minibar by Jose Andres,New England Patriots Hall of Fame,432.0
+New England Patriots Hall of Fame,CityZen,432.0
+Time Warner Cable Arena,Winstead?s,962.0
+ABC Kitchen,Six Flags Fiesta Texas,1836.0
+Six Flags Fiesta Texas,Alder,1839.0
+Hall of Fame for Great Americans,McCrady's,774.0
+McCrady's,USA Field Hockey Hall of Fame,692.0
+Rye Playland,Verizon 15505 Sand Canyon Ave,2822.0
+Verizon 15505 Sand Canyon Ave,Harness Racing Museum & Hall of Fame,2782.0
+Dutch Wonderland,SeaWorld San Antonio,1711.0
+SeaWorld San Antonio,Dorney Park and Wildwater Kingdom,1746.0
+NoMad,BMO Harris Bradley Center,883.0
+BMO Harris Bradley Center,Gotham Bar & Grill,881.0
+O-Ya,Gramercy Tavern,211.0
+Gramercy Tavern,ABC Kitchen,0.3
+ABC Kitchen,Mr. Bartley's Burger Cottage,209.0
+Ippudo,Betony,2.8
+Betony,TD Garden,213.0
+TD Garden,Alder,211.0
+Peter Luger,Lucques,2802.0
+Lucques,Kansas City Royals Hall of Fame,1632.0
+Kansas City Royals Hall of Fame,The Elm,1190.0
+Momofuku Ssam Bar,Volleyball Hall of Fame,147.0
+Alder,Six Flags New England,136.0
+Six Flags New England,Momofuku Ko,135.0
+Del Posto,American Classical Music Hall of Fame and Museum,641.0
+American Classical Music Hall of Fame and Museum,Babbo Ristorante,640.0
+Minetta Tavern,Six Flags Discovery Kingdom,2876.0
+Six Flags Discovery Kingdom,Sushi Nakazawa,2875.0
+TD Garden,Adventureland,1292.0
+Adventureland,Mr. Bartley's Burger Cottage,1288.0
+International Tennis Hall of Fame,Kennywood,546.0
+Kennywood,International Boxing Hall of Fame,388.0
+International Boxing Hall of Fame,Louis? Lunch,270.0
+U.S. National Museum of Racing and Hall of Fame,Ted's Restaurant,166.0
+Ted's Restaurant,National Women's Hall of Fame,315.0
+Seabreeze Amusement Park,Fore Street,494.0
+Fore Street,Robot Hall of Fame,672.0
+Hersheypark,Colorado Sports Hall of Fame,1638.0
+Colorado Sports Hall of Fame,Knoebels Amusement Resort,1634.0
+The Varsity,Verizon 201 Centennial AVE,843.0
+Verizon 201 Centennial AVE,The Vortex,852.0
+Six Flags New England,Verizon 125 High St - High Tower,96.5
+Verizon 125 High St - High Tower,Naismith Memorial Basketball Hall of Fame,90.7
+wd~50,American Police Hall of Fame & Museum,1084.0
+American Police Hall of Fame & Museum,Ippudo,1078.0
+Vocal Group Hall of Fame,NASA Johnson Space Center,1361.0
+NASA Johnson Space Center,Dutch Wonderland,1500.0
+O-Ya,Vocal Group Hall of Fame,584.0
+Vocal Group Hall of Fame,Entrepreneur Walk of Fame,588.0
+Ted's Restaurant,World Golf Hall of Fame,1064.0
+World Golf Hall of Fame,White Manna Hamburgers,973.0
+Blue Hill at Stone Barns,Chesapeake Energy Arena,1481.0
+Chesapeake Energy Arena,Chef's Table at Brooklyn Fare,1453.0
+Robot Hall of Fame,Alabama Jazz Hall of Fame,752.0
+Alabama Jazz Hall of Fame,Hersheypark,808.0
+ABC Kitchen,Marea,2.9
+Marea,Alder,3.4
+Le Bernardin,Gramercy Tavern,2.1
+Gramercy Tavern,Betony,2.3
+Hall of Fame for Great Americans,Verizon 239 W Rte 59,28.9
+Verizon 239 W Rte 59,Rye Playland,26.5
+Zaytinya,Animal,2677.0
+Animal,Minibar by Jose Andres,2676.0
+New York Mets Hall of Fame,Thurman Cafe,556.0
+Thurman Cafe,Adventureland Amusement Park,581.0
+Six Flags New England,State Bird Provisions,3025.0
+State Bird Provisions,Naismith Memorial Basketball Hall of Fame,3019.0
+Del Posto,Kansas City Royals Hall of Fame,1187.0
+Kansas City Royals Hall of Fame,Babbo Ristorante,1186.0
+U.S. National Museum of Racing and Hall of Fame,National Baseball Hall of Fame and Museum,78.5
+Volleyball Hall of Fame,Verizon 500 Clinton Center Dr,1361.0
+Verizon 500 Clinton Center Dr,New England Patriots Hall of Fame,1419.0
+TD Garden,Circus Hall of Fame,906.0
+Circus Hall of Fame,Mr. Bartley's Burger Cottage,903.0
+International Tennis Hall of Fame,St. Louis Cardinals Hall of Fame Museum,1137.0
+St. Louis Cardinals Hall of Fame Museum,Ted's Restaurant,1065.0
+Aviation Hall of Fame and Museum of New Jersey,Motorcycle Hall of Fame,528.0
+Motorcycle Hall of Fame,Madison Square Garden,526.0
+Six Flags New England,College Baseball Hall Of Fame,1942.0
+College Baseball Hall Of Fame,Naismith Memorial Basketball Hall of Fame,1953.0
+Irish American Baseball Hall of Fame,Verizon Center,228.0
+Verizon Center,wd~50,228.0
+Barclays Center,Hominy Grill,753.0
+Hominy Grill,New York Mets Hall of Fame,780.0
+The Great Escape & Splashwater Kingdom,Verizon 1515 E Woodfield Rd,866.0
+Verizon 1515 E Woodfield Rd,National Museum of Dance and Hall of Fame,841.0
+Louis? Lunch,American Airlines Arena,1361.0
+American Airlines Arena,Aviation Hall of Fame and Museum of New Jersey,1285.0
+wd~50,Oracle Arena,2921.0
+Oracle Arena,Ippudo,2907.0
+Corner Bistro,Zuni Cafe,2910.0
+Zuni Cafe,Sushi Yasuda,2909.0
+National Women's Hall of Fame,Osteria Mozza,2651.0
+American Theater Hall of Fame,Minibar by Jose Andres,231.0
+Minibar by Jose Andres,Le Bernardin,229.0
+Al Di La,ProRodeo Hall of Fame,1792.0
+ProRodeo Hall of Fame,The Elm,1780.0
+Verizon Center,Masa,230.0
+Masa,Rasika,230.0
+National Soccer Hall of Fame,USA Field Hockey Hall of Fame,213.0
+USA Field Hockey Hall of Fame,Seabreeze Amusement Park,323.0
+Hardcore Hall of Fame,National Toy Hall of Fame,344.0
+National Toy Hall of Fame,Delaware Sports Museum and Hall of Fame,358.0
+Six Flags New England,Texas Aviation Hall of Fame,1805.0
+Texas Aviation Hall of Fame,Naismith Memorial Basketball Hall of Fame,1795.0
+TD Garden,Ted's Restaurant,118.0
+Ted's Restaurant,Mr. Bartley's Burger Cottage,115.0
+Fore Street,Entrepreneur Walk of Fame,107.0
+Entrepreneur Walk of Fame,Louis? Lunch,140.0
+Sushi Yasuda,Philips Arena,872.0
+Philips Arena,Masa,870.0
+Del Posto,Goddard White Sands Test Facility,2113.0
+Goddard White Sands Test Facility,Babbo Ristorante,2112.0
+Le Bernardin,Lucques,2802.0
+Lucques,Betony,2801.0
+Gramercy Tavern,Verizon 5000 Britton RD,549.0
+Verizon 5000 Britton RD,Momofuku Ssam Bar,550.0
+Zaytinya,Pro Football Hall of Fame,343.0
+Pro Football Hall of Fame,Minibar by Jose Andres,344.0
+National Sprint Car Hall of Fame,Lacrosse Museum and National Hall of Fame,1019.0
+International Boxing Hall of Fame,Atlanta Braves Museum and Hall of Fame,988.0
+Atlanta Braves Museum and Hall of Fame,National Baseball Hall of Fame and Museum,967.0
+Momofuku Ko,Topolobampo,804.0
+Topolobampo,Eleven Madison Park,794.0
+Camp Wilderness Resort,Verizon 99 Shawan Rd,475.0
+Verizon 99 Shawan Rd,Husk,595.0
+Eleven Madison Park,Alder,1.1
+Alder,Blue Hill at Stone Barns,1.2
+Seabreeze Amusement Park,Ohio State Varsity O Hall of Fame,402.0
+Ohio State Varsity O Hall of Fame,Robot Hall of Fame,191.0
+Philadelphia Baseball Wall of Fame,Verizon 3305 160th Ave SE,2815.0
+Verizon 3305 160th Ave SE,Verizon 6955 W Morelos PL,1420.0
+Verizon 6955 W Morelos PL,Delaware Sports Museum and Hall of Fame,2338.0
+National Polish-American Sports Hall of Fame,Volleyball Hall of Fame,624.0
+Entrepreneur Walk of Fame,Verizon 125 High St - High Tower,2.8
+Verizon 125 High St - High Tower,Craigie on Main,4.7
+The Spotted Pig,Jean Georges,2.7
+Jean Georges,The Little Owl,3.3
+Masa,Women's Basketball Hall of Fame,710.0
+Women's Basketball Hall of Fame,Marea,709.0
+Per Se,Corner Bistro,2.7
+Corner Bistro,Goddard Institute for Space Studies,5.8
+Hall of Fame for Great Americans,Verizon 133 Calkins Rd,337.0
+Verizon 133 Calkins Rd,Rye Playland,340.0
+Virginia Air & Space Center,Canlis,2935.0
+The Spotted Pig,Verizon 500 Technology Dr,977.0
+Verizon 500 Technology Dr,The Little Owl,981.0
+Hall of Fame for Great Americans,Utah Aviation Hall of Fame,2169.0
+Utah Aviation Hall of Fame,Rye Playland,2195.0
+National Soccer Hall of Fame,Verizon 5165 Emerald Pkwy,549.0
+Verizon 5165 Emerald Pkwy,Seabreeze Amusement Park,406.0
+Delaware Sports Museum and Hall of Fame,Minnesota Walk of Fame,1160.0
+Masa,NASCAR Hall of Fame,636.0
+NASCAR Hall of Fame,Marea,632.0
+Chef's Table at Brooklyn Fare,Cincinnati Reds Hall of Fame and Museum,658.0
+Cincinnati Reds Hall of Fame and Museum,Al Di La,656.0
+National Women's Hall of Fame,Verizon One Verizon WAY,254.0
+Verizon One Verizon WAY,National Distance Running Hall of Fame,243.0
+CityZen,Colorado Sports Hall of Fame,1661.0
+Colorado Sports Hall of Fame,NASA Headquarters,1662.0
+Six Flags New England,Verizon 30 Independence Blvd,171.0
+Verizon 30 Independence Blvd,Naismith Memorial Basketball Hall of Fame,183.0
+International Tennis Hall of Fame,Rye Playland,152.0
+Rye Playland,Ted's Restaurant,70.9
+Bronx Walk of Fame,Fore Street,304.0
+Fore Street,Blue Hill at Stone Barns,291.0
+Hersheypark,Verizon 100 Southgate Pkwy,138.0
+Verizon 100 Southgate Pkwy,Knoebels Amusement Resort,139.0
+Goddard Wallops Flight Facility,Nashville Songwriters Foundation,797.0
+Nashville Songwriters Foundation,Virginia Air & Space Center,690.0
+TD Garden,Christian's Tailgate Bar & Grill,1848.0
+Christian's Tailgate Bar & Grill,Mr. Bartley's Burger Cottage,1848.0
+Irish American Baseball Hall of Fame,Verizon 500 2nd Ave SE,1025.0
+Verizon 500 2nd Ave SE,wd~50,1023.0
+Il Buco Alimentari & Vineria,Splish Splash,74.0
+Splish Splash,Nobu,75.8
+Adventureland Amusement Park,Minetta Tavern,36.6
+Minetta Tavern,The Great Escape & Splashwater Kingdom,204.0
+Six Flags Great Adventure,Verizon 2401 Mall DR,713.0
+Verizon 2401 Mall DR,Irish American Baseball Hall of Fame,755.0
+National Distance Running Hall of Fame,Verizon 999 W Main St,275.0
+Verizon 999 W Main St,National Toy Hall of Fame,361.0
+Zahav,City Grocery,1028.0
+Il Buco Alimentari & Vineria,Verizon 3815 S Capital Of Texas Hwy,1748.0
+Verizon 3815 S Capital Of Texas Hwy,Sleep Train Arena,1762.0
+Sleep Train Arena,Sushi Nakazawa,2821.0
+Lexington Candy Shop,EnergySolutions Arena,2183.0
+EnergySolutions Arena,Hall of Fame for Great Americans,2179.0
+wd~50,Kings Island Theme Park,616.0
+Kings Island Theme Park,Ippudo,616.0
+Volleyball Hall of Fame,E by Jose Andres,2636.0
+E by Jose Andres,New England Patriots Hall of Fame,2720.0
+Ted's Restaurant,Next,877.0
+Next,White Manna Hamburgers,788.0
+National Women's Hall of Fame,McCrady's,871.0
+McCrady's,National Distance Running Hall of Fame,917.0
+Six Flags New England,The Apollo Theatre Hall of Fame,131.0
+The Apollo Theatre Hall of Fame,Naismith Memorial Basketball Hall of Fame,135.0
+Babbo Ristorante,US Space Walk of Fame Museum,1073.0
+US Space Walk of Fame Museum,Bronx Walk of Fame,1082.0
+Goddard Institute for Space Studies,Volleyball Hall of Fame,143.0
+Volleyball Hall of Fame,Lexington Candy Shop,143.0
+The Great Escape & Splashwater Kingdom,Kuma's Corner,839.0
+Kuma's Corner,National Museum of Dance and Hall of Fame,816.0
+Philadelphia Baseball Wall of Fame,Naval Aviation Hall of Honor,1106.0
+Naismith Memorial Basketball Hall of Fame,Verizon 300 John Q Hammons Pkwy,1323.0
+Verizon 300 John Q Hammons Pkwy,O-Ya,1405.0
+Barclays Center,Verizon One Verizon Dr,1219.0
+Verizon One Verizon Dr,New York Mets Hall of Fame,1250.0
+White Manna Hamburgers,Colorado Sports Hall of Fame,1776.0
+Colorado Sports Hall of Fame,Six Flags Great Adventure,1769.0
+Momofuku Ssam Bar,Six Flags Great America,836.0
+Six Flags Great America,Brindle Room,836.0
+The Apollo Theatre Hall of Fame,University of Iowa Athletics Hall of Fame,1006.0
+University of Iowa Athletics Hall of Fame,Daniel,1002.0
+Kings Dominion,Guy Savoy,2412.0
+American Theater Hall of Fame,Goddard IV and V Facility,400.0
+Goddard IV and V Facility,Le Bernardin,401.0
+Hall of Fame for Great Americans,Verizon 15 Chestnut St,166.0
+Verizon 15 Chestnut St,Rye Playland,149.0
+Sketch Burger,The Barn at Blackberry Farm,641.0
+The Barn at Blackberry Farm,Philadelphia Baseball Wall of Fame,636.0
+Inn at Little Washington,American TV Game Show Hall of Fame,2376.0
+Knoebels Amusement Resort,Science Fiction Museum and Hall of Fame,2710.0
+Science Fiction Museum and Hall of Fame,Sesame Place,2842.0
+Mr. Bartley's Burger Cottage,EnergySolutions Arena,2364.0
+EnergySolutions Arena,America's Cup Hall of Fame,2368.0
+Six Flags Great Adventure,Babbo Ristorante,69.5
+Babbo Ristorante,Irish American Baseball Hall of Fame,1.8
+Blue Hill at Stone Barns,Madison Square Garden,1.8
+Madison Square Garden,Il Buco Alimentari & Vineria,2.6
+Per Se,Verizon 140 West St,5.0
+Verizon 140 West St,Goddard Institute for Space Studies,7.2
+International Tennis Hall of Fame,Perini Ranch Steakhouse,1930.0
+Perini Ranch Steakhouse,Ted's Restaurant,1847.0
+Madison Square Garden,Bronx Walk of Fame,8.4
+Bronx Walk of Fame,NoMad,9.3
+Minetta Tavern,Verizon 4600 Innovation DR,1296.0
+Verizon 4600 Innovation DR,Sushi Nakazawa,1295.0
+Betony,Verizon 500 2nd Ave SE,1026.0
+Verizon 500 2nd Ave SE,Jean Georges,1024.0
+Hall of Fame for Great Americans,Irish American Baseball Hall of Fame,12.4
+Irish American Baseball Hall of Fame,Rye Playland,28.0
+Del Posto,My Brother's Bar,1780.0
+My Brother's Bar,Babbo Ristorante,1777.0
+The Spotted Pig,Spiaggia,795.0
+Spiaggia,The Little Owl,795.0
+Lexington Candy Shop,Verizon 5165 Emerald Pkwy,566.0
+Verizon 5165 Emerald Pkwy,Hall of Fame for Great Americans,568.0
+Magic Forest,Burger & Beer Joint,1479.0
+Burger & Beer Joint,U.S. National Museum of Racing and Hall of Fame,1455.0
+Betony,The Bazaar,2805.0
+The Bazaar,Jean Georges,2804.0
+White Manna Hamburgers,Blue Hill at Stone Barns,30.2
+Blue Hill at Stone Barns,Six Flags Great Adventure,99.0
+The Spotted Pig,Palm Springs Walk of Stars,2699.0
+Palm Springs Walk of Stars,The Little Owl,2700.0
+Lexington Candy Shop,Verizon 30 Independence Blvd,40.8
+Verizon 30 Independence Blvd,Hall of Fame for Great Americans,47.0
+Hall of Fame for Great Americans,Green Bay Packers Hall of Fame,1002.0
+Green Bay Packers Hall of Fame,Rye Playland,1029.0
+Rye Playland,Aviation Hall of Fame and Museum of New Jersey,30.8
+Aviation Hall of Fame and Museum of New Jersey,Harness Racing Museum & Hall of Fame,49.5
+Barclays Center,Verizon 22001 Loudoun County PKWY,242.0
+Verizon 22001 Loudoun County PKWY,New York Mets Hall of Fame,271.0
+Six Flags New England,Toyota Center,1770.0
+Toyota Center,Naismith Memorial Basketball Hall of Fame,1775.0
+Sushi Yasuda,Verizon 100 Ne Loop 410,1829.0
+Verizon 100 Ne Loop 410,Masa,1831.0
+Barclays Center,Verizon 500 Summit Lake Dr,42.9
+Verizon 500 Summit Lake Dr,New York Mets Hall of Fame,29.7
+National Distance Running Hall of Fame,Verizon 701 Brookfield PKWY,834.0
+Momofuku Ko,Science Fiction Museum and Hall of Fame,2866.0
+Science Fiction Museum and Hall of Fame,Thurman Cafe,2421.0
+Thurman Cafe,Del Posto,539.0
+Rye Playland,National Jewish Sports Hall of Fame and Museum,51.1
+National Jewish Sports Hall of Fame and Museum,Harness Racing Museum & Hall of Fame,94.6
+New York Mets Hall of Fame,Blue Hill at Stone Barns,32.0
+Blue Hill at Stone Barns,Adventureland Amusement Park,53.2
+Bronx Walk of Fame,Spiaggia,796.0
+Spiaggia,Blue Hill at Stone Barns,815.0
+Zahav,Verizon 385 Myles Standish Blvd,303.0
+Verizon 385 Myles Standish Blvd,Sketch Burger,301.0
+Goddard Space Flight Center,Verizon 1717 Arch ST,124.0
+Verizon 1717 Arch ST,Six Flags Great Adventure,54.2
+Six Flags Great Adventure,Inn at Little Washington,253.0
+National Toy Hall of Fame,International Bowling Hall of Fame,1452.0
+International Bowling Hall of Fame,Kennywood,1246.0
+Kennywood,Verizon 180 Washington Valley Rd,332.0
+Verizon 180 Washington Valley Rd,Vocal Group Hall of Fame,359.0
+Water Country USA,St. Louis Wrestling Hall of Fame,874.0
+St. Louis Wrestling Hall of Fame,Langely Research Center,895.0
+Six Flags Great Adventure,International Boxing Hall of Fame,311.0
+International Boxing Hall of Fame,Irish American Baseball Hall of Fame,264.0
+U.S. National Museum of Racing and Hall of Fame,Madison Square Garden,180.0
+Madison Square Garden,National Women's Hall of Fame,269.0
+Zuni Cafe,Volleyball Hall of Fame,3015.0
+Ted's Restaurant,Virginia Air & Space Center,508.0
+Virginia Air & Space Center,White Manna Hamburgers,416.0
+Harness Racing Museum & Hall of Fame,Zahav,148.0
+Zahav,Peter Luger,98.5
+National Baseball Hall of Fame and Museum,NASCAR Hall of Fame,732.0
+NASCAR Hall of Fame,National Soccer Hall of Fame,705.0
+Sesame Place,Chef's Table at Brooklyn Fare,73.8
+Chef's Table at Brooklyn Fare,Vetri,98.7
+NoMad,Verizon 6955 W Morelos PL,2413.0
+Verizon 6955 W Morelos PL,Gotham Bar & Grill,2412.0
+Gotham Bar & Grill,ABC Kitchen,1.0
+ABC Kitchen,Ippudo,0.7
+Ippudo,Gramercy Tavern,0.9
+Sushi Yasuda,Hersheypark,165.0
+Hersheypark,Masa,165.0
+Rye Playland,Oracle Arena,2939.0
+Oracle Arena,Harness Racing Museum & Hall of Fame,2899.0
+O-Ya,National Soccer Hall of Fame,249.0
+National Soccer Hall of Fame,Entrepreneur Walk of Fame,252.0
+Eleven Madison Park,Rasika,230.0
+Rasika,Blue Hill at Stone Barns,227.0
+National Distance Running Hall of Fame,TD Garden,261.0
+TD Garden,National Toy Hall of Fame,391.0
+Minibar by Jose Andres,Del Posto,228.0
+Del Posto,CityZen,230.0
+Del Posto,Verizon 13100 Columbia Pike,218.0
+Verizon 13100 Columbia Pike,Babbo Ristorante,215.0
+Hersheypark,Motorcycle Hall of Fame,368.0
+Motorcycle Hall of Fame,Knoebels Amusement Resort,401.0
+Alder,Verizon 15505 Sand Canyon Ave,2792.0
+Verizon 15505 Sand Canyon Ave,Momofuku Ko,2791.0
+The Little Owl,Beast,2896.0
+Beast,American Theater Hall of Fame,2895.0
+National Women's Hall of Fame,Nasa Dryden Flight Research Center,2588.0
+Nasa Dryden Flight Research Center,National Distance Running Hall of Fame,2669.0
+Vetri,Sleep Train Arena,2791.0
+Naismith Memorial Basketball Hall of Fame,Jean Georges,138.0
+Jean Georges,O-Ya,211.0
+Il Buco Alimentari & Vineria,The Apollo Theatre Hall of Fame,8.9
+Per Se,Cut,2806.0
+Cut,Goddard Institute for Space Studies,2808.0
+Goddard Institute for Space Studies,Minetta Tavern,7.2
+Fore Street,Verizon 1717 Arch ST,409.0
+Verizon 1717 Arch ST,Louis? Lunch,176.0
+Barclays Center,Cut,2794.0
+Cut,New York Mets Hall of Fame,2816.0
+Eleven Madison Park,NASA Johnson Space Center,1628.0
+NASA Johnson Space Center,Blue Hill at Stone Barns,1626.0
+NASA Headquarters,College Baseball Hall Of Fame,1630.0
+International Boxing Hall of Fame,Iowa Aviation Hall of Fame,1073.0
+Iowa Aviation Hall of Fame,National Baseball Hall of Fame and Museum,1140.0
+Eleven Madison Park,Minibar by Jose Andres,231.0
+Minibar by Jose Andres,Blue Hill at Stone Barns,227.0
+American Theater Hall of Fame,American Airlines Arena,1284.0
+American Airlines Arena,Le Bernardin,1283.0
+Hersheypark,Kansas City Royals Hall of Fame,1029.0
+Kansas City Royals Hall of Fame,Knoebels Amusement Resort,1067.0
+Naismith Memorial Basketball Hall of Fame,McCrady's,902.0
+McCrady's,O-Ya,973.0
+American Theater Hall of Fame,Verizon 5165 Emerald Pkwy,559.0
+Verizon 5165 Emerald Pkwy,Le Bernardin,565.0
+Irish American Baseball Hall of Fame,Babbo Ristorante,1.7
+Babbo Ristorante,wd~50,2.0
+Blue Hill at Stone Barns,NoMad,1.5
+NoMad,Il Buco Alimentari & Vineria,1.7
+The Little Owl,Universal Studios Hollywood,2799.0
+Universal Studios Hollywood,American Theater Hall of Fame,2797.0
+Jean Georges,Cedar Point Amusement,520.0
+Cedar Point Amusement,The Apollo Theatre Hall of Fame,517.0
+Blue Hill at Stone Barns,E by Jose Andres,2550.0
+E by Jose Andres,Chef's Table at Brooklyn Fare,2529.0
+Virginia Air & Space Center,International Bowling Hall of Fame,1371.0
+International Bowling Hall of Fame,Goddard IV and V Facility,1200.0
+Irish American Baseball Hall of Fame,Burlesque Hall of Fame,2526.0
+Burlesque Hall of Fame,Solly's Grille,1793.0
+Solly's Grille,Gotham Bar & Grill,884.0
+American Theater Hall of Fame,US Space Walk of Fame Museum,1074.0
+US Space Walk of Fame Museum,Le Bernardin,1073.0
+Bronx Walk of Fame,Verizon 99 Shawan Rd,205.0
+Verizon 99 Shawan Rd,Blue Hill at Stone Barns,226.0
+Night + Market,Volleyball Hall of Fame,2908.0
+Fore Street,Mission Chinese Food,3199.0
+Mission Chinese Food,Louis? Lunch,2985.0
+Six Flags New England,Peter Luger,137.0
+Peter Luger,Naismith Memorial Basketball Hall of Fame,141.0
+Chef's Table at Brooklyn Fare,Volleyball Hall of Fame,151.0
+Volleyball Hall of Fame,Al Di La,152.0
+Vocal Group Hall of Fame,Six Flags Discovery Kingdom,2497.0
+Six Flags Discovery Kingdom,Dutch Wonderland,2782.0
+Naismith Memorial Basketball Hall of Fame,Pepsi Center,1890.0
+Pepsi Center,Mississippi Musicians Hall of Fame,1208.0
+Mississippi Musicians Hall of Fame,TD Garden,1414.0
+Momofuku Ssam Bar,Bouchon Bistro,2528.0
+Bouchon Bistro,Brindle Room,2527.0
+Le Bernardin,International Bowling Hall of Fame,1567.0
+Momofuku Ko,Verizon 3305 160th Ave SE,2854.0
+Verizon 3305 160th Ave SE,Eleven Madison Park,2851.0
+Lexington Candy Shop,Brindle Room,4.9
+Brindle Room,Hall of Fame for Great Americans,11.5
+Bronx Walk of Fame,Time Warner Cable Arena,642.0
+Time Warner Cable Arena,Blue Hill at Stone Barns,659.0
+International Tennis Hall of Fame,Zuni Cafe,3084.0
+Zuni Cafe,Ted's Restaurant,2994.0
+Alder,NCAA Hall of Champions,711.0
+NCAA Hall of Champions,Momofuku Ko,712.0
+Masa,Verizon 8350 E Crescent PKWY,1791.0
+Verizon 8350 E Crescent PKWY,Marea,1790.0
+Corner Bistro,Rye Playland,30.7

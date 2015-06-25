@@ -1,25 +1,25 @@
 package google.maps;
 
 import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileNotFoundException;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.net.URL;
 import java.util.List;
+import java.util.Scanner;
 
 import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
 
 public class DistanceMatrix {
-
-	// public static final String APIKey =
-	// "AIzaSyCaIReM8ShC5vxhKbL4ZdG8KoIoOeWDXlo";
-
-	public static final String APIKey = "AIzaSyDkYvNNnW6zS3bk93XuCJHCcU9PLL_7FvA";
+	public static final String APIKey = "AIzaSyDCQZ7ucyN7vot5YmYl9_TwY0xrIXgVXUE";
 
 	static String urlString = "";
 	static String json = "";
-	
+
 	Location location1;
 	Location location2;
 
@@ -70,21 +70,43 @@ public class DistanceMatrix {
 		return Double.parseDouble(distanceString);
 	}
 
-	public boolean queryDataExists() {
+	public boolean queryDataExists() throws FileNotFoundException {
 		boolean exists = false;
-		
+		Scanner scanner = new Scanner(new File("./src/QueryData.txt"));
+		while (scanner.hasNextLine()) {
+			String dataLine = scanner.nextLine();
+			String[] data = dataLine.split(",");
+			if (location1.name.equals(data[0])
+					&& location2.name.equals(data[1]))
+				exists = true;
+		}
 		return exists;
 	}
-	
+
 	public void saveQueryData() throws IOException {
-		FileWriter writer = new FileWriter("QueryData.txt");
-		writer.append(location1.name + ",");
-		writer.append(location2.name + ",");
-		writer.append(this.getDistance() + "\n");
-		writer.flush();
-		writer.close();
+		File file = new File("./src/QueryData.txt");
+		FileWriter fw = new FileWriter(file.getAbsoluteFile(), true);
+		BufferedWriter bw = new BufferedWriter(fw);
+		bw.append(location1.name + ",");
+		bw.append(location2.name + ",");
+		bw.write(this.getDistance() + "\n");
+		bw.close();
 	}
-	
+
+	public double retreiveQueryData() throws FileNotFoundException {
+		String orginLocation = location1.name;
+		String destinationLocation = location2.name;
+		Scanner scanner = new Scanner(new File("./src/QueryData.txt"));
+		while (scanner.hasNextLine()) {
+			String dataLine = scanner.nextLine();
+			String[] data = dataLine.split(",");
+			if (location1.name.equals(data[0])
+					&& location2.name.equals(data[1]))
+				return Double.parseDouble(data[2]);
+		}
+		return 0.0;
+	}
+
 	static class Page {
 		List<String> destination_addresses;
 		List<String> origin_addresses;

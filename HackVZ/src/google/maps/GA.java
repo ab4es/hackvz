@@ -6,11 +6,11 @@ public class GA {
 
 	public static void main(String[] args) throws Exception {
 		// Create initial population
-		Population myPop = new Population(7, true);
+		Population myPop = new Population(25, true);
 		Algorithm alg = new Algorithm();
 		
 		// Evolve our population until we reach a near optimal solution
-		int generations = 1;
+		int generations = 10;
 		for (int i = 0; i < generations; i++) {
 			System.out.println("Generation[" + i + "]");
 			myPop = alg.evolvePopulation(myPop);

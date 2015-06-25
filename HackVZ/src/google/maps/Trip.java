@@ -95,12 +95,20 @@ public class Trip {
 		}
 		return res;
 	}
+	
+	public void print() {
+		for (Location loc: locations) {
+			System.out.println(loc.toString());
+		}
+	}
 
 	public static void main(String[] args) throws NumberFormatException,
 			IOException {
 		Trip t = new Trip();
-		t.toCSV();
-		System.out.println("done");
+		Location loc1 = t.locations[0];
+		Location loc2 = t.locations[1];
+		DistanceMatrix matrix = new DistanceMatrix(loc1, loc2);
+		matrix.saveQueryData();
 	}
 	
 
