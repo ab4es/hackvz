@@ -22,7 +22,7 @@ public class CSV {
 			counter++;
 		}
 
-		return counter;
+		return counter - 1;
 
 	}
 

@@ -5,33 +5,52 @@ import java.io.IOException;
 
 public class Population {
 
-	Location[] locations;
+	Trip[] trips;
 
 	/*
 	 * Constructors
 	 */
 	// Create the initial population
-	public Population() throws NumberFormatException, IOException {
-		// Intialize population
-		CSV csv = new CSV();
-		locations = csv.loadLocations();
+	public Population(int populationSize, boolean initialize)
+			throws NumberFormatException, IOException {
+		trips = new Trip[populationSize];
+		// Initialize population
+		if (initialize) {
+			for (int i = 0; i < trips.length; i++) {
+				Trip temp = new Trip();
+				temp.shuffleTrip();
+				saveTrip(i, temp);
+			}
+		}
+	}
+	
+	public Trip getFittest() {
+		Trip fittest = trips[0];
+		
+		for (Trip t: trips) {
+			if (fittest.getFitness() <= t.getFitness()) {
+				fittest = t;
+			}
+		}
+		
+		return fittest;
 	}
 
-	// Create custom population
-	public Population(int populationSize) throws NumberFormatException,
-			IOException {
-
-		locations = new Location[populationSize];
+	public void saveTrip(int index, Trip trip) {
+		trips[index] = trip;
 	}
 
 	public void print() {
-		for (Location l: locations)
-			System.out.println(l.toString());
+		for (Trip t : trips) {
+			System.out.println(t.toString());
+			System.out.println("==========================");
+			System.out.println();
+		}
 	}
 
 	public static void main(String[] args) throws NumberFormatException,
 			IOException {
-		Population pop = new Population();
+		Population pop = new Population(2, true);
 		pop.print();
 	}
 

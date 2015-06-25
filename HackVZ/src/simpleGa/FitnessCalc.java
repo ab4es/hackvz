@@ -48,5 +48,4 @@ public class FitnessCalc {
 		// TODO Auto-generated method stub
 
 	}
-
 }

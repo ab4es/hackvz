@@ -10,7 +10,7 @@ public class Population {
 	// Create a population
 	public Population(int populationSize, boolean initialize) {
 		individuals = new Individual[populationSize];
-		// Intialize population
+		// Initialize population
 		if (initialize) {
 			// Loop and create individuals
 			for (int i = 0; i < size(); i++) {
