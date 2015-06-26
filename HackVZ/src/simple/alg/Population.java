@@ -1,4 +1,4 @@
-package google.maps;
+package simple.alg;
 
 import java.io.File;
 import java.io.IOException;
@@ -22,17 +22,6 @@ public class Population {
 				saveTrip(i, temp);
 			}
 		}
-	}
-	
-	// Get the fittest trip
-	public Trip getFittest() throws Exception {
-		Trip fittest = trips[0];
-		for (Trip t: trips) {
-			if (fittest.getFitness() < t.getFitness()) {
-				fittest = t;
-			}
-		}
-		return fittest;
 	}
 
 	public void saveTrip(int index, Trip trip) {

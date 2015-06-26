@@ -1,4 +1,4 @@
-package google.maps;
+package simple.alg;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -15,7 +15,7 @@ import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
 
 public class DistanceMatrix {
-	public static final String APIKey = "AIzaSyAaiDzfRZi8VOn1DQbO3qB2D7ylkoqqsAg";
+	public static final String APIKey = "AIzaSyC98RGC1FMVchRhjPl1Nqucm-aygZ_exbY";
 
 	static String urlString = "";
 	static String json = "";

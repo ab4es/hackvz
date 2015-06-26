@@ -1,0 +1,119 @@
+Longitude,Latitude,Type,Name,Street,City,State,Zip_Code
+-122.327735,47.661143,Best Burgers,Dick?s Drive-In,111 NE 45th St,Seattle,WA,98105
+-122.380162,47.663556,Best Restaurants,The Walrus and the Carpenter,4743 Ballard Ave NW,Seattle,WA,98107
+-122.348094,47.621494,Halls of Fame,Science Fiction Museum and Hall of Fame,325 5th Ave N,Seattle,WA,98109
+-122.346741,47.642958,Best Restaurants,Canlis,2576 Aurora Ave N,Seattle,WA,98109
+-122.1350759,47.5794218,Verizon Locations,Verizon 3245 158th Ave SE,3245 158th Ave SE,Bellevue,WA,98008
+-122.1322073,47.5809197,Verizon Locations,Verizon 3305 160th Ave SE,3305 160th Ave SE,Bellevue,WA,98008
+-122.632083,45.504625,Best Restaurants,Pok Pok,3226 SE Division St,Portland,OR,97202
+-122.635061,45.562404,Best Restaurants,Beast,5425 NE 30th Ave,Portland,OR,97211
+-122.657979,45.522752,Best Restaurants,Le Pigeon,738 E Burnside St,Portland,OR,97214
+-122.638035,45.461231,Halls of Fame,Oregon Sports Hall of Fame,8500 SE McLoughlin Blvd,Portland,OR,97222
+-118.247209,34.047833,Best Restaurants,Baco Mercat,408 S Main St,Los Angeles,CA,90013
+-118.267222,34.043056,NBA Stadium,Staples Center,1111 S. Figueroa Street,Los Angeles,CA,90015
+-118.342086,34.101318,Halls of Fame,Hollywood Walk of Fame,7018 Hollywood Blvd,Los Angeles,CA,90028
+-118.361689,34.079226,Best Restaurants,Animal,435 N Fairfax Ave,Los Angeles,CA,90036
+-118.338773,34.083273,Best Restaurants,Osteria Mozza,6602 Melrose Ave,Los Angeles,CA,90038
+-118.330173,34.083641,Best Restaurants,Providence,5955 Melrose Ave,Los Angeles,CA,90038
+-118.376747,34.069818,Best Restaurants,The Bazaar,465 S La Cienega Blvd,Los Angeles,CA,90048
+-118.414672,34.056376,Best Restaurants,Hinoki & The Bird,10 W Century Dr,Los Angeles,CA,90067
+-118.389076,34.09086,Best Restaurants,Night + Market,9041 W Sunset Blvd,West Hollywood,CA,90069
+-118.375338,34.082332,Best Restaurants,Lucques,8474 Melrose Ave,Los Angeles,CA,90069
+-118.397651,34.067621,Best Restaurants,Spago,176 N Canon Dr.,Beverly Hills,CA,90210
+-118.400707,34.066679,Best Restaurants,Cut,9500 Wilshire Blvd,Beverly Hills,CA,90212
+-118.498416,34.029339,Best Burgers,Father's Office,1018 Montana Ave,Santa Monica,CA,90403
+-117.999444,33.844304,Theme Park,Knott's Berry Farm,8039 Beach Blvd,Buena Park,CA,90620
+-118.17571,34.1971,NASA Centers,NASA Jet Propulsion Laboratory,4800 Oak Grove Drive,Pasadena,CA,91109
+-118.596886,34.425418,Theme Park,Six Flags Magic Mountain,26101 Magic Mountain Pkwy,Valencia,CA,91355
+-118.353045,34.13809,Theme Park,Universal Studios Hollywood,100 Universal City Plaza,Universal City,CA,91608
+-117.311643,33.126407,Theme Park,Legoland California,One LEGOLAND Drive,Carlsbad,CA,92008
+-117.152376,32.727258,Halls of Fame,Breitbard Hall of Fame,2131 Pan American Plaza,San Diego,CA,92101
+-117.225689,32.764881,Theme Park,SeaWorld San Diego,500 Sea World Dr,San Diego,CA,92109
+-117.918836,33.805885,Theme Park,Disney California Adventure Park,1313 Disneyland Dr,Anaheim,CA,92802
+-117.89652,34.95618,NASA Centers,Nasa Dryden Flight Research Center,N Rosamond Blvd,Edwards,CA,93524
+-122.06562,37.40892,NASA Centers,Nasa Ames Research Center,801 Moffett Blvd,Mountain View,CA,94043
+-122.06417,37.40899,NASA Centers,NASA Exploration Center,Moffett Federal Field,Mountain View,CA,94043
+-122.421643,37.773621,Best Burgers,Zuni Cafe,1658 Market St,San Francisco,CA,94102
+-122.392041,37.791174,Halls of Fame,Bay Area Sports Hall of Fame,201 Spear St #1150,San Francisco,CA,94105
+-122.399246,37.78975,Best Restaurants,Yank Sing (Rincon Center),49 Stevenson Street,San Francisco,CA,94105
+-122.393441,37.79542,Best Burgers,Gott's Roadside,1 Ferry Building; Suite 6,San Francisco,CA,94105
+-122.420601,37.805856,Best Restaurants,Gary Danko,800 N Point St.,San Francisco,CA,94109
+-122.421581,37.763981,Best Restaurants,Bar Tartine,561 Valencia St,San Francisco,CA,94110
+-122.419651,37.761216,Best Restaurants,Mission Chinese Food,2234 Mission St,San Francisco,CA,94110
+-122.39962,37.793446,Best Restaurants,Michael Mina,252 California St,San Francisco,CA,94111
+-122.433047,37.7837,Best Restaurants,State Bird Provisions,1529 Fillmore St,San Francisco,CA,94115
+-122.403399,37.798109,Best Restaurants,Coi,373 Broadway St,San Francisco,CA,94133
+-122.40335,37.797473,Best Restaurants,Quince,470 Pacific Ave,San Francisco,CA,94133
+-122.388215,38.418955,Best Burgers,Mustards Grill,7399 Saint Helena Hwy,Napa,CA,94558
+-122.466628,38.522566,Best Restaurants,The Restaurant at Meadowood,900 Meadowood Lane,Saint Helena,CA,94574
+-122.24967,38.14193,Theme Park,Six Flags Discovery Kingdom,1001 Fairgrounds Dr,Vallejo,CA,94589
+-122.364989,38.404398,Best Restaurants,The French Laundry,6640 Washington St,Yountville,CA,94599
+-122.361985,38.402587,Best Restaurants,Bouchon Bistro,6534 Washington St,Yountville,CA,94599
+-122.203056,37.750278,NBA Stadium,Oracle Arena,7000 Coliseum Way,Oakland,CA,94621
+-122.268858,37.879616,Best Restaurants,Chez Panisse,1517 Shattuck Ave,Berkeley,CA,94709
+-121.980878,37.227396,Best Restaurants,Manresa,320 Village Ln.,Los Gatos,CA,95030
+-121.744433,38.544291,Halls of Fame,U.S. Bicycling Hall of Fame,303 3rd St,Davis,CA,95616
+-121.490328,38.581193,Best Burgers,Jim-Denny's,816 12th St,Sacramento,CA,95814
+-121.518056,38.649167,NBA Stadium,Sleep Train Arena,One Sports Parkway,Sacramento,CA,95834
+-121.18116,38.659062,Verizon Locations,Verizon 255 Parkshore DR,255 Parkshore DR,Folsom,CA,95630
+-121.182588,38.661145,Verizon Locations,Verizon 600 Coolidge DR,600 Coolidge DR,Folsom,CA,95630
+-117.7689686,33.6687967,Verizon Locations,Verizon 15505 Sand Canyon Ave,15505 Sand Canyon Ave,Irvine,CA,92618
+-121.9277463,37.3951912,Verizon Locations,Verizon 2870 Zanker RD,2870 Zanker RD,San Jose,CA,95134
+-122.0209671,37.9283134,Verizon Locations,Verizon 2770 Shadelands DR,2770 Shadelands DR,Walnut Creek,CA,94598
+-122.3918424,37.7912413,Verizon Locations,Verizon 201 Spear St,201 Spear St,San Francisco,CA,94105
+-118.9324099,34.187218,Verizon Locations,Verizon 2535 W Hillcrest Dr,2535 W Hillcrest Dr,Thousand Oaks,CA,91320
+-121.4996507,38.4691,Verizon Locations,Verizon 7901 Freeport Blvd,7901 Freeport Blvd,Sacramento,CA,95832
+-116.546806,33.825818,Halls of Fame,Palm Springs Walk of Stars,N Palm Canyon Dr,Palm Springs,CA,92262
+-115.139599,36.169116,Halls of Fame,Burlesque Hall of Fame,520 Fremont St,Las Vegas,NV,89101
+-115.140445,36.142885,Best Restaurants,Lotus of Siam,953 E. Sahara Ave. Suite A5,Las Vegas,NV,89104
+-115.151412,36.136285,Halls of Fame,American TV Game Show Hall of Fame,3000 Paradise Rd,Las Vegas,NV,89109
+-115.174827,36.115195,Best Restaurants,Guy Savoy,3570 Las Vegas Blvd S,Las Vegas,NV,89109
+-115.173873,36.109754,Best Restaurants,E by Jose Andres,3708 S Las Vegas Blvd,Paradise,NV,89109
+-115.170437,36.102563,Best Restaurants,Joel Robuchon,3799 South Las Vegas Blvd,Las Vegas,NV,89109
+-115.168805,36.120671,Best Restaurants,Bouchon Bistro,3355 Las Vegas Blvd,Las Vegas,NV,89109
+-119.808434,39.525774,Halls of Fame,Off-Road Motorsports Hall of Fame,10 South Lake Street,Reno,NV,89501
+-111.973406,41.124264,Halls of Fame,Utah Aviation Hall of Fame,7981 Georgia St,Hill AFB,UT,84056
+-111.901111,40.768333,NBA Stadium,EnergySolutions Arena,301 West South Temple,Salt Lake City,UT,84101
+-112.071389,33.445833,NBA Stadium,Talking Stick Resort Arena,201 East Jefferson,Phoenix,AZ,85004
+-111.953222,33.447673,Halls of Fame,Hall of Flame,6101 E Van Buren St,Phoenix,AZ,85008
+-110.86597,32.139496,Halls of Fame,Arizona Aviation Hall of Fame,6000 E Valencia Road,Tuscon,AZ,85756
+-111.9618505,33.2919328,Verizon Locations,Verizon 6955 W Morelos PL,6955 W Morelos PL,Chandler,AZ,85226
+-105.897303,35.582575,Best Burgers,Bobcat Bite,420 Old Las Vegas Hwy,Santa Fe,NM,87501
+-106.614113,32.454566,NASA Centers,Goddard White Sands Test Facility,12600 NASA Road,Las Cruces,NM,88012
+-105.920723,32.920541,Halls of Fame,International Space Hall of Fame,3198 State Route 2001,Alamogordo,NM,88310
+-106.7145395,35.0774234,Verizon Locations,Verizon 7000 Central AVE SW,7000 Central AVE SW,Albuquerque,NM,87121
+-96.803324,32.792246,Best Restaurants,Fearing's,2121 McKinney Ave.,Dallas,TX,75201
+-96.810278,32.790556,NBA Stadium,American Airlines Center,2500 Victory Avenue,Dallas,TX,75219
+-97.071969,32.755497,Theme Park,Six Flags Over Texas,2201 Road to Six Flags St E,Arlington,TX,76011
+-97.069489,32.751404,Halls of Fame,International Bowling Hall of Fame,621 Six Flags Dr,Arlington,TX,76011
+-97.347028,32.788538,Halls of Fame,Texas Cowboy Hall of Fame,128 E Exchange Ave,Fort Worth,TX,76164
+-97.117869,31.552739,Halls of Fame,Texas Sports Hall of Fame,1108 S University Parks Dr,Waco,TX,76706
+-95.362222,29.750833,NBA Stadium,Toyota Center,1510 Polk Street,Houston,TX,77002
+-95.376214,29.752518,Best Burgers,Christian's Tailgate Bar & Grill,2000 Bagby St,Houston,TX,77002
+-95.399541,29.74295,Best Restaurants,Hugo's Regional Mexican Cuisine,1600 Westheimer Rd,Houston,TX,77006
+-95.392986,29.744953,Best Restaurants,Underbelly,1100 Westheimer Rd,Houston,TX,77006
+-95.398561,29.803277,Best Burgers,Becks Prime,115 W 19th St,Houston,TX,77008
+-95.098214,29.551793,NASA Centers,NASA Johnson Space Center,1601 Nasa Parkway,Houston,TX,77058
+-94.85417,29.270564,Halls of Fame,Texas Aviation Hall of Fame,2002 Terminal Dr,Galveston,TX,77554
+-98.4375,29.426944,NBA Stadium,AT&T Center,1 AT&T Center Parkway,San Antonio,TX,78219
+-98.699649,29.4584,Theme Park,SeaWorld San Antonio,10500 Sea World Dr,San Antonio,TX,78251
+-98.59987,29.601,Theme Park,Six Flags Fiesta Texas,17000 IH-10 West,San Antonio,TX,78257
+-97.75978,30.257521,Best Restaurants,Uchi,801 S Lamar Blvd,Austin,TX,78704
+-101.808015,35.194223,Halls of Fame,American Quarter Horse Hall of Fame,2601 E Interstate 40,Amarillo,TX,79104
+-101.845828,33.580236,Halls of Fame,College Baseball Hall Of Fame,1517 Texas Ave,Lubbock,TX,79401
+-99.844,32.271653,Best Burgers,Perini Ranch Steakhouse,3002 Fm 89 #A,Buffalo Gap,TX,79508
+-97.7999625,30.2421074,Verizon Locations,Verizon 3815 S Capital Of Texas Hwy,3815 S Capital Of Texas Hwy,Austin,TX,78704
+-96.9519044,32.878619,Verizon Locations,Verizon 600 Hidden Ridge,600 Hidden Ridge,Irving,TX,75038
+-96.9531655,32.8757848,Verizon Locations,Verizon 700 Hidden Ridge,700 Hidden Ridge,Irving,TX,75038
+-96.704168,32.961564,Verizon Locations,Verizon 1201 E Arapaho Rd,1201 E Arapaho Rd,Richardson,TX,75081
+-96.7036276,32.984634,Verizon Locations,Verizon 2400 N Glenville,2400 N Glenville,Richardson,TX,75082
+-96.7072747,32.9542589,Verizon Locations,Verizon 400 International Pkwy,400 International Pkwy,Richardson,TX,75081
+-98.4829715,29.5196773,Verizon Locations,Verizon 100 Ne Loop 410,100 Ne Loop 410,San Antonio,TX,78216
+-97.0403352,32.8998091,Verizon Locations,Verizon 2200 W Airfield Dr Dock E,2200 W Airfield Dr Dock E,Dfw Airport,TX,75261
+-95.4736889,29.739131,Verizon Locations,Verizon 5444 Westheimer,5444 Westheimer,Houston,TX,77056
+-97.515,35.463333,NBA Stadium,Chesapeake Energy Arena,100 W Reno Ave,Oklahoma City,OK,73102
+-97.483349,35.535713,Halls of Fame,National Cowboy Hall of Fame,1700 NE 63rd St,Oklahoma City,OK,73111
+-97.476217,35.52498,Halls of Fame,International Gymnastics Hall of Fame,2100 NE 52nd St,Oklahoma City,OK,73111
+-97.464246,35.52442,Halls of Fame,National Softball Hall of Fame,2801 NE 50th St,Oklahoma City,OK,73111
+-97.063487,36.126626,Halls of Fame,National Wrestling Hall of Fame,405 W Hall of Fame Ave,Stillwater,OK,74075
+-95.9044995,36.2540837,Verizon Locations,Verizon 6929 N Lakewood AVE,6929 N Lakewood AVE,Tulsa,OK,74117

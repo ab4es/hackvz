@@ -1,4 +1,4 @@
-package google.maps;
+package simple.alg;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -8,7 +8,7 @@ import java.io.IOException;
 
 public class CSV {
 
-	private static final String fileName = "./src/locations_Eastern_2.csv";
+	private static final String fileName = "./src/locations_simple.csv";
 	File file = new File(fileName);
 
 	public int getCSVLength() throws IOException {

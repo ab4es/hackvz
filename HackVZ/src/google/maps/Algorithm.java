@@ -126,34 +126,10 @@ public class Algorithm {
 		return fittest;
 	}
 
-	public static void main(String[] args) throws NumberFormatException,
-			IOException {
+	public static void main(String[] args) throws Exception {
 		Algorithm alg = new Algorithm();
-		Trip t1 = new Trip();
-		t1.shuffleTrip();
-		t1.printVisualDetailsVertical();
-		System.out.println();
-		System.out.println();
-		System.out.println();
-		System.out.println();
-		System.out.println();
-		System.out.println();
-		System.out.println();
-		System.out.println();
-		Trip t2 = new Trip();
-		t2.shuffleTrip();
-		t2.printVisualDetailsVertical();
-		Trip breed = alg.breed(t1, t2);
-		System.out.println();
-		System.out.println();
-		System.out.println();
-		System.out.println();
-		System.out.println();
-		System.out.println();
-		System.out.println();
-		System.out.println();
-		breed.printVisualDetailsVertical();
-
+		Population pop = new Population(10, true);
+		alg.evolvePopulation(pop);
 	}
 
 }

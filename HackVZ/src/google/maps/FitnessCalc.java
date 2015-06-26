@@ -43,6 +43,7 @@ public class FitnessCalc {
 				location1Fitness += 2.5;
 			}
 
+			
 			// Location type points
 			if (location1.isVerizonLocation()) {
 				location1Fitness += 10;
@@ -59,6 +60,7 @@ public class FitnessCalc {
 			} else if (location1.isBestRestaurants()) {
 				location1Fitness += 2;
 			}
+			
 
 			// Keep ArrayList of all states visited on this Trip
 			String location1State = location1.state;
