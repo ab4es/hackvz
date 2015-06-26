@@ -63,6 +63,10 @@ public class Location {
 	public boolean isBestRestaurants() {
 		return this.type.equals("Best Restaurants");
 	}
+	
+	public String getVisualDetails() {
+		return "[" + name + ": " + street + ", " + city + ", " + state + "]";
+	}
 
 	@Override
 	public String toString() {

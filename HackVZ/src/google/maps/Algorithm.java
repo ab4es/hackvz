@@ -4,6 +4,7 @@ import java.io.IOException;
 
 public class Algorithm {
 
+	private static final double uniformRate = 0.5;
 	private static final double mutationRate = 0.015;
 	private static final int tournamentSize = 5;
 	private static final boolean elitism = true;
@@ -34,6 +35,25 @@ public class Algorithm {
 		return newPopulation;
 	}
 
+	/*
+	public static Trip breed(Trip trip1, Trip trip2) throws NumberFormatException, IOException {
+		Trip newTrip = new Trip();
+		
+		// Loop through locations
+		for (int i = 0; i < trip1.size(); i++) {
+			// Breed
+			if (Math.random() < uniformRate) {
+				newTrip.setLocation(i, trip1.getLocation(i));
+			}
+			else {
+				newTrip.setLocation(i, trip2.getLocation(i));
+			}
+		}
+		
+		return newTrip;
+	}
+	*/
+	
 	public static Trip breed(Trip trip1, Trip trip2)
 			throws NumberFormatException, IOException {
 		// Create a new trip that will be the result of breeding the two trips
@@ -109,12 +129,30 @@ public class Algorithm {
 	public static void main(String[] args) throws NumberFormatException,
 			IOException {
 		Algorithm alg = new Algorithm();
-		Trip t = new Trip();
-		System.out.println("Original trip: ");
-		System.out.println(t.toString());
-		alg.mutate(t);
-		System.out.println("Mutated trip: ");
-		System.out.println(t.toString());
+		Trip t1 = new Trip();
+		t1.shuffleTrip();
+		t1.printVisualDetailsVertical();
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		Trip t2 = new Trip();
+		t2.shuffleTrip();
+		t2.printVisualDetailsVertical();
+		Trip breed = alg.breed(t1, t2);
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		breed.printVisualDetailsVertical();
 
 	}
 

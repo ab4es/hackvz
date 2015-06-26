@@ -79,36 +79,28 @@ public class Trip {
 	}
 
 	public void toCSV() throws IOException {
-		FileWriter writer = new FileWriter("Team32.csv");
+		FileWriter writer = new FileWriter("./src/Team32.csv");
 		writer.append("Name,\n");
-		for (Location l: locations)
-			writer.append(l.name + ",\n");
+		for (int i = 0; i < endLocation; i++)
+			writer.append(locations[i].name + ",\n");
 		writer.flush();
 		writer.close();
 	}
 
-	@Override
-	public String toString() {
-		String res = "";
-		for (Location l : locations) {
-			res += l.toString();
-		}
-		return res;
+	public void printVisualDetailsHorizontal() {
+		for (int i = 0; i < endLocation; i++)
+			System.out.print(locations[i].getVisualDetails());
 	}
 	
-	public void print() {
-		for (Location loc: locations) {
-			System.out.println(loc.toString());
-		}
+	public void printVisualDetailsVertical() {
+		for (int i = 0; i < endLocation; i++)
+			System.out.println(locations[i].getVisualDetails());
 	}
 
-	public static void main(String[] args) throws NumberFormatException,
-			IOException {
+	public static void main(String[] args) throws Exception {
 		Trip t = new Trip();
-		Location loc1 = t.locations[0];
-		Location loc2 = t.locations[1];
-		DistanceMatrix matrix = new DistanceMatrix(loc1, loc2);
-		matrix.saveQueryData();
+		t.shuffleTrip();
+		FitnessCalc.getFitness(t);
 	}
 	
 

@@ -15,7 +15,7 @@ import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
 
 public class DistanceMatrix {
-	public static final String APIKey = "AIzaSyCOUnvZXwXKQP1-b3cu-TU_RJFHjnb9vcU";
+	public static final String APIKey = "AIzaSyCU0BdmpAoym6CbyhOQlDLg7Ud6RxCQsto";
 
 	static String urlString = "";
 	static String json = "";
@@ -24,8 +24,11 @@ public class DistanceMatrix {
 	Location location2;
 
 	public DistanceMatrix(Location loc1, Location loc2) {
+		// Initialize the two locations needed for the DistanceMatrix
 		location1 = loc1;
 		location2 = loc2;
+
+		// Create the URL string needed to query Google DistanceMatrix API
 		this.urlString = "https://maps.googleapis.com/maps/api/distancematrix/json?origins="
 				+ location1.latitutde
 				+ ","
@@ -38,7 +41,8 @@ public class DistanceMatrix {
 				+ APIKey;
 	}
 
-	static void readUrl() throws Exception {
+	// Load the entire JSON into a string
+	public void readUrl() throws Exception {
 		BufferedReader reader = null;
 		try {
 			URL url = new URL(urlString);
@@ -64,7 +68,8 @@ public class DistanceMatrix {
 				.getAsJsonArray("elements").get(0).getAsJsonObject()
 				.getAsJsonObject().getAsJsonObject("distance");
 		String distanceString = distance.get("text").getAsString();
-		// System.out.println(distanceString);
+
+		// Remove any unnecessary appends that come as part of the JSON
 		distanceString = distanceString.replaceAll(" mi", "");
 		distanceString = distanceString.replaceAll(" ft", "");
 		distanceString = distanceString.replaceAll(" in", "");
@@ -72,6 +77,7 @@ public class DistanceMatrix {
 		return Double.parseDouble(distanceString);
 	}
 
+	// Check if the query in question has already been called
 	public boolean queryDataExists() throws FileNotFoundException {
 		boolean exists = false;
 		Scanner scanner = new Scanner(new File("./src/QueryData.txt"));
@@ -85,6 +91,7 @@ public class DistanceMatrix {
 		return exists;
 	}
 
+	// Save the query to an existing text file
 	public void saveQueryData() throws IOException {
 		File file = new File("./src/QueryData.txt");
 		FileWriter fw = new FileWriter(file.getAbsoluteFile(), true);
@@ -95,6 +102,7 @@ public class DistanceMatrix {
 		bw.close();
 	}
 
+	// Return the distance between two locations from a previously stored query
 	public double retreiveQueryData() throws FileNotFoundException {
 		String orginLocation = location1.name;
 		String destinationLocation = location2.name;
@@ -109,6 +117,9 @@ public class DistanceMatrix {
 		return 0.0;
 	}
 
+	/*
+	 * Classes needed to parse the JSON from the Google DistanceMatrix API query
+	 */
 	static class Page {
 		List<String> destination_addresses;
 		List<String> origin_addresses;

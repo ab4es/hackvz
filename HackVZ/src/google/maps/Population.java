@@ -55,10 +55,8 @@ public class Population {
 		return trips[index];
 	}
 
-	public static void main(String[] args) throws NumberFormatException,
-			IOException {
-		Population pop = new Population(2, true);
-		pop.print();
+	public static void main(String[] args) throws Exception {
+		Population pop = new Population(1, true);
 	}
 
 }
