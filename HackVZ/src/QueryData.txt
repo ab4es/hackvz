@@ -41051,3 +41051,176 @@ Verizon 5444 Westheimer,Vocal Group Hall of Fame,1346.0
 Verizon 5444 Westheimer,National Aviation Hall of Fame,1116.0
 Verizon 5444 Westheimer,Verizon 100 Ne Loop 410,196.0
 NASA Johnson Space Center,International Tennis Hall of Fame,1813.0
+Verizon 239 W Rte 59,Verizon 239 W Rte 59,1.0
+Verizon 239 W Rte 59,Talking Stick Resort Arena,2424.0
+Verizon 239 W Rte 59,National Toy Hall of Fame,317.0
+Verizon 239 W Rte 59,Christian's Tailgate Bar & Grill,1645.0
+Verizon 239 W Rte 59,SeaWorld San Antonio,1855.0
+Verizon 239 W Rte 59,Galatoire's,1321.0
+Verizon 239 W Rte 59,Verizon 200 Ballardvale ST,218.0
+Verizon 239 W Rte 59,International Bowling Hall of Fame,1581.0
+Verizon 239 W Rte 59,Verizon 5000 Britton RD,568.0
+Verizon 239 W Rte 59,The Little Owl,33.6
+Verizon 239 W Rte 59,Verizon 99 Shawan Rd,219.0
+Verizon 239 W Rte 59,Dutch Wonderland,175.0
+Verizon 239 W Rte 59,NASA Johnson Space Center,1641.0
+Verizon 239 W Rte 59,Verizon 8 Neshaminy Interplex,103.0
+Verizon 239 W Rte 59,Perini Ranch Steakhouse,1760.0
+Verizon 239 W Rte 59,Texas Sports Hall of Fame,1659.0
+The Vortex,Verizon 140 West St,865.0
+Verizon 140 West St,Time Warner Cable Arena,632.0
+Betony,Magic Forest,204.0
+Jean Georges,Virginia Sports Hall of Fame and Museum,368.0
+Verizon 6360 Thompson Rd,Alabama Sports Hall of Fame,1043.0
+Alabama Sports Hall of Fame,National Jewish Sports Hall of Fame and Museum,1012.0
+National Jewish Sports Hall of Fame and Museum,International Motorsports Hall of Fame,990.0
+International Motorsports Hall of Fame,Chef's Table at Brooklyn Fare,943.0
+Verizon 221 E 37Th St,Verizon 239 W Rte 59,32.5
+Verizon 239 W Rte 59,Kings Dominion,341.0
+Brindle Room,McCrady's,764.0
+McCrady's,Corner Bistro,762.0
+Corner Bistro,Husk,763.0
+Husk,Alabama Jazz Hall of Fame,454.0
+Alabama Jazz Hall of Fame,National Toy Hall of Fame,965.0
+Verizon 30 Independence Blvd,Blue Hill at Stone Barns,68.1
+Alabama Jazz Hall of Fame,Verizon 6360 Thompson Rd,1041.0
+Atlanta Braves Museum and Hall of Fame,International Motorsports Hall of Fame,102.0
+International Motorsports Hall of Fame,Verizon 199 Fulton Ave,975.0
+Verizon 199 Fulton Ave,CityZen,251.0
+Komi,Verizon 7600 Montpelier Rd,21.0
+Seabreeze Amusement Park,Verizon 60 Public SQ,242.0
+National Soccer Hall of Fame,FIG,876.0
+Marshall Space Flight Center,The Little Owl,921.0
+The Little Owl,Il Buco Alimentari & Vineria,1.1
+Il Buco Alimentari & Vineria,Time Warner Cable Arena,632.0
+New York Mets Hall of Fame,Rasika,248.0
+Rasika,Alabama Music Hall of Fame,765.0
+Alabama Music Hall of Fame,Verizon 239 W Rte 59,1001.0
+Alder,Verizon 200 Ballardvale ST,224.0
+Verizon One Verizon WAY,Verizon 100 Southgate Pkwy,5.7
+Lexington Candy Shop,National Distance Running Hall of Fame,236.0
+National Distance Running Hall of Fame,Alder,244.0
+Harness Racing Museum & Hall of Fame,Camp Wilderness Resort,683.0
+Atlanta Braves Museum and Hall of Fame,Virginia Sports Hall of Fame and Museum,564.0
+Barclays Center,Verizon 999 W Main St,39.4
+Verizon 999 W Main St,Verizon 5055 N Point PKWY,819.0
+Verizon 5055 N Point PKWY,National Soccer Hall of Fame,926.0
+American Theater Hall of Fame,The Spotted Pig,2.7
+Verizon 741 Zeckendorf Blvd,Verizon 239 W Rte 59,48.4
+Verizon 239 W Rte 59,McCrady's,787.0
+McCrady's,The Great Escape & Splashwater Kingdom,956.0
+New York Mets Hall of Fame,Verizon 221 E 37Th St,9.7
+Sushi Nakazawa,Verizon 100 Southgate Pkwy,34.6
+Verizon 100 Southgate Pkwy,Verizon 13100 Columbia Pike,216.0
+Lexington Candy Shop,Blue Hill at Stone Barns,27.3
+Blue Hill at Stone Barns,Verizon 140 West St,31.9
+Verizon 140 West St,Inn at Little Washington,295.0
+Husk,Philips Arena,309.0
+Verizon 5055 N Point PKWY,Peter Luger,855.0
+Peter Luger,Babbo Ristorante,3.7
+Kings Dominion,Verizon 3011 Hungary Spring Rd,20.3
+National Women's Hall of Fame,Verizon 221 E 37Th St,270.0
+Verizon 221 E 37Th St,Rye Playland,27.0
+Il Buco Alimentari & Vineria,Georgia Sports Hall of Fame,896.0
+American Theater Hall of Fame,International Motorsports Hall of Fame,943.0
+North Carolina Sports Hall of Fame,CityZen,277.0
+McCrady's,Verizon 99 Shawan Rd,596.0
+Alabama Music Hall of Fame,Bacchanalia,260.0
+Atlanta Braves Museum and Hall of Fame,Georgia Sports Hall of Fame,83.7
+The Elm,Babbo Ristorante,5.2
+Marshall Space Flight Center,Al Di La,925.0
+Al Di La,Rasika,228.0
+Rasika,Verizon 22001 Loudoun County PKWY,30.2
+Verizon 99 Shawan Rd,Verizon 60 Public SQ,168.0
+Verizon 60 Public SQ,Jean Georges,125.0
+Alabama Sports Hall of Fame,Per Se,965.0
+Per Se,Le Bernardin,0.9
+Del Posto,Verizon 133 Calkins Rd,333.0
+Verizon 133 Calkins Rd,Verizon 239 W Rte 59,318.0
+Verizon 239 W Rte 59,Masa,30.7
+Verizon 5055 N Point PKWY,Verizon 999 W Main St,817.0
+Verizon 999 W Main St,Minetta Tavern,49.0
+Virginia Air & Space Center,Verizon 60 Public SQ,396.0
+Verizon 60 Public SQ,Verizon 50-60 Sylvan Rd,303.0
+Verizon 201 Centennial AVE,Rasika,203.0
+ABC Kitchen,Water Country USA,387.0
+Water Country USA,Ippudo,385.0
+Gramercy Tavern,The Vortex,869.0
+The Vortex,Six Flags Over Georgia,14.4
+Alabama Jazz Hall of Fame,Verizon 8 Neshaminy Interplex,907.0
+Rye Playland,wd~50,29.5
+wd~50,Virginia Sports Hall of Fame and Museum,366.0
+Hall of Fame for Great Americans,Betony,10.9
+Betony,Bronx Walk of Fame,6.9
+Verizon 6 Bowdoin Sq,International Motorsports Hall of Fame,1164.0
+International Motorsports Hall of Fame,Verizon 133 Calkins Rd,979.0
+Minibar by Jose Andres,Il Buco Alimentari & Vineria,228.0
+Verizon 8 Neshaminy Interplex,Verizon 50-60 Sylvan Rd,286.0
+ABC Kitchen,Verizon 99 Shawan Rd,196.0
+Verizon 99 Shawan Rd,Le Bernardin,198.0
+Betony,The Little Owl,2.9
+NoMad,Hall of Fame for Great Americans,11.7
+Hall of Fame for Great Americans,Gotham Bar & Grill,13.6
+Sushi Nakazawa,Irish American Baseball Hall of Fame,2.5
+Momofuku Ssam Bar,Per Se,3.5
+The Apollo Theatre Hall of Fame,The Varsity,880.0
+Rye Playland,Goddard Wallops Flight Facility,301.0
+Momofuku Ko,Alabama Music Hall of Fame,984.0
+Alabama Music Hall of Fame,Verizon 180 Washington Valley Rd,947.0
+Verizon 180 Washington Valley Rd,Busch Gardens Williamsburg,377.0
+Busch Gardens Williamsburg,Verizon 15 Chestnut St,561.0
+Wild Adventures Theme Park,Verizon 741 Zeckendorf Blvd,1024.0
+Verizon 741 Zeckendorf Blvd,International Motorsports Hall of Fame,973.0
+International Motorsports Hall of Fame,Water Country USA,678.0
+Water Country USA,Georgia Sports Hall of Fame,599.0
+Georgia Sports Hall of Fame,Daniel,898.0
+ABC Kitchen,Verizon 50-60 Sylvan Rd,206.0
+Verizon 50-60 Sylvan Rd,Betony,205.0
+Betony,Verizon 741 Zeckendorf Blvd,25.6
+Per Se,Verizon 13100 Columbia Pike,218.0
+Verizon 13100 Columbia Pike,Hominy Grill,550.0
+Hominy Grill,Verizon 200 Ballardvale ST,985.0
+Jean Georges,The Vortex,871.0
+The Vortex,FIG,310.0
+FIG,The Little Owl,761.0
+The Little Owl,The Great Escape & Splashwater Kingdom,204.0
+Alabama Sports Hall of Fame,Six Flags Over Georgia,137.0
+Langely Research Center,Bronx Walk of Fame,415.0
+Bronx Walk of Fame,Alabama Jazz Hall of Fame,973.0
+Alabama Jazz Hall of Fame,Verizon 99 Shawan Rd,785.0
+Verizon 99 Shawan Rd,Corner Bistro,196.0
+Corner Bistro,Marshall Space Flight Center,919.0
+Marshall Space Flight Center,Sushi Nakazawa,921.0
+Verizon One Verizon WAY,Masa,41.5
+Del Posto,Verizon 6 Bowdoin Sq,216.0
+Madison Square Garden,Corner Bistro,1.4
+Verizon 1717 Arch ST,Momofuku Ko,97.6
+New York Mets Hall of Fame,Verizon 8 Neshaminy Interplex,99.6
+Verizon 8 Neshaminy Interplex,Verizon 500 Summit Lake Dr,111.0
+Verizon 7600 Montpelier Rd,Komi,20.6
+Alabama Jazz Hall of Fame,Bronx Walk of Fame,974.0
+Bronx Walk of Fame,Verizon 300 Allegheny DR,398.0
+Six Flags Over Georgia,The Elm,884.0
+The Elm,Camp Wilderness Resort,649.0
+Camp Wilderness Resort,Verizon 221 E 37Th St,644.0
+Gotham Bar & Grill,Verizon 741 Zeckendorf Blvd,25.6
+Verizon 741 Zeckendorf Blvd,Verizon 13100 Columbia Pike,248.0
+Verizon 13100 Columbia Pike,Splish Splash,296.0
+Splish Splash,Verizon 180 Washington Valley Rd,121.0
+Rye Playland,Verizon 111 Main St,9.9
+Rasika,Verizon 999 W Main St,192.0
+Lexington Candy Shop,Verizon 385 Myles Standish Blvd,202.0
+Verizon 385 Myles Standish Blvd,Verizon 8 Neshaminy Interplex,287.0
+Verizon 8 Neshaminy Interplex,Hominy Grill,691.0
+FIG,NASCAR Hall of Fame,208.0
+International Motorsports Hall of Fame,Verizon 3011 Hungary Spring Rd,640.0
+Babbo Ristorante,Minetta Tavern,0.5
+Minetta Tavern,National Museum of Dance and Hall of Fame,182.0
+Verizon 15 Chestnut St,Six Flags Over Georgia,1057.0
+Six Flags Over Georgia,Il Buco Alimentari & Vineria,879.0
+Il Buco Alimentari & Vineria,National Soccer Hall of Fame,172.0
+Gramercy Tavern,Verizon 7600 Montpelier Rd,210.0
+Verizon 7600 Montpelier Rd,Bacchanalia,664.0
+Per Se,Masa,0.2
+Sushi Nakazawa,Verizon 5055 N Point PKWY,855.0
+Verizon 5055 N Point PKWY,Verizon 221 E 37Th St,855.0
